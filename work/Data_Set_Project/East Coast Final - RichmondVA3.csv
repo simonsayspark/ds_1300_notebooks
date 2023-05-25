@@ -1,0 +1,75 @@
+"Beach ID
+(Def.)","Beach Name
+(Def.)","Station
+ID
+(Def.)","Station Name
+(Def.)","County
+Name
+(Def.)","Identifier
+(Def.)","Start
+Date
+(Def.)","Start
+Time
+(Def.)","Zone
+Code
+(Def.)","Activity
+Type
+Code
+(Def.)","Characteristic
+Name
+(Def.)","Result Value
+Text
+(Def.)","Result
+Value
+(Def.)","Result
+Measure
+Unit","Result Comment
+(Def.)","Activity
+Depth
+Value
+(Def.)","Activity
+Depth
+Unit
+Code
+(Def.)","Result
+Analytical
+Method
+Identifier
+Context
+(Def.)","Result
+Analytical
+Method
+Identifier
+(Def.)","Result
+Analytical
+Method
+Name
+(Def.)","Sample Collection
+Method Identifier
+(Def.)","Sample Collection
+Method Name
+(Def.)","Field Gear
+(Def.)","Analysis
+Date
+Time
+(Def.)","Detection
+Quantitation
+Limit
+(Def.)"
+VA912105,"10TH VIEW, BEHIND QUALITY INN,1010 W OCEAN VIEW AVE",VA912105,"10TH VIEW, BEHIND QUALITY INN,1010 W OCEAN VIEW AVE",NORFOLK,4760,12-Sep-22,12:00:00 AM,EDT,Sample-Routine,Enterococcus,-,1,#/100mL,-,-,-,21VABCH,METH1,Fecal Coliform Procedure,ROUTINE,Routine Sampling,Water Bottle,-,-
+VA912105,"10TH VIEW, BEHIND QUALITY INN,1010 W OCEAN VIEW AVE",VA912105,"10TH VIEW, BEHIND QUALITY INN,1010 W OCEAN VIEW AVE",NORFOLK,4712,06-Sep-22,12:00:00 AM,EDT,Sample-Routine,Enterococcus,-,1,#/100mL,-,-,-,21VABCH,METH1,Fecal Coliform Procedure,ROUTINE,Routine Sampling,Water Bottle,-,-
+VA912105,"10TH VIEW, BEHIND QUALITY INN,1010 W OCEAN VIEW AVE",VA912105,"10TH VIEW, BEHIND QUALITY INN,1010 W OCEAN VIEW AVE",NORFOLK,4670,29-Aug-22,12:00:00 AM,EDT,Sample-Routine,Enterococcus,-,52,#/100mL,-,-,-,21VABCH,METH1,Fecal Coliform Procedure,ROUTINE,Routine Sampling,Water Bottle,-,-
+VA912105,"10TH VIEW, BEHIND QUALITY INN,1010 W OCEAN VIEW AVE",VA912105,"10TH VIEW, BEHIND QUALITY INN,1010 W OCEAN VIEW AVE",NORFOLK,4608,22-Aug-22,12:00:00 AM,EDT,Sample-Routine,Enterococcus,-,1,#/100mL,-,-,-,21VABCH,METH1,Fecal Coliform Procedure,ROUTINE,Routine Sampling,Water Bottle,-,-
+VA912105,"10TH VIEW, BEHIND QUALITY INN,1010 W OCEAN VIEW AVE",VA912105,"10TH VIEW, BEHIND QUALITY INN,1010 W OCEAN VIEW AVE",NORFOLK,4565,15-Aug-22,12:00:00 AM,EDT,Sample-Routine,Enterococcus,-,41,#/100mL,-,-,-,21VABCH,METH1,Fecal Coliform Procedure,ROUTINE,Routine Sampling,Water Bottle,-,-
+VA912105,"10TH VIEW, BEHIND QUALITY INN,1010 W OCEAN VIEW AVE",VA912105,"10TH VIEW, BEHIND QUALITY INN,1010 W OCEAN VIEW AVE",NORFOLK,4515,08-Aug-22,12:00:00 AM,EDT,Sample-Routine,Enterococcus,-,74,#/100mL,-,-,-,21VABCH,METH1,Fecal Coliform Procedure,ROUTINE,Routine Sampling,Water Bottle,-,-
+VA912105,"10TH VIEW, BEHIND QUALITY INN,1010 W OCEAN VIEW AVE",VA912105,"10TH VIEW, BEHIND QUALITY INN,1010 W OCEAN VIEW AVE",NORFOLK,4466,01-Aug-22,12:00:00 AM,EDT,Sample-Routine,Enterococcus,-,10,#/100mL,-,-,-,21VABCH,METH1,Fecal Coliform Procedure,ROUTINE,Routine Sampling,Water Bottle,-,-
+VA912105,"10TH VIEW, BEHIND QUALITY INN,1010 W OCEAN VIEW AVE",VA912105,"10TH VIEW, BEHIND QUALITY INN,1010 W OCEAN VIEW AVE",NORFOLK,4415,25-Jul-22,12:00:00 AM,EDT,Sample-Routine,Enterococcus,-,1,#/100mL,-,-,-,21VABCH,METH1,Fecal Coliform Procedure,ROUTINE,Routine Sampling,Water Bottle,-,-
+VA912105,"10TH VIEW, BEHIND QUALITY INN,1010 W OCEAN VIEW AVE",VA912105,"10TH VIEW, BEHIND QUALITY INN,1010 W OCEAN VIEW AVE",NORFOLK,4367,18-Jul-22,12:00:00 AM,EDT,Sample-Routine,Enterococcus,-,1,#/100mL,-,-,-,21VABCH,METH1,Fecal Coliform Procedure,ROUTINE,Routine Sampling,Water Bottle,-,-
+VA912105,"10TH VIEW, BEHIND QUALITY INN,1010 W OCEAN VIEW AVE",VA912105,"10TH VIEW, BEHIND QUALITY INN,1010 W OCEAN VIEW AVE",NORFOLK,4314,11-Jul-22,12:00:00 AM,EDT,Sample-Routine,Enterococcus,-,20,#/100mL,-,-,-,21VABCH,METH1,Fecal Coliform Procedure,ROUTINE,Routine Sampling,Water Bottle,-,-
+VA912105,"10TH VIEW, BEHIND QUALITY INN,1010 W OCEAN VIEW AVE",VA912105,"10TH VIEW, BEHIND QUALITY INN,1010 W OCEAN VIEW AVE",NORFOLK,4302,05-Jul-22,12:00:00 AM,EDT,Sample-Routine,Enterococcus,-,1,#/100mL,-,-,-,21VABCH,METH1,Fecal Coliform Procedure,ROUTINE,Routine Sampling,Water Bottle,-,-
+VA912105,"10TH VIEW, BEHIND QUALITY INN,1010 W OCEAN VIEW AVE",VA912105,"10TH VIEW, BEHIND QUALITY INN,1010 W OCEAN VIEW AVE",NORFOLK,4215,27-Jun-22,12:00:00 AM,EDT,Sample-Routine,Enterococcus,-,1,#/100mL,-,-,-,21VABCH,METH1,Fecal Coliform Procedure,ROUTINE,Routine Sampling,Water Bottle,-,-
+VA912105,"10TH VIEW, BEHIND QUALITY INN,1010 W OCEAN VIEW AVE",VA912105,"10TH VIEW, BEHIND QUALITY INN,1010 W OCEAN VIEW AVE",NORFOLK,4166,21-Jun-22,12:00:00 AM,EDT,Sample-Routine,Enterococcus,-,1,#/100mL,-,-,-,21VABCH,METH1,Fecal Coliform Procedure,ROUTINE,Routine Sampling,Water Bottle,-,-
+VA912105,"10TH VIEW, BEHIND QUALITY INN,1010 W OCEAN VIEW AVE",VA912105,"10TH VIEW, BEHIND QUALITY INN,1010 W OCEAN VIEW AVE",NORFOLK,4114,13-Jun-22,12:00:00 AM,EDT,Sample-Routine,Enterococcus,-,1,#/100mL,-,-,-,21VABCH,METH1,Fecal Coliform Procedure,ROUTINE,Routine Sampling,Water Bottle,-,-
+VA912105,"10TH VIEW, BEHIND QUALITY INN,1010 W OCEAN VIEW AVE",VA912105,"10TH VIEW, BEHIND QUALITY INN,1010 W OCEAN VIEW AVE",NORFOLK,4063,06-Jun-22,12:00:00 AM,EDT,Sample-Routine,Enterococcus,-,1,#/100mL,-,-,-,21VABCH,METH1,Fecal Coliform Procedure,ROUTINE,Routine Sampling,Water Bottle,-,-
+VA912105,"10TH VIEW, BEHIND QUALITY INN,1010 W OCEAN VIEW AVE",VA912105,"10TH VIEW, BEHIND QUALITY INN,1010 W OCEAN VIEW AVE",NORFOLK,4004,31-May-22,12:00:00 AM,EDT,Sample-Routine,Enterococcus,-,1,#/100mL,-,-,-,21VABCH,METH1,Fecal Coliform Procedure,ROUTINE,Routine Sampling,Water Bottle,-,-
+VA912105,"10TH VIEW, BEHIND QUALITY INN,1010 W OCEAN VIEW AVE",VA912105,"10TH VIEW, BEHIND QUALITY INN,1010 W OCEAN VIEW AVE",NORFOLK,3959,23-May-22,12:00:00 AM,EDT,Sample-Routine,Enterococcus,-,1,#/100mL,-,-,-,21VABCH,METH1,Fecal Coliform Procedure,ROUTINE,Routine Sampling,Water Bottle,-,-

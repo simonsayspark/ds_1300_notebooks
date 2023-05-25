@@ -1,0 +1,108 @@
+"Beach ID
+(Def.)","Beach Name
+(Def.)","Station
+ID
+(Def.)","Station Name
+(Def.)","County
+Name
+(Def.)","Identifier
+(Def.)","Start
+Date
+(Def.)","Start
+Time
+(Def.)","Zone
+Code
+(Def.)","Activity
+Type
+Code
+(Def.)","Characteristic
+Name
+(Def.)","Result Value
+Text
+(Def.)","Result
+Value
+(Def.)","Result
+Measure
+Unit","Result Comment
+(Def.)","Activity
+Depth
+Value
+(Def.)","Activity
+Depth
+Unit
+Code
+(Def.)","Result
+Analytical
+Method
+Identifier
+Context
+(Def.)","Result
+Analytical
+Method
+Identifier
+(Def.)","Result
+Analytical
+Method
+Name
+(Def.)","Sample Collection
+Method Identifier
+(Def.)","Sample Collection
+Method Name
+(Def.)","Field Gear
+(Def.)","Analysis
+Date
+Time
+(Def.)","Detection
+Quantitation
+Limit
+(Def.)"
+RI162580,Conimicut Point Beach,RI162580-02,Conimicut Point Beach - West,KENT,2203928-02,31-Aug-22,6:50:00 AM,EDT,Sample-Routine,Enterococcus,-,175,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI162580,Conimicut Point Beach,RI162580-01,Conimicut Point Beach - East,KENT,2203928-01,31-Aug-22,6:45:00 AM,EDT,Sample-Routine,Enterococcus,-,97,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI162580,Conimicut Point Beach,RI162580-02,Conimicut Point Beach - West,KENT,2203874-02,29-Aug-22,10:05:00 AM,EDT,Sample-Routine,Enterococcus,-,10,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI162580,Conimicut Point Beach,RI162580-01,Conimicut Point Beach - East,KENT,2203874-01,29-Aug-22,10:02:00 AM,EDT,Sample-Routine,Enterococcus,-,10,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI162580,Conimicut Point Beach,RI162580-02,Conimicut Point Beach - West,KENT,2203804-02,24-Aug-22,10:05:00 AM,EDT,Sample-Routine,Enterococcus,-,10,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI162580,Conimicut Point Beach,RI162580-01,Conimicut Point Beach - East,KENT,2203804-01,24-Aug-22,10:01:00 AM,EDT,Sample-Routine,Enterococcus,-,41,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI162580,Conimicut Point Beach,RI162580-02,Conimicut Point Beach - West,KENT,2203735-02,22-Aug-22,9:58:00 AM,EDT,Sample-Routine,Enterococcus,-,10,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI162580,Conimicut Point Beach,RI162580-01,Conimicut Point Beach - East,KENT,2203735-01,22-Aug-22,9:53:00 AM,EDT,Sample-Routine,Enterococcus,-,10,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI162580,Conimicut Point Beach,RI162580-02,Conimicut Point Beach - West,KENT,2203663-02,17-Aug-22,10:04:00 AM,EDT,Sample-Routine,Enterococcus,-,10,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI162580,Conimicut Point Beach,RI162580-01,Conimicut Point Beach - East,KENT,2203663-01,17-Aug-22,10:00:00 AM,EDT,Sample-Routine,Enterococcus,-,31,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI162580,Conimicut Point Beach,RI162580-02,Conimicut Point Beach - West,KENT,2203604-02,15-Aug-22,10:10:00 AM,EDT,Sample-Routine,Enterococcus,-,10,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI162580,Conimicut Point Beach,RI162580-01,Conimicut Point Beach - East,KENT,2203604-01,15-Aug-22,10:07:00 AM,EDT,Sample-Routine,Enterococcus,-,10,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI162580,Conimicut Point Beach,RI162580-02,Conimicut Point Beach - West,KENT,2203565-02,11-Aug-22,10:07:00 AM,EDT,Sample-Routine,Enterococcus,-,10,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI162580,Conimicut Point Beach,RI162580-01,Conimicut Point Beach - East,KENT,2203565-01,11-Aug-22,10:03:00 AM,EDT,Sample-Routine,Enterococcus,-,20,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI162580,Conimicut Point Beach,RI162580-02,Conimicut Point Beach - West,KENT,2203492-02,09-Aug-22,10:23:00 AM,EDT,Sample-Routine,Enterococcus,-,10,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI162580,Conimicut Point Beach,RI162580-01,Conimicut Point Beach - East,KENT,2203492-01,09-Aug-22,10:19:00 AM,EDT,Sample-Routine,Enterococcus,-,20,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI162580,Conimicut Point Beach,RI162580-02,Conimicut Point Beach - West,KENT,2203401-02,03-Aug-22,10:40:00 AM,EDT,Sample-Routine,Enterococcus,-,10,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI162580,Conimicut Point Beach,RI162580-01,Conimicut Point Beach - East,KENT,2203401-01,03-Aug-22,10:34:00 AM,EDT,Sample-Routine,Enterococcus,-,10,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI162580,Conimicut Point Beach,RI162580-02,Conimicut Point Beach - West,KENT,2203324-02,01-Aug-22,10:14:00 AM,EDT,Sample-Routine,Enterococcus,-,10,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI162580,Conimicut Point Beach,RI162580-01,Conimicut Point Beach - East,KENT,2203324-01,01-Aug-22,10:10:00 AM,EDT,Sample-Routine,Enterococcus,-,10,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI162580,Conimicut Point Beach,RI162580-02,Conimicut Point Beach - West,KENT,2203232-02,27-Jul-22,10:30:00 AM,EDT,Sample-Routine,Enterococcus,-,10,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI162580,Conimicut Point Beach,RI162580-01,Conimicut Point Beach - East,KENT,2203232-01,27-Jul-22,10:27:00 AM,EDT,Sample-Routine,Enterococcus,-,20,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI162580,Conimicut Point Beach,RI162580-02,Conimicut Point Beach - West,KENT,2203151-02,25-Jul-22,10:31:00 AM,EDT,Sample-Routine,Enterococcus,-,10,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI162580,Conimicut Point Beach,RI162580-01,Conimicut Point Beach - East,KENT,2203151-01,25-Jul-22,10:28:00 AM,EDT,Sample-Routine,Enterococcus,-,20,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI162580,Conimicut Point Beach,RI162580-02,Conimicut Point Beach - West,KENT,2203077-02,20-Jul-22,10:38:00 AM,EDT,Sample-Routine,Enterococcus,-,41,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI162580,Conimicut Point Beach,RI162580-01,Conimicut Point Beach - East,KENT,2203077-01,20-Jul-22,10:30:00 AM,EDT,Sample-Routine,Enterococcus,-,10,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI162580,Conimicut Point Beach,RI162580-02,Conimicut Point Beach - West,KENT,2203015-02,18-Jul-22,10:30:00 AM,EDT,Sample-Routine,Enterococcus,-,30,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI162580,Conimicut Point Beach,RI162580-01,Conimicut Point Beach - East,KENT,2203015-01,18-Jul-22,10:24:00 AM,EDT,Sample-Routine,Enterococcus,-,10,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI162580,Conimicut Point Beach,RI162580-02,Conimicut Point Beach - West,KENT,2202918-02,13-Jul-22,10:50:00 AM,EDT,Sample-Routine,Enterococcus,-,10,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI162580,Conimicut Point Beach,RI162580-01,Conimicut Point Beach - East,KENT,2202918-01,13-Jul-22,10:58:00 AM,EDT,Sample-Routine,Enterococcus,-,10,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI162580,Conimicut Point Beach,RI162580-02,Conimicut Point Beach - West,KENT,2202847-02,11-Jul-22,9:30:00 AM,EDT,Sample-Routine,Enterococcus,-,10,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI162580,Conimicut Point Beach,RI162580-01,Conimicut Point Beach - East,KENT,2202847-01,11-Jul-22,9:25:00 AM,EDT,Sample-Routine,Enterococcus,-,10,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI162580,Conimicut Point Beach,RI162580-02,Conimicut Point Beach - West,KENT,2202798-02,07-Jul-22,10:31:00 AM,EDT,Sample-Routine,Enterococcus,-,20,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI162580,Conimicut Point Beach,RI162580-01,Conimicut Point Beach - East,KENT,2202798-01,07-Jul-22,10:26:00 AM,EDT,Sample-Routine,Enterococcus,-,10,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI162580,Conimicut Point Beach,RI162580-02,Conimicut Point Beach - West,KENT,2202708-02,05-Jul-22,10:40:00 AM,EDT,Sample-Routine,Enterococcus,-,20,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI162580,Conimicut Point Beach,RI162580-01,Conimicut Point Beach - East,KENT,2202708-01,05-Jul-22,10:32:00 AM,EDT,Sample-Routine,Enterococcus,-,63,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI162580,Conimicut Point Beach,RI162580-02,Conimicut Point Beach - West,KENT,2202632-02,29-Jun-22,10:30:00 AM,EDT,Sample-Routine,Enterococcus,-,63,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI162580,Conimicut Point Beach,RI162580-01,Conimicut Point Beach - East,KENT,2202632-01,29-Jun-22,10:27:00 AM,EDT,Sample-Routine,Enterococcus,-,10,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI162580,Conimicut Point Beach,RI162580-02,Conimicut Point Beach - West,KENT,2202552-02,27-Jun-22,9:42:00 AM,EDT,Sample-Routine,Enterococcus,-,759,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI162580,Conimicut Point Beach,RI162580-01,Conimicut Point Beach - East,KENT,2202552-01,27-Jun-22,9:38:00 AM,EDT,Sample-Routine,Enterococcus,-,697,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI162580,Conimicut Point Beach,RI162580-02,Conimicut Point Beach - West,KENT,2202477-02,22-Jun-22,10:46:00 AM,EDT,Sample-Routine,Enterococcus,-,10,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI162580,Conimicut Point Beach,RI162580-01,Conimicut Point Beach - East,KENT,2202477-01,22-Jun-22,10:50:00 AM,EDT,Sample-Routine,Enterococcus,-,10,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI162580,Conimicut Point Beach,RI162580-02,Conimicut Point Beach - West,KENT,2202416-02,20-Jun-22,10:25:00 AM,EDT,Sample-Routine,Enterococcus,-,10,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI162580,Conimicut Point Beach,RI162580-01,Conimicut Point Beach - East,KENT,2202416-01,20-Jun-22,10:20:00 AM,EDT,Sample-Routine,Enterococcus,-,10,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI162580,Conimicut Point Beach,RI162580-02,Conimicut Point Beach - West,KENT,2202339-02,15-Jun-22,10:16:00 AM,EDT,Sample-Routine,Enterococcus,-,521,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI162580,Conimicut Point Beach,RI162580-01,Conimicut Point Beach - East,KENT,2202339-01,15-Jun-22,10:10:00 AM,EDT,Sample-Routine,Enterococcus,-,299,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI162580,Conimicut Point Beach,RI162580-02,Conimicut Point Beach - West,KENT,2202272-02,13-Jun-22,10:17:00 AM,EDT,Sample-Routine,Enterococcus,-,2910,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI162580,Conimicut Point Beach,RI162580-01,Conimicut Point Beach - East,KENT,2202272-01,13-Jun-22,10:12:00 AM,EDT,Sample-Routine,Enterococcus,-,2050,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI162580,Conimicut Point Beach,RI162580-02,Conimicut Point Beach - West,KENT,2202198-02,08-Jun-22,11:06:00 AM,EDT,Sample-Routine,Enterococcus,-,933,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI162580,Conimicut Point Beach,RI162580-01,Conimicut Point Beach - East,KENT,2202198-01,08-Jun-22,10:55:00 AM,EDT,Sample-Routine,Enterococcus,-,241,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-

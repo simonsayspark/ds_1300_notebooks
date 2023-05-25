@@ -1,0 +1,91 @@
+"Beach ID
+(Def.)","Beach Name
+(Def.)","Station
+ID
+(Def.)","Station Name
+(Def.)","County
+Name
+(Def.)","Identifier
+(Def.)","Start
+Date
+(Def.)","Start
+Time
+(Def.)","Zone
+Code
+(Def.)","Activity
+Type
+Code
+(Def.)","Characteristic
+Name
+(Def.)","Result Value
+Text
+(Def.)","Result
+Value
+(Def.)","Result
+Measure
+Unit","Result Comment
+(Def.)","Activity
+Depth
+Value
+(Def.)","Activity
+Depth
+Unit
+Code
+(Def.)","Result
+Analytical
+Method
+Identifier
+Context
+(Def.)","Result
+Analytical
+Method
+Identifier
+(Def.)","Result
+Analytical
+Method
+Name
+(Def.)","Sample Collection
+Method Identifier
+(Def.)","Sample Collection
+Method Name
+(Def.)","Field Gear
+(Def.)","Analysis
+Date
+Time
+(Def.)","Detection
+Quantitation
+Limit
+(Def.)"
+MD129428,North Point State Park,BANorth,North Point State Park,BALTIMORE,BANorth19946Sample-RoutineWater,22-Aug-22,-,-,Sample-Routine,Enterococcus,-,160,MPN/100mL,-,-,-,ASTM,D6503-99,Standard Test Method for Enterococci in Water Using Enterolert,SP-001,Water Grab Sampling,Water Sampler (Other),-,-
+MD129428,North Point State Park,BANorth,North Point State Park,BALTIMORE,BANorth19945Sample-RoutineWater,22-Aug-22,-,-,Sample-Routine,Enterococcus,-,90,MPN/100mL,-,-,-,ASTM,D6503-99,Standard Test Method for Enterococci in Water Using Enterolert,SP-001,Water Grab Sampling,Water Sampler (Other),-,-
+MD129428,North Point State Park,BANorth,North Point State Park,BALTIMORE,BANorth19944Sample-RoutineWater,22-Aug-22,-,-,Sample-Routine,Enterococcus,-,220,MPN/100mL,-,-,-,ASTM,D6503-99,Standard Test Method for Enterococci in Water Using Enterolert,SP-001,Water Grab Sampling,Water Sampler (Other),-,-
+MD129428,North Point State Park,BANorth,North Point State Park,BALTIMORE,BANorth19097Sample-RoutineWater,25-Aug-22,-,-,Sample-Routine,Enterococcus,-,40,MPN/100mL,-,-,-,ASTM,D6503-99,Standard Test Method for Enterococci in Water Using Enterolert,SP-001,Water Grab Sampling,Water Sampler (Other),-,-
+MD129428,North Point State Park,BANorth,North Point State Park,BALTIMORE,BANorth19096Sample-RoutineWater,25-Aug-22,-,-,Sample-Routine,Enterococcus,-,10,MPN/100mL,-,-,-,ASTM,D6503-99,Standard Test Method for Enterococci in Water Using Enterolert,SP-001,Water Grab Sampling,Water Sampler (Other),-,-
+MD129428,North Point State Park,BANorth,North Point State Park,BALTIMORE,BANorth19095Sample-RoutineWater,25-Aug-22,-,-,Sample-Routine,Enterococcus,-,10,MPN/100mL,-,-,-,ASTM,D6503-99,Standard Test Method for Enterococci in Water Using Enterolert,SP-001,Water Grab Sampling,Water Sampler (Other),-,-
+MD129428,North Point State Park,BANorth,North Point State Park,BALTIMORE,BANorth18494Sample-RoutineWater,08-Aug-22,-,-,Sample-Routine,Enterococcus,-,290,MPN/100mL,-,-,-,ASTM,D6503-99,Standard Test Method for Enterococci in Water Using Enterolert,SP-001,Water Grab Sampling,Water Sampler (Other),-,-
+MD129428,North Point State Park,BANorth,North Point State Park,BALTIMORE,BANorth18493Sample-RoutineWater,08-Aug-22,-,-,Sample-Routine,Enterococcus,-,10,MPN/100mL,-,-,-,ASTM,D6503-99,Standard Test Method for Enterococci in Water Using Enterolert,SP-001,Water Grab Sampling,Water Sampler (Other),-,-
+MD129428,North Point State Park,BANorth,North Point State Park,BALTIMORE,BANorth18492Sample-RoutineWater,08-Aug-22,-,-,Sample-Routine,Enterococcus,-,20,MPN/100mL,-,-,-,ASTM,D6503-99,Standard Test Method for Enterococci in Water Using Enterolert,SP-001,Water Grab Sampling,Water Sampler (Other),-,-
+MD129428,North Point State Park,BANorth,North Point State Park,BALTIMORE,BANorth17688Sample-RoutineWater,25-Jul-22,-,-,Sample-Routine,Enterococcus,-,80,MPN/100mL,-,-,-,ASTM,D6503-99,Standard Test Method for Enterococci in Water Using Enterolert,SP-001,Water Grab Sampling,Water Sampler (Other),-,-
+MD129428,North Point State Park,BANorth,North Point State Park,BALTIMORE,BANorth17687Sample-RoutineWater,25-Jul-22,-,-,Sample-Routine,Enterococcus,-,40,MPN/100mL,-,-,-,ASTM,D6503-99,Standard Test Method for Enterococci in Water Using Enterolert,SP-001,Water Grab Sampling,Water Sampler (Other),-,-
+MD129428,North Point State Park,BANorth,North Point State Park,BALTIMORE,BANorth17686Sample-RoutineWater,25-Jul-22,-,-,Sample-Routine,Enterococcus,-,10,MPN/100mL,-,-,-,ASTM,D6503-99,Standard Test Method for Enterococci in Water Using Enterolert,SP-001,Water Grab Sampling,Water Sampler (Other),-,-
+MD129428,North Point State Park,BANorth,North Point State Park,BALTIMORE,BANorth16714Sample-RoutineWater,12-Jul-22,-,-,Sample-Routine,Enterococcus,-,10,MPN/100mL,-,-,-,ASTM,D6503-99,Standard Test Method for Enterococci in Water Using Enterolert,SP-001,Water Grab Sampling,Water Sampler (Other),-,-
+MD129428,North Point State Park,BANorth,North Point State Park,BALTIMORE,BANorth16713Sample-RoutineWater,12-Jul-22,-,-,Sample-Routine,Enterococcus,-,10,MPN/100mL,-,-,-,ASTM,D6503-99,Standard Test Method for Enterococci in Water Using Enterolert,SP-001,Water Grab Sampling,Water Sampler (Other),-,-
+MD129428,North Point State Park,BANorth,North Point State Park,BALTIMORE,BANorth16712Sample-RoutineWater,12-Jul-22,-,-,Sample-Routine,Enterococcus,-,20,MPN/100mL,-,-,-,ASTM,D6503-99,Standard Test Method for Enterococci in Water Using Enterolert,SP-001,Water Grab Sampling,Water Sampler (Other),-,-
+MD129428,North Point State Park,BANorth,North Point State Park,BALTIMORE,BANorth15759Sample-RoutineWater,27-Jun-22,-,-,Sample-Routine,Enterococcus,-,10,MPN/100mL,-,-,-,ASTM,D6503-99,Standard Test Method for Enterococci in Water Using Enterolert,SP-001,Water Grab Sampling,Water Sampler (Other),-,-
+MD129428,North Point State Park,BANorth,North Point State Park,BALTIMORE,BANorth15758Sample-RoutineWater,27-Jun-22,-,-,Sample-Routine,Enterococcus,-,20,MPN/100mL,-,-,-,ASTM,D6503-99,Standard Test Method for Enterococci in Water Using Enterolert,SP-001,Water Grab Sampling,Water Sampler (Other),-,-
+MD129428,North Point State Park,BANorth,North Point State Park,BALTIMORE,BANorth15757Sample-RoutineWater,27-Jun-22,-,-,Sample-Routine,Enterococcus,-,20,MPN/100mL,-,-,-,ASTM,D6503-99,Standard Test Method for Enterococci in Water Using Enterolert,SP-001,Water Grab Sampling,Water Sampler (Other),-,-
+MD129428,North Point State Park,BANorth,North Point State Park,BALTIMORE,BANorth15192Sample-RoutineWater,02-Jun-22,-,-,Sample-Routine,Enterococcus,-,10,MPN/100mL,Beach NP1,-,-,ASTM,D6503-99,Standard Test Method for Enterococci in Water Using Enterolert,SP-001,Water Grab Sampling,Water Sampler (Other),-,-
+MD129428,North Point State Park,BANorth,North Point State Park,BALTIMORE,BANorth14927Sample-RoutineWater,07-Jun-22,-,-,Sample-Routine,Enterococcus,-,10,MPN/100mL,Beach NP3,-,-,ASTM,D6503-99,Standard Test Method for Enterococci in Water Using Enterolert,SP-001,Water Grab Sampling,Water Sampler (Other),-,-
+MD129428,North Point State Park,BANorth,North Point State Park,BALTIMORE,BANorth14926Sample-RoutineWater,07-Jun-22,-,-,Sample-Routine,Enterococcus,-,30,MPN/100mL,Beach NP2,-,-,ASTM,D6503-99,Standard Test Method for Enterococci in Water Using Enterolert,SP-001,Water Grab Sampling,Water Sampler (Other),-,-
+MD129428,North Point State Park,BANorth,North Point State Park,BALTIMORE,BANorth14925Sample-RoutineWater,07-Jun-22,-,-,Sample-Routine,Enterococcus,-,10,MPN/100mL,Beach NP1,-,-,ASTM,D6503-99,Standard Test Method for Enterococci in Water Using Enterolert,SP-001,Water Grab Sampling,Water Sampler (Other),-,-
+MD129428,North Point State Park,BANorth,North Point State Park,BALTIMORE,BANorth14442Sample-RoutineWater,03-Jun-22,-,-,Sample-Routine,Enterococcus,-,20,MPN/100mL,-,-,-,ASTM,D6503-99,Standard Test Method for Enterococci in Water Using Enterolert,SP-001,Water Grab Sampling,Water Sampler (Other),-,-
+MD129428,North Point State Park,BANorth,North Point State Park,BALTIMORE,BANorth14441Sample-RoutineWater,03-Jun-22,-,-,Sample-Routine,Enterococcus,-,10,MPN/100mL,-,-,-,ASTM,D6503-99,Standard Test Method for Enterococci in Water Using Enterolert,SP-001,Water Grab Sampling,Water Sampler (Other),-,-
+MD129428,North Point State Park,BANorth,North Point State Park,BALTIMORE,BANorth14440Sample-RoutineWater,03-Jun-22,-,-,Sample-Routine,Enterococcus,-,10,MPN/100mL,-,-,-,ASTM,D6503-99,Standard Test Method for Enterococci in Water Using Enterolert,SP-001,Water Grab Sampling,Water Sampler (Other),-,-
+MD129428,North Point State Park,BANorth,North Point State Park,BALTIMORE,BANorth14439Sample-RoutineWater,03-Jun-22,-,-,Sample-Routine,Enterococcus,-,10,MPN/100mL,-,-,-,ASTM,D6503-99,Standard Test Method for Enterococci in Water Using Enterolert,SP-001,Water Grab Sampling,Water Sampler (Other),-,-
+MD129428,North Point State Park,BANorth,North Point State Park,BALTIMORE,BANorth14438Sample-RoutineWater,03-Jun-22,-,-,Sample-Routine,Enterococcus,-,10,MPN/100mL,-,-,-,ASTM,D6503-99,Standard Test Method for Enterococci in Water Using Enterolert,SP-001,Water Grab Sampling,Water Sampler (Other),-,-
+MD129428,North Point State Park,BANorth,North Point State Park,BALTIMORE,BANorth14437Sample-RoutineWater,10-May-22,-,-,Sample-Routine,Enterococcus,-,10,MPN/100mL,Beach NP3,-,-,ASTM,D6503-99,Standard Test Method for Enterococci in Water Using Enterolert,SP-001,Water Grab Sampling,Water Sampler (Other),-,-
+MD129428,North Point State Park,BANorth,North Point State Park,BALTIMORE,BANorth14436Sample-RoutineWater,10-May-22,-,-,Sample-Routine,Enterococcus,-,20,MPN/100mL,Beach NP2,-,-,ASTM,D6503-99,Standard Test Method for Enterococci in Water Using Enterolert,SP-001,Water Grab Sampling,Water Sampler (Other),-,-
+MD129428,North Point State Park,BANorth,North Point State Park,BALTIMORE,BANorth14435Sample-RoutineWater,10-May-22,-,-,Sample-Routine,Enterococcus,-,10,MPN/100mL,Beach NP1,-,-,ASTM,D6503-99,Standard Test Method for Enterococci in Water Using Enterolert,SP-001,Water Grab Sampling,Water Sampler (Other),-,-
+MD129428,North Point State Park,BANorth,North Point State Park,BALTIMORE,BANorth14077Sample-RoutineWater,23-May-22,-,-,Sample-Routine,Enterococcus,-,10,MPN/100mL,Beach NP3,-,-,ASTM,D6503-99,Standard Test Method for Enterococci in Water Using Enterolert,SP-001,Water Grab Sampling,Water Sampler (Other),-,-
+MD129428,North Point State Park,BANorth,North Point State Park,BALTIMORE,BANorth14076Sample-RoutineWater,23-May-22,-,-,Sample-Routine,Enterococcus,-,10,MPN/100mL,Beach NP2,-,-,ASTM,D6503-99,Standard Test Method for Enterococci in Water Using Enterolert,SP-001,Water Grab Sampling,Water Sampler (Other),-,-
+MD129428,North Point State Park,BANorth,North Point State Park,BALTIMORE,BANorth14075Sample-RoutineWater,23-May-22,-,-,Sample-Routine,Enterococcus,-,10,MPN/100mL,Beach NP1,-,-,ASTM,D6503-99,Standard Test Method for Enterococci in Water Using Enterolert,SP-001,Water Grab Sampling,Water Sampler (Other),-,-

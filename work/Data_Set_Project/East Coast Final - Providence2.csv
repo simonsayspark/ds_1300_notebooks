@@ -1,0 +1,108 @@
+"Beach ID
+(Def.)","Beach Name
+(Def.)","Station
+ID
+(Def.)","Station Name
+(Def.)","County
+Name
+(Def.)","Identifier
+(Def.)","Start
+Date
+(Def.)","Start
+Time
+(Def.)","Zone
+Code
+(Def.)","Activity
+Type
+Code
+(Def.)","Characteristic
+Name
+(Def.)","Result Value
+Text
+(Def.)","Result
+Value
+(Def.)","Result
+Measure
+Unit","Result Comment
+(Def.)","Activity
+Depth
+Value
+(Def.)","Activity
+Depth
+Unit
+Code
+(Def.)","Result
+Analytical
+Method
+Identifier
+Context
+(Def.)","Result
+Analytical
+Method
+Identifier
+(Def.)","Result
+Analytical
+Method
+Name
+(Def.)","Sample Collection
+Method Identifier
+(Def.)","Sample Collection
+Method Name
+(Def.)","Field Gear
+(Def.)","Analysis
+Date
+Time
+(Def.)","Detection
+Quantitation
+Limit
+(Def.)"
+RI327519,Oakland Beach,RI327519-03,OAKLAND BEACH - WEST,KENT,2203929-03,31-Aug-22,6:25:00 AM,EDT,Sample-Routine,Enterococcus,-,97,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI327519,Oakland Beach,RI327519-02,Oakland Beach - East,KENT,2203929-02,31-Aug-22,6:30:00 AM,EDT,Sample-Routine,Enterococcus,-,20,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI327519,Oakland Beach,RI327519-01,Oakland Beach - Center,KENT,2203929-01,31-Aug-22,6:23:00 AM,EDT,Sample-Routine,Enterococcus,-,158,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI327519,Oakland Beach,RI327519-03,OAKLAND BEACH - WEST,KENT,2203873-03,29-Aug-22,9:34:00 AM,EDT,Sample-Routine,Enterococcus,-,10,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI327519,Oakland Beach,RI327519-02,Oakland Beach - East,KENT,2203873-02,29-Aug-22,9:40:00 AM,EDT,Sample-Routine,Enterococcus,-,10,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI327519,Oakland Beach,RI327519-01,Oakland Beach - Center,KENT,2203873-01,29-Aug-22,9:30:00 AM,EDT,Sample-Routine,Enterococcus,-,10,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI327519,Oakland Beach,RI327519-03,OAKLAND BEACH - WEST,KENT,2203805-03,24-Aug-22,9:40:00 AM,EDT,Sample-Routine,Enterococcus,-,10,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI327519,Oakland Beach,RI327519-02,Oakland Beach - East,KENT,2203805-02,24-Aug-22,9:33:00 AM,EDT,Sample-Routine,Enterococcus,-,10,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI327519,Oakland Beach,RI327519-01,Oakland Beach - Center,KENT,2203805-01,24-Aug-22,9:36:00 AM,EDT,Sample-Routine,Enterococcus,-,10,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI327519,Oakland Beach,RI327519-03,OAKLAND BEACH - WEST,KENT,2203736-03,22-Aug-22,9:28:00 AM,EDT,Sample-Routine,Enterococcus,-,10,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI327519,Oakland Beach,RI327519-02,Oakland Beach - East,KENT,2203736-02,22-Aug-22,9:38:00 AM,EDT,Sample-Routine,Enterococcus,-,10,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI327519,Oakland Beach,RI327519-01,Oakland Beach - Center,KENT,2203736-01,22-Aug-22,9:26:00 AM,EDT,Sample-Routine,Enterococcus,-,10,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI327519,Oakland Beach,RI327519-03,OAKLAND BEACH - WEST,KENT,2203664-03,17-Aug-22,9:30:00 AM,EDT,Sample-Routine,Enterococcus,-,10,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI327519,Oakland Beach,RI327519-02,Oakland Beach - East,KENT,2203664-02,17-Aug-22,9:38:00 AM,EDT,Sample-Routine,Enterococcus,-,10,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI327519,Oakland Beach,RI327519-01,Oakland Beach - Center,KENT,2203664-01,17-Aug-22,9:28:00 AM,EDT,Sample-Routine,Enterococcus,-,10,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI327519,Oakland Beach,RI327519-03,OAKLAND BEACH - WEST,KENT,2203603-03,15-Aug-22,9:37:00 AM,EDT,Sample-Routine,Enterococcus,-,10,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI327519,Oakland Beach,RI327519-02,Oakland Beach - East,KENT,2203603-02,15-Aug-22,9:42:00 AM,EDT,Sample-Routine,Enterococcus,-,10,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI327519,Oakland Beach,RI327519-01,Oakland Beach - Center,KENT,2203603-01,15-Aug-22,9:40:00 AM,EDT,Sample-Routine,Enterococcus,-,10,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI327519,Oakland Beach,RI327519-03,OAKLAND BEACH - WEST,KENT,2203564-03,11-Aug-22,9:27:00 AM,EDT,Sample-Routine,Enterococcus,-,41,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI327519,Oakland Beach,RI327519-02,Oakland Beach - East,KENT,2203564-02,11-Aug-22,9:34:00 AM,EDT,Sample-Routine,Enterococcus,-,41,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI327519,Oakland Beach,RI327519-01,Oakland Beach - Center,KENT,2203564-01,11-Aug-22,9:32:00 AM,EDT,Sample-Routine,Enterococcus,-,10,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI327519,Oakland Beach,RI327519-03,OAKLAND BEACH - WEST,KENT,2203493-03,09-Aug-22,9:53:00 AM,EDT,Sample-Routine,Enterococcus,-,10,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI327519,Oakland Beach,RI327519-02,Oakland Beach - East,KENT,2203493-02,09-Aug-22,10:01:00 AM,EDT,Sample-Routine,Enterococcus,-,10,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI327519,Oakland Beach,RI327519-01,Oakland Beach - Center,KENT,2203493-01,09-Aug-22,9:50:00 AM,EDT,Sample-Routine,Enterococcus,-,20,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI327519,Oakland Beach,RI327519-03,OAKLAND BEACH - WEST,KENT,2203400-03,03-Aug-22,10:12:00 AM,EDT,Sample-Routine,Enterococcus,-,10,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI327519,Oakland Beach,RI327519-02,Oakland Beach - East,KENT,2203400-02,03-Aug-22,10:06:00 AM,EDT,Sample-Routine,Enterococcus,-,10,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI327519,Oakland Beach,RI327519-01,Oakland Beach - Center,KENT,2203400-01,03-Aug-22,10:10:00 AM,EDT,Sample-Routine,Enterococcus,-,10,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI327519,Oakland Beach,RI327519-03,OAKLAND BEACH - WEST,KENT,2203323-03,01-Aug-22,9:48:00 AM,EDT,Sample-Routine,Enterococcus,-,10,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI327519,Oakland Beach,RI327519-02,Oakland Beach - East,KENT,2203323-02,01-Aug-22,9:54:00 AM,EDT,Sample-Routine,Enterococcus,-,10,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI327519,Oakland Beach,RI327519-01,Oakland Beach - Center,KENT,2203323-01,01-Aug-22,9:45:00 AM,EDT,Sample-Routine,Enterococcus,-,10,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI327519,Oakland Beach,RI327519-03,OAKLAND BEACH - WEST,KENT,2203233-03,27-Jul-22,10:00:00 AM,EDT,Sample-Routine,Enterococcus,-,10,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI327519,Oakland Beach,RI327519-02,Oakland Beach - East,KENT,2203233-02,27-Jul-22,10:07:00 AM,EDT,Sample-Routine,Enterococcus,-,10,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI327519,Oakland Beach,RI327519-01,Oakland Beach - Center,KENT,2203233-01,27-Jul-22,10:05:00 AM,EDT,Sample-Routine,Enterococcus,-,10,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI327519,Oakland Beach,RI327519-03,OAKLAND BEACH - WEST,KENT,2203152-03,25-Jul-22,10:02:00 AM,EDT,Sample-Routine,Enterococcus,-,10,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI327519,Oakland Beach,RI327519-02,Oakland Beach - East,KENT,2203152-02,25-Jul-22,10:14:00 AM,EDT,Sample-Routine,Enterococcus,-,10,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI327519,Oakland Beach,RI327519-01,Oakland Beach - Center,KENT,2203152-01,25-Jul-22,10:07:00 AM,EDT,Sample-Routine,Enterococcus,-,10,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI327519,Oakland Beach,RI327519-03,OAKLAND BEACH - WEST,KENT,2203076-03,20-Jul-22,10:07:00 AM,EDT,Sample-Routine,Enterococcus,-,41,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI327519,Oakland Beach,RI327519-02,Oakland Beach - East,KENT,2203076-02,20-Jul-22,10:15:00 AM,EDT,Sample-Routine,Enterococcus,-,10,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI327519,Oakland Beach,RI327519-01,Oakland Beach - Center,KENT,2203076-01,20-Jul-22,10:05:00 AM,EDT,Sample-Routine,Enterococcus,-,10,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI327519,Oakland Beach,RI327519-03,OAKLAND BEACH - WEST,KENT,2203014-03,18-Jul-22,10:05:00 AM,EDT,Sample-Routine,Enterococcus,-,10,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI327519,Oakland Beach,RI327519-02,Oakland Beach - East,KENT,2203014-02,18-Jul-22,9:56:00 AM,EDT,Sample-Routine,Enterococcus,-,10,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI327519,Oakland Beach,RI327519-01,Oakland Beach - Center,KENT,2203014-01,18-Jul-22,10:00:00 AM,EDT,Sample-Routine,Enterococcus,-,10,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI327519,Oakland Beach,RI327519-03,OAKLAND BEACH - WEST,KENT,2202917-03,13-Jul-22,10:10:00 AM,EDT,Sample-Routine,Enterococcus,-,10,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI327519,Oakland Beach,RI327519-02,Oakland Beach - East,KENT,2202917-02,13-Jul-22,10:20:00 AM,EDT,Sample-Routine,Enterococcus,-,10,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI327519,Oakland Beach,RI327519-01,Oakland Beach - Center,KENT,2202917-01,13-Jul-22,10:04:00 AM,EDT,Sample-Routine,Enterococcus,-,10,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI327519,Oakland Beach,RI327519-03,OAKLAND BEACH - WEST,KENT,2202846-03,11-Jul-22,9:05:00 AM,EDT,Sample-Routine,Enterococcus,-,20,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI327519,Oakland Beach,RI327519-02,Oakland Beach - East,KENT,2202846-02,11-Jul-22,8:59:00 AM,EDT,Sample-Routine,Enterococcus,-,10,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI327519,Oakland Beach,RI327519-01,Oakland Beach - Center,KENT,2202846-01,11-Jul-22,8:53:00 AM,EDT,Sample-Routine,Enterococcus,-,10,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI327519,Oakland Beach,RI327519-03,OAKLAND BEACH - WEST,KENT,2202799-03,07-Jul-22,10:05:00 AM,EDT,Sample-Routine,Enterococcus,-,10,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI327519,Oakland Beach,RI327519-02,Oakland Beach - East,KENT,2202799-02,07-Jul-22,10:15:00 AM,EDT,Sample-Routine,Enterococcus,-,10,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-

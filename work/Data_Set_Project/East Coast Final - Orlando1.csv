@@ -1,0 +1,95 @@
+"Beach ID
+(Def.)","Beach Name
+(Def.)","Station
+ID
+(Def.)","Station Name
+(Def.)","County
+Name
+(Def.)","Identifier
+(Def.)","Start
+Date
+(Def.)","Start
+Time
+(Def.)","Zone
+Code
+(Def.)","Activity
+Type
+Code
+(Def.)","Characteristic
+Name
+(Def.)","Result Value
+Text
+(Def.)","Result
+Value
+(Def.)","Result
+Measure
+Unit","Result Comment
+(Def.)","Activity
+Depth
+Value
+(Def.)","Activity
+Depth
+Unit
+Code
+(Def.)","Result
+Analytical
+Method
+Identifier
+Context
+(Def.)","Result
+Analytical
+Method
+Identifier
+(Def.)","Result
+Analytical
+Method
+Name
+(Def.)","Sample Collection
+Method Identifier
+(Def.)","Sample Collection
+Method Name
+(Def.)","Field Gear
+(Def.)","Analysis
+Date
+Time
+(Def.)","Detection
+Quantitation
+Limit
+(Def.)"
+FL974030,NORTH JETTY,VOLUSIA290,NORTH JETTY,VOLUSIA,VOLUSIA290S091420,14-Sep-22,9:25:00 AM,EDT,Sample-Routine,Enterococcus,-,10,MPN/100ml,-,18,in,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,Direct Grab,Direct Grab,Water Sampler (Other),09-15-2020,Practical Quantitation Limit~10~MPN/100ml
+FL974030,NORTH JETTY,VOLUSIA290,NORTH JETTY,VOLUSIA,VOLUSIA290S090820,08-Sep-22,9:30:00 AM,EDT,Sample-Routine,Enterococcus,-,10,MPN/100ml,**U**,18,in,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,Direct Grab,Direct Grab,Water Sampler (Other),09-09-2020,Practical Quantitation Limit~10~MPN/100ml
+FL974030,NORTH JETTY,VOLUSIA290,NORTH JETTY,VOLUSIA,VOLUSIA290S083120,31-Aug-22,9:51:00 AM,EDT,Sample-Routine,Enterococcus,-,10,MPN/100ml,-,18,in,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,Direct Grab,Direct Grab,Water Sampler (Other),09-01-2020,Practical Quantitation Limit~10~MPN/100ml
+FL974030,NORTH JETTY,VOLUSIA290,NORTH JETTY,VOLUSIA,VOLUSIA290S082420,24-Aug-22,9:53:00 AM,EDT,Sample-Routine,Enterococcus,-,10,MPN/100ml,-,18,in,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,Direct Grab,Direct Grab,Water Sampler (Other),08-25-2020,Practical Quantitation Limit~10~MPN/100ml
+FL974030,NORTH JETTY,VOLUSIA290,NORTH JETTY,VOLUSIA,VOLUSIA290S081720,17-Aug-22,9:57:00 AM,EDT,Sample-Routine,Enterococcus,-,10,MPN/100ml,**U**,18,in,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,Direct Grab,Direct Grab,Water Sampler (Other),08-18-2020,Practical Quantitation Limit~10~MPN/100ml
+FL974030,NORTH JETTY,VOLUSIA290,NORTH JETTY,VOLUSIA,VOLUSIA290S081020,10-Aug-22,9:51:00 AM,EDT,Sample-Routine,Enterococcus,-,10,MPN/100ml,**U**,18,in,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,Direct Grab,Direct Grab,Water Sampler (Other),08-11-2020,Practical Quantitation Limit~10~MPN/100ml
+FL974030,NORTH JETTY,VOLUSIA290,NORTH JETTY,VOLUSIA,VOLUSIA290S080320,03-Aug-22,9:38:00 AM,EDT,Sample-Routine,Enterococcus,-,10,MPN/100ml,**U**,18,in,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,Direct Grab,Direct Grab,Water Sampler (Other),08-04-2020,Practical Quantitation Limit~10~MPN/100ml
+FL974030,NORTH JETTY,VOLUSIA290,NORTH JETTY,VOLUSIA,VOLUSIA290S072720,27-Jul-22,10:24:00 AM,EDT,Sample-Routine,Enterococcus,-,20,MPN/100ml,-,18,in,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,Direct Grab,Direct Grab,Water Sampler (Other),07-28-2020,Practical Quantitation Limit~10~MPN/100ml
+FL974030,NORTH JETTY,VOLUSIA290,NORTH JETTY,VOLUSIA,VOLUSIA290S072020,20-Jul-22,10:45:00 AM,EDT,Sample-Routine,Enterococcus,-,20,MPN/100ml,-,18,in,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,Direct Grab,Direct Grab,Water Sampler (Other),07-21-2020,Practical Quantitation Limit~10~MPN/100ml
+FL974030,NORTH JETTY,VOLUSIA290,NORTH JETTY,VOLUSIA,VOLUSIA290S071320,13-Jul-22,10:40:00 AM,EDT,Sample-Routine,Enterococcus,-,10,MPN/100ml,**U**,18,in,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,Direct Grab,Direct Grab,Water Sampler (Other),07-14-2020,Practical Quantitation Limit~10~MPN/100ml
+FL974030,NORTH JETTY,VOLUSIA290,NORTH JETTY,VOLUSIA,VOLUSIA290S070620,06-Jul-22,10:20:00 AM,EDT,Sample-Routine,Enterococcus,-,10,MPN/100ml,**U**,18,in,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,Direct Grab,Direct Grab,Water Sampler (Other),07-07-2020,Practical Quantitation Limit~10~MPN/100ml
+FL974030,NORTH JETTY,VOLUSIA290,NORTH JETTY,VOLUSIA,VOLUSIA290S062920,29-Jun-22,11:05:00 AM,EDT,Sample-Routine,Enterococcus,-,10,MPN/100ml,**U**,18,in,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,Direct Grab,Direct Grab,Water Sampler (Other),06-30-2020,Practical Quantitation Limit~10~MPN/100ml
+FL974030,NORTH JETTY,VOLUSIA290,NORTH JETTY,VOLUSIA,VOLUSIA290S062220,22-Jun-22,10:45:00 AM,EDT,Sample-Routine,Enterococcus,-,10,MPN/100ml,**U**,18,in,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,Direct Grab,Direct Grab,Water Sampler (Other),06-23-2020,Practical Quantitation Limit~10~MPN/100ml
+FL974030,NORTH JETTY,VOLUSIA290,NORTH JETTY,VOLUSIA,VOLUSIA290S061520,15-Jun-22,10:15:00 AM,EDT,Sample-Routine,Enterococcus,-,10,MPN/100ml,**U**,18,in,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,Direct Grab,Direct Grab,Water Sampler (Other),06-16-2020,Practical Quantitation Limit~10~MPN/100ml
+FL974030,NORTH JETTY,VOLUSIA290,NORTH JETTY,VOLUSIA,VOLUSIA290S060820,08-Jun-22,10:50:00 AM,EDT,Sample-Routine,Enterococcus,-,10,MPN/100ml,**U**,18,in,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,Direct Grab,Direct Grab,Water Sampler (Other),06-09-2020,Practical Quantitation Limit~10~MPN/100ml
+FL974030,NORTH JETTY,VOLUSIA290,NORTH JETTY,VOLUSIA,VOLUSIA290S060120,01-Jun-22,12:25:00 PM,EDT,Sample-Routine,Enterococcus,-,10,MPN/100ml,**U**,18,in,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,Direct Grab,Direct Grab,Water Sampler (Other),06-02-2020,Practical Quantitation Limit~10~MPN/100ml
+FL974030,NORTH JETTY,VOLUSIA290,NORTH JETTY,VOLUSIA,VOLUSIA290S052620,26-May-22,10:35:00 AM,EDT,Sample-Routine,Enterococcus,-,10,MPN/100ml,**U**,18,in,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,Direct Grab,Direct Grab,Water Sampler (Other),05-27-2020,Practical Quantitation Limit~10~MPN/100ml
+FL974030,NORTH JETTY,VOLUSIA290,NORTH JETTY,VOLUSIA,VOLUSIA290S051820,18-May-22,11:45:00 AM,EDT,Sample-Routine,Enterococcus,-,10,MPN/100ml,**U**,18,in,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,Direct Grab,Direct Grab,Water Sampler (Other),05-19-2020,Practical Quantitation Limit~10~MPN/100ml
+FL974030,NORTH JETTY,VOLUSIA290,NORTH JETTY,VOLUSIA,VOLUSIA290S051120,11-May-22,10:45:00 AM,EDT,Sample-Routine,Enterococcus,-,10,MPN/100ml,**U**,18,in,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,Direct Grab,Direct Grab,Water Sampler (Other),05-12-2020,Practical Quantitation Limit~10~MPN/100ml
+FL974030,NORTH JETTY,VOLUSIA290,NORTH JETTY,VOLUSIA,VOLUSIA290S050420,04-May-22,10:45:00 AM,EDT,Sample-Routine,Enterococcus,-,10,MPN/100ml,**U**,18,in,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,Direct Grab,Direct Grab,Water Sampler (Other),05-05-2020,Practical Quantitation Limit~10~MPN/100ml
+FL974030,NORTH JETTY,VOLUSIA290,NORTH JETTY,VOLUSIA,VOLUSIA290S042720,27-Apr-22,10:40:00 AM,EDT,Sample-Routine,Enterococcus,-,10,MPN/100ml,**U**,18,in,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,Direct Grab,Direct Grab,Water Sampler (Other),04-28-2020,Practical Quantitation Limit~10~MPN/100ml
+FL974030,NORTH JETTY,VOLUSIA290,NORTH JETTY,VOLUSIA,VOLUSIA290S042120,21-Apr-22,11:20:00 AM,EDT,Sample-Routine,Enterococcus,-,10,MPN/100ml,**U**,18,in,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,Direct Grab,Direct Grab,Water Sampler (Other),04-22-2020,Practical Quantitation Limit~10~MPN/100ml
+FL974030,NORTH JETTY,VOLUSIA290,NORTH JETTY,VOLUSIA,VOLUSIA290S041320,13-Apr-22,11:25:00 AM,EDT,Sample-Routine,Enterococcus,-,10,MPN/100ml,**U**,18,in,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,Direct Grab,Direct Grab,Water Sampler (Other),04-14-2020,Practical Quantitation Limit~10~MPN/100ml
+FL974030,NORTH JETTY,VOLUSIA290,NORTH JETTY,VOLUSIA,VOLUSIA290S040620,06-Apr-22,11:35:00 AM,EDT,Sample-Routine,Enterococcus,-,10,MPN/100ml,**U**,18,in,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,Direct Grab,Direct Grab,Water Sampler (Other),04-07-2020,Practical Quantitation Limit~10~MPN/100ml
+FL974030,NORTH JETTY,VOLUSIA290,NORTH JETTY,VOLUSIA,VOLUSIA290S033020,30-Mar-22,11:25:00 AM,EDT,Sample-Routine,Enterococcus,-,10,MPN/100ml,**U**,18,in,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,Direct Grab,Direct Grab,Water Sampler (Other),03-31-2020,Practical Quantitation Limit~10~MPN/100ml
+FL974030,NORTH JETTY,VOLUSIA290,NORTH JETTY,VOLUSIA,VOLUSIA290S032320,23-Mar-22,11:30:00 AM,EDT,Sample-Routine,Enterococcus,-,10,MPN/100ml,**U**,18,in,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,Direct Grab,Direct Grab,Water Sampler (Other),03-24-2020,Practical Quantitation Limit~10~MPN/100ml
+FL974030,NORTH JETTY,VOLUSIA290,NORTH JETTY,VOLUSIA,VOLUSIA290S031620,16-Mar-22,11:30:00 AM,EDT,Sample-Routine,Enterococcus,-,10,MPN/100ml,**U**,18,in,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,Direct Grab,Direct Grab,Water Sampler (Other),03-17-2020,Practical Quantitation Limit~10~MPN/100ml
+FL974030,NORTH JETTY,VOLUSIA290,NORTH JETTY,VOLUSIA,VOLUSIA290S030920,09-Mar-22,11:35:00 AM,EDT,Sample-Routine,Enterococcus,-,10,MPN/100ml,**U**,18,in,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,Direct Grab,Direct Grab,Water Sampler (Other),03-10-2020,Practical Quantitation Limit~10~MPN/100ml
+FL974030,NORTH JETTY,VOLUSIA290,NORTH JETTY,VOLUSIA,VOLUSIA290S030220,02-Mar-22,11:15:00 AM,EST,Sample-Routine,Enterococcus,-,10,MPN/100ml,**U**,18,in,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,Direct Grab,Direct Grab,Water Sampler (Other),03-03-2020,Practical Quantitation Limit~10~MPN/100ml
+FL974030,NORTH JETTY,VOLUSIA290,NORTH JETTY,VOLUSIA,VOLUSIA290S022420,24-Feb-22,11:10:00 AM,EST,Sample-Routine,Enterococcus,-,10,MPN/100ml,-,18,in,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,Direct Grab,Direct Grab,Water Sampler (Other),02-25-2020,Practical Quantitation Limit~10~MPN/100ml
+FL974030,NORTH JETTY,VOLUSIA290,NORTH JETTY,VOLUSIA,VOLUSIA290S021720,17-Feb-22,10:40:00 AM,EST,Sample-Routine,Enterococcus,-,10,MPN/100ml,-,18,in,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,Direct Grab,Direct Grab,Water Sampler (Other),02-18-2020,Practical Quantitation Limit~10~MPN/100ml
+FL974030,NORTH JETTY,VOLUSIA290,NORTH JETTY,VOLUSIA,VOLUSIA290S021020,10-Feb-22,10:25:00 AM,EST,Sample-Routine,Enterococcus,-,10,MPN/100ml,-,18,in,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,Direct Grab,Direct Grab,Water Sampler (Other),02-11-2020,Practical Quantitation Limit~10~MPN/100ml
+FL974030,NORTH JETTY,VOLUSIA290,NORTH JETTY,VOLUSIA,VOLUSIA290S020320,03-Feb-22,11:05:00 AM,EST,Sample-Routine,Enterococcus,-,10,MPN/100ml,**U**,18,in,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,Direct Grab,Direct Grab,Water Sampler (Other),02-04-2020,Practical Quantitation Limit~10~MPN/100ml
+FL974030,NORTH JETTY,VOLUSIA290,NORTH JETTY,VOLUSIA,VOLUSIA290S012720,27-Jan-22,10:45:00 AM,EST,Sample-Routine,Enterococcus,-,10,MPN/100ml,**U**,18,in,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,Direct Grab,Direct Grab,Water Sampler (Other),01-28-2020,Practical Quantitation Limit~10~MPN/100ml
+FL974030,NORTH JETTY,VOLUSIA290,NORTH JETTY,VOLUSIA,VOLUSIA290S012120,21-Jan-22,11:20:00 AM,EST,Sample-Routine,Enterococcus,-,20,MPN/100ml,-,18,in,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,Direct Grab,Direct Grab,Water Sampler (Other),01-22-2020,Practical Quantitation Limit~10~MPN/100ml
+FL974030,NORTH JETTY,VOLUSIA290,NORTH JETTY,VOLUSIA,VOLUSIA290S011320,13-Jan-22,10:50:00 AM,EST,Sample-Routine,Enterococcus,-,36,MPN/100ml,-,18,in,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,Direct Grab,Direct Grab,Water Sampler (Other),01-14-2020,Practical Quantitation Limit~10~MPN/100ml
+FL974030,NORTH JETTY,VOLUSIA290,NORTH JETTY,VOLUSIA,VOLUSIA290S010620,06-Jan-22,11:50:00 AM,EST,Sample-Routine,Enterococcus,-,10,MPN/100ml,**U**,18,in,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,Direct Grab,Direct Grab,Water Sampler (Other),01-07-2020,Practical Quantitation Limit~10~MPN/100ml

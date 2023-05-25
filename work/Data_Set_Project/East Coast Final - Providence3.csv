@@ -1,0 +1,86 @@
+"Beach ID
+(Def.)","Beach Name
+(Def.)","Station
+ID
+(Def.)","Station Name
+(Def.)","County
+Name
+(Def.)","Identifier
+(Def.)","Start
+Date
+(Def.)","Start
+Time
+(Def.)","Zone
+Code
+(Def.)","Activity
+Type
+Code
+(Def.)","Characteristic
+Name
+(Def.)","Result Value
+Text
+(Def.)","Result
+Value
+(Def.)","Result
+Measure
+Unit","Result Comment
+(Def.)","Activity
+Depth
+Value
+(Def.)","Activity
+Depth
+Unit
+Code
+(Def.)","Result
+Analytical
+Method
+Identifier
+Context
+(Def.)","Result
+Analytical
+Method
+Identifier
+(Def.)","Result
+Analytical
+Method
+Name
+(Def.)","Sample Collection
+Method Identifier
+(Def.)","Sample Collection
+Method Name
+(Def.)","Field Gear
+(Def.)","Analysis
+Date
+Time
+(Def.)","Detection
+Quantitation
+Limit
+(Def.)"
+RI596700,City Park Beach,RI596700-01,City Park Beach - Center,KENT,2203926-01,31-Aug-22,5:05:00 AM,EDT,Sample-Routine,Enterococcus,-,72,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI596700,City Park Beach,RI596700-01,City Park Beach - Center,KENT,2203876-01,29-Aug-22,9:10:00 AM,EDT,Sample-Routine,Enterococcus,-,10,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI596700,City Park Beach,RI596700-01,City Park Beach - Center,KENT,2203807-01,24-Aug-22,9:12:00 AM,EDT,Sample-Routine,Enterococcus,-,10,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI596700,City Park Beach,RI596700-01,City Park Beach - Center,KENT,2203733-01,22-Aug-22,9:07:00 AM,EDT,Sample-Routine,Enterococcus,-,30,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI596700,City Park Beach,RI596700-01,City Park Beach - Center,KENT,2203661-01,17-Aug-22,9:10:00 AM,EDT,Sample-Routine,Enterococcus,-,10,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI596700,City Park Beach,RI596700-01,City Park Beach - Center,KENT,2203605-01,15-Aug-22,9:15:00 AM,EDT,Sample-Routine,Enterococcus,-,10,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI596700,City Park Beach,RI596700-01,City Park Beach - Center,KENT,2203563-01,11-Aug-22,9:09:00 AM,EDT,Sample-Routine,Enterococcus,-,108,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI596700,City Park Beach,RI596700-01,City Park Beach - Center,KENT,2203490-01,09-Aug-22,9:30:00 AM,EDT,Sample-Routine,Enterococcus,-,10,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI596700,City Park Beach,RI596700-01,City Park Beach - Center,KENT,2203398-01,03-Aug-22,9:47:00 AM,EDT,Sample-Routine,Enterococcus,-,10,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI596700,City Park Beach,RI596700-01,City Park Beach - Center,KENT,2203326-01,01-Aug-22,9:25:00 AM,EDT,Sample-Routine,Enterococcus,-,10,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI596700,City Park Beach,RI596700-01,City Park Beach - Center,KENT,2203234-01,27-Jul-22,9:40:00 AM,EDT,Sample-Routine,Enterococcus,-,10,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI596700,City Park Beach,RI596700-01,City Park Beach - Center,KENT,2203146-01,25-Jul-22,9:40:00 AM,EDT,Sample-Routine,Enterococcus,-,10,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI596700,City Park Beach,RI596700-01,City Park Beach - Center,KENT,2203080-01,20-Jul-22,9:38:00 AM,EDT,Sample-Routine,Enterococcus,-,10,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI596700,City Park Beach,RI596700-01,City Park Beach - Center,KENT,2203016-01,18-Jul-22,9:31:00 AM,EDT,Sample-Routine,Enterococcus,-,10,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI596700,City Park Beach,RI596700-01,City Park Beach - Center,KENT,2202920-01,13-Jul-22,9:40:00 AM,EDT,Sample-Routine,Enterococcus,-,10,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI596700,City Park Beach,RI596700-01,City Park Beach - Center,KENT,2202844-01,11-Jul-22,8:33:00 AM,EDT,Sample-Routine,Enterococcus,-,10,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI596700,City Park Beach,RI596700-01,City Park Beach - Center,KENT,2202796-01,07-Jul-22,9:40:00 AM,EDT,Sample-Routine,Enterococcus,-,10,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI596700,City Park Beach,RI596700-01,City Park Beach - Center,KENT,2202711-01,05-Jul-22,9:45:00 AM,EDT,Sample-Routine,Enterococcus,-,10,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI596700,City Park Beach,RI596700-01,City Park Beach - Center,KENT,2202630-01,29-Jun-22,9:29:00 AM,EDT,Sample-Routine,Enterococcus,-,10,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI596700,City Park Beach,RI596700-01,City Park Beach - Center,KENT,2202557-01,27-Jun-22,8:35:00 AM,EDT,Sample-Routine,Enterococcus,-,10,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI596700,City Park Beach,RI596700-01,City Park Beach - Center,KENT,2202479-01,22-Jun-22,10:05:00 AM,EDT,Sample-Routine,Enterococcus,-,10,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI596700,City Park Beach,RI596700-01,City Park Beach - Center,KENT,2202411-01,20-Jun-22,9:24:00 AM,EDT,Sample-Routine,Enterococcus,-,10,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI596700,City Park Beach,RI596700-01,City Park Beach - Center,KENT,2202334-01,15-Jun-22,9:23:00 AM,EDT,Sample-Routine,Enterococcus,-,10,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI596700,City Park Beach,RI596700-01,City Park Beach - Center,KENT,2202266-01,13-Jun-22,9:30:00 AM,EDT,Sample-Routine,Enterococcus,-,2280,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI596700,City Park Beach,RI596700-01,City Park Beach - Center,KENT,2202199-01,08-Jun-22,10:08:00 AM,EDT,Sample-Routine,Enterococcus,-,41,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI596700,City Park Beach,RI596700-01,City Park Beach - Center,KENT,2202140-01,06-Jun-22,10:12:00 AM,EDT,Sample-Routine,Enterococcus,-,10,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI596700,City Park Beach,RI596700-01,City Park Beach - Center,KENT,2202087-01,02-Jun-22,9:36:00 AM,EDT,Sample-Routine,Enterococcus,-,10,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI596700,City Park Beach,RI596700-01,City Park Beach - Center,KENT,2202032-01,31-May-22,10:10:00 AM,EDT,Sample-Routine,Enterococcus,-,20,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-

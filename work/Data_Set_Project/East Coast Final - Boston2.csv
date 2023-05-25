@@ -1,0 +1,108 @@
+"Beach ID
+(Def.)","Beach Name
+(Def.)","Station
+ID
+(Def.)","Station Name
+(Def.)","County
+Name
+(Def.)","Identifier
+(Def.)","Start
+Date
+(Def.)","Start
+Time
+(Def.)","Zone
+Code
+(Def.)","Activity
+Type
+Code
+(Def.)","Characteristic
+Name
+(Def.)","Result Value
+Text
+(Def.)","Result
+Value
+(Def.)","Result
+Measure
+Unit","Result Comment
+(Def.)","Activity
+Depth
+Value
+(Def.)","Activity
+Depth
+Unit
+Code
+(Def.)","Result
+Analytical
+Method
+Identifier
+Context
+(Def.)","Result
+Analytical
+Method
+Identifier
+(Def.)","Result
+Analytical
+Method
+Name
+(Def.)","Sample Collection
+Method Identifier
+(Def.)","Sample Collection
+Method Name
+(Def.)","Field Gear
+(Def.)","Analysis
+Date
+Time
+(Def.)","Detection
+Quantitation
+Limit
+(Def.)"
+MA187787,Constitution,MA187787,Constitution,SUFFOLK,MA1877872442012,31-Aug-22,8:35:00 AM,EDT,Sample-Routine,Enterococcus,-,7,cfu/100ml,-,3,ft,-,-,-,ROUTINE,Routine Sample,Water Bottle,-,-
+MA187787,Constitution,MA187787,Constitution,SUFFOLK,MA1877872432012,30-Aug-22,9:52:00 AM,EDT,Sample-Routine,Enterococcus,-,4,cfu/100ml,-,3,ft,-,-,-,ROUTINE,Routine Sample,Water Bottle,-,-
+MA187787,Constitution,MA187787,Constitution,SUFFOLK,MA1877872422012,29-Aug-22,9:40:00 AM,EDT,Sample-Routine,Enterococcus,-,20,cfu/100ml,-,3,ft,-,-,-,ROUTINE,Routine Sample,Water Bottle,-,-
+MA187787,Constitution,MA187787,Constitution,SUFFOLK,MA1877872412012,28-Aug-22,10:10:00 AM,EDT,Sample-Routine,Enterococcus,-,-,cfu/100ml,-,3,ft,-,-,-,ROUTINE,Routine Sample,Water Bottle,-,-
+MA187787,Constitution,MA187787,Constitution,SUFFOLK,MA1877872402012,27-Aug-22,10:10:00 AM,EDT,Sample-Routine,Enterococcus,-,20,cfu/100ml,-,3,ft,-,-,-,ROUTINE,Routine Sample,Water Bottle,-,-
+MA187787,Constitution,MA187787,Constitution,SUFFOLK,MA1877872392012,26-Aug-22,8:55:00 AM,EDT,Sample-Routine,Enterococcus,-,-,cfu/100ml,-,3,ft,-,-,-,ROUTINE,Routine Sample,Water Bottle,-,-
+MA187787,Constitution,MA187787,Constitution,SUFFOLK,MA1877872382012,25-Aug-22,8:55:00 AM,EDT,Sample-Routine,Enterococcus,-,10,cfu/100ml,-,3,ft,-,-,-,ROUTINE,Routine Sample,Water Bottle,-,-
+MA187787,Constitution,MA187787,Constitution,SUFFOLK,MA1877872372012,24-Aug-22,7:10:00 AM,EDT,Sample-Routine,Enterococcus,-,4,cfu/100ml,-,3,ft,-,-,-,ROUTINE,Routine Sample,Water Bottle,-,-
+MA187787,Constitution,MA187787,Constitution,SUFFOLK,MA1877872362012,23-Aug-22,5:55:00 AM,EDT,Sample-Routine,Enterococcus,-,-,cfu/100ml,-,3,ft,-,-,-,ROUTINE,Routine Sample,Water Bottle,-,-
+MA187787,Constitution,MA187787,Constitution,SUFFOLK,MA1877872352012,22-Aug-22,9:17:00 AM,EDT,Sample-Routine,Enterococcus,-,-,cfu/100ml,-,3,ft,-,-,-,ROUTINE,Routine Sample,Water Bottle,-,-
+MA187787,Constitution,MA187787,Constitution,SUFFOLK,MA1877872342012,21-Aug-22,8:13:00 AM,EDT,Sample-Routine,Enterococcus,-,10,cfu/100ml,-,3,ft,-,-,-,ROUTINE,Routine Sample,Water Bottle,-,-
+MA187787,Constitution,MA187787,Constitution,SUFFOLK,MA1877872332012,20-Aug-22,10:12:00 AM,EDT,Sample-Routine,Enterococcus,-,-,cfu/100ml,-,3,ft,-,-,-,ROUTINE,Routine Sample,Water Bottle,-,-
+MA187787,Constitution,MA187787,Constitution,SUFFOLK,MA1877872322012,19-Aug-22,8:40:00 AM,EDT,Sample-Routine,Enterococcus,-,6,cfu/100ml,-,3,ft,-,-,-,ROUTINE,Routine Sample,Water Bottle,-,-
+MA187787,Constitution,MA187787,Constitution,SUFFOLK,MA1877872312012,18-Aug-22,8:35:00 AM,EDT,Sample-Routine,Enterococcus,-,8,cfu/100ml,-,3,ft,-,-,-,ROUTINE,Routine Sample,Water Bottle,-,-
+MA187787,Constitution,MA187787,Constitution,SUFFOLK,MA1877872302012,17-Aug-22,8:05:00 AM,EDT,Sample-Routine,Enterococcus,-,23,cfu/100ml,-,3,ft,-,-,-,ROUTINE,Routine Sample,Water Bottle,-,-
+MA187787,Constitution,MA187787,Constitution,SUFFOLK,MA1877872292012,16-Aug-22,9:45:00 AM,EDT,Sample-Routine,Enterococcus,-,8,cfu/100ml,-,3,ft,-,-,-,ROUTINE,Routine Sample,Water Bottle,-,-
+MA187787,Constitution,MA187787,Constitution,SUFFOLK,MA1877872282012,15-Aug-22,9:41:00 AM,EDT,Sample-Routine,Enterococcus,-,1870,cfu/100ml,-,3,ft,-,-,-,ROUTINE,Routine Sample,Water Bottle,-,-
+MA187787,Constitution,MA187787,Constitution,SUFFOLK,MA1877872272012,14-Aug-22,9:32:00 AM,EDT,Sample-Routine,Enterococcus,-,-,cfu/100ml,-,3,ft,-,-,-,ROUTINE,Routine Sample,Water Bottle,-,-
+MA187787,Constitution,MA187787,Constitution,SUFFOLK,MA1877872262012,13-Aug-22,9:15:00 AM,EDT,Sample-Routine,Enterococcus,-,-,cfu/100ml,-,3,ft,-,-,-,ROUTINE,Routine Sample,Water Bottle,-,-
+MA187787,Constitution,MA187787,Constitution,SUFFOLK,MA1877872252012,12-Aug-22,8:35:00 AM,EDT,Sample-Routine,Enterococcus,-,10,cfu/100ml,-,3,ft,-,-,-,ROUTINE,Routine Sample,Water Bottle,-,-
+MA187787,Constitution,MA187787,Constitution,SUFFOLK,MA1877872242012,11-Aug-22,7:39:00 AM,EDT,Sample-Routine,Enterococcus,-,187,cfu/100ml,-,3,ft,-,-,-,ROUTINE,Routine Sample,Water Bottle,-,-
+MA187787,Constitution,MA187787,Constitution,SUFFOLK,MA1877872232012,10-Aug-22,9:20:00 AM,EDT,Sample-Routine,Enterococcus,-,6,cfu/100ml,-,3,ft,-,-,-,ROUTINE,Routine Sample,Water Bottle,-,-
+MA187787,Constitution,MA187787,Constitution,SUFFOLK,MA1877872222012,09-Aug-22,5:35:00 AM,EDT,Sample-Routine,Enterococcus,-,-,cfu/100ml,-,3,ft,-,-,-,ROUTINE,Routine Sample,Water Bottle,-,-
+MA187787,Constitution,MA187787,Constitution,SUFFOLK,MA1877872212012,08-Aug-22,8:43:00 AM,EDT,Sample-Routine,Enterococcus,-,-,cfu/100ml,-,3,ft,-,-,-,ROUTINE,Routine Sample,Water Bottle,-,-
+MA187787,Constitution,MA187787,Constitution,SUFFOLK,MA1877872202012,07-Aug-22,10:48:00 AM,EDT,Sample-Routine,Enterococcus,-,10,cfu/100ml,-,3,ft,-,-,-,ROUTINE,Routine Sample,Water Bottle,-,-
+MA187787,Constitution,MA187787,Constitution,SUFFOLK,MA1877872192012,06-Aug-22,7:26:00 AM,EDT,Sample-Routine,Enterococcus,-,10,cfu/100ml,-,3,ft,-,-,-,ROUTINE,Routine Sample,Water Bottle,-,-
+MA187787,Constitution,MA187787,Constitution,SUFFOLK,MA1877872182012,05-Aug-22,9:10:00 AM,EDT,Sample-Routine,Enterococcus,-,30,cfu/100ml,-,3,ft,-,-,-,ROUTINE,Routine Sample,Water Bottle,-,-
+MA187787,Constitution,MA187787,Constitution,SUFFOLK,MA1877872172012,04-Aug-22,9:15:00 AM,EDT,Sample-Routine,Enterococcus,-,-,cfu/100ml,-,3,ft,-,-,-,ROUTINE,Routine Sample,Water Bottle,-,-
+MA187787,Constitution,MA187787,Constitution,SUFFOLK,MA1877872162012,03-Aug-22,9:00:00 AM,EDT,Sample-Routine,Enterococcus,-,4,cfu/100ml,-,3,ft,-,-,-,ROUTINE,Routine Sample,Water Bottle,-,-
+MA187787,Constitution,MA187787,Constitution,SUFFOLK,MA1877872152012,02-Aug-22,10:10:00 AM,EDT,Sample-Routine,Enterococcus,-,23,cfu/100ml,-,3,ft,-,-,-,ROUTINE,Routine Sample,Water Bottle,-,-
+MA187787,Constitution,MA187787,Constitution,SUFFOLK,MA1877872142012,01-Aug-22,8:58:00 AM,EDT,Sample-Routine,Enterococcus,-,15,cfu/100ml,-,3,ft,-,-,-,ROUTINE,Routine Sample,Water Bottle,-,-
+MA187787,Constitution,MA187787,Constitution,SUFFOLK,MA1877872132012,31-Jul-22,9:19:00 AM,EDT,Sample-Routine,Enterococcus,-,10,cfu/100ml,-,3,ft,-,-,-,ROUTINE,Routine Sample,Water Bottle,-,-
+MA187787,Constitution,MA187787,Constitution,SUFFOLK,MA1877872122012,30-Jul-22,8:40:00 AM,EDT,Sample-Routine,Enterococcus,-,-,cfu/100ml,-,3,ft,-,-,-,ROUTINE,Routine Sample,Water Bottle,-,-
+MA187787,Constitution,MA187787,Constitution,SUFFOLK,MA1877872112012,29-Jul-22,9:15:00 AM,EDT,Sample-Routine,Enterococcus,-,31,cfu/100ml,-,3,ft,-,-,-,ROUTINE,Routine Sample,Water Bottle,-,-
+MA187787,Constitution,MA187787,Constitution,SUFFOLK,MA1877872102012,28-Jul-22,9:20:00 AM,EDT,Sample-Routine,Enterococcus,-,-,cfu/100ml,-,3,ft,-,-,-,ROUTINE,Routine Sample,Water Bottle,-,-
+MA187787,Constitution,MA187787,Constitution,SUFFOLK,MA1877872092012,27-Jul-22,6:25:00 AM,EDT,Sample-Routine,Enterococcus,-,8,cfu/100ml,-,3,ft,-,-,-,ROUTINE,Routine Sample,Water Bottle,-,-
+MA187787,Constitution,MA187787,Constitution,SUFFOLK,MA1877872082012,26-Jul-22,5:30:00 AM,EDT,Sample-Routine,Enterococcus,-,2,cfu/100ml,-,3,ft,-,-,-,ROUTINE,Routine Sample,Water Bottle,-,-
+MA187787,Constitution,MA187787,Constitution,SUFFOLK,MA1877872072012,25-Jul-22,8:16:00 AM,EDT,Sample-Routine,Enterococcus,-,10,cfu/100ml,-,3,ft,-,-,-,ROUTINE,Routine Sample,Water Bottle,-,-
+MA187787,Constitution,MA187787,Constitution,SUFFOLK,MA1877872062012,24-Jul-22,7:57:00 AM,EDT,Sample-Routine,Enterococcus,-,-,cfu/100ml,-,3,ft,-,-,-,ROUTINE,Routine Sample,Water Bottle,-,-
+MA187787,Constitution,MA187787,Constitution,SUFFOLK,MA1877872052012,23-Jul-22,10:31:00 AM,EDT,Sample-Routine,Enterococcus,-,-,cfu/100ml,-,3,ft,-,-,-,ROUTINE,Routine Sample,Water Bottle,-,-
+MA187787,Constitution,MA187787,Constitution,SUFFOLK,MA1877872042012,22-Jul-22,9:00:00 AM,EDT,Sample-Routine,Enterococcus,-,-,cfu/100ml,-,3,ft,-,-,-,ROUTINE,Routine Sample,Water Bottle,-,-
+MA187787,Constitution,MA187787,Constitution,SUFFOLK,MA1877872032012,21-Jul-22,11:00:00 AM,EDT,Sample-Routine,Enterococcus,-,4,cfu/100ml,-,3,ft,-,-,-,ROUTINE,Routine Sample,Water Bottle,-,-
+MA187787,Constitution,MA187787,Constitution,SUFFOLK,MA1877872022012,20-Jul-22,9:20:00 AM,EDT,Sample-Routine,Enterococcus,-,2,cfu/100ml,-,3,ft,-,-,-,ROUTINE,Routine Sample,Water Bottle,-,-
+MA187787,Constitution,MA187787,Constitution,SUFFOLK,MA1877872012012,19-Jul-22,11:10:00 AM,EDT,Sample-Routine,Enterococcus,-,12,cfu/100ml,-,3,ft,-,-,-,ROUTINE,Routine Sample,Water Bottle,-,-
+MA187787,Constitution,MA187787,Constitution,SUFFOLK,MA1877872002012,18-Jul-22,8:49:00 AM,EDT,Sample-Routine,Enterococcus,-,-,cfu/100ml,-,3,ft,-,-,-,ROUTINE,Routine Sample,Water Bottle,-,-
+MA187787,Constitution,MA187787,Constitution,SUFFOLK,MA1877871992012,17-Jul-22,9:26:00 AM,EDT,Sample-Routine,Enterococcus,-,2,cfu/100ml,-,3,ft,-,-,-,ROUTINE,Routine Sample,Water Bottle,-,-
+MA187787,Constitution,MA187787,Constitution,SUFFOLK,MA1877871982012,16-Jul-22,10:25:00 AM,EDT,Sample-Routine,Enterococcus,-,-,cfu/100ml,-,3,ft,-,-,-,ROUTINE,Routine Sample,Water Bottle,-,-
+MA187787,Constitution,MA187787,Constitution,SUFFOLK,MA1877871972012,15-Jul-22,9:30:00 AM,EDT,Sample-Routine,Enterococcus,-,-,cfu/100ml,-,3,ft,-,-,-,ROUTINE,Routine Sample,Water Bottle,-,-
+MA187787,Constitution,MA187787,Constitution,SUFFOLK,MA1877871962012,14-Jul-22,9:50:00 AM,EDT,Sample-Routine,Enterococcus,-,-,cfu/100ml,-,3,ft,-,-,-,ROUTINE,Routine Sample,Water Bottle,-,-
+MA187787,Constitution,MA187787,Constitution,SUFFOLK,MA1877871952012,13-Jul-22,7:00:00 AM,EDT,Sample-Routine,Enterococcus,-,-,cfu/100ml,-,3,ft,-,-,-,ROUTINE,Routine Sample,Water Bottle,-,-

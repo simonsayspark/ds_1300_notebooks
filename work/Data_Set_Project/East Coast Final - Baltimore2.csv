@@ -1,0 +1,108 @@
+"Beach ID
+(Def.)","Beach Name
+(Def.)","Station
+ID
+(Def.)","Station Name
+(Def.)","County
+Name
+(Def.)","Identifier
+(Def.)","Start
+Date
+(Def.)","Start
+Time
+(Def.)","Zone
+Code
+(Def.)","Activity
+Type
+Code
+(Def.)","Characteristic
+Name
+(Def.)","Result Value
+Text
+(Def.)","Result
+Value
+(Def.)","Result
+Measure
+Unit","Result Comment
+(Def.)","Activity
+Depth
+Value
+(Def.)","Activity
+Depth
+Unit
+Code
+(Def.)","Result
+Analytical
+Method
+Identifier
+Context
+(Def.)","Result
+Analytical
+Method
+Identifier
+(Def.)","Result
+Analytical
+Method
+Name
+(Def.)","Sample Collection
+Method Identifier
+(Def.)","Sample Collection
+Method Name
+(Def.)","Field Gear
+(Def.)","Analysis
+Date
+Time
+(Def.)","Detection
+Quantitation
+Limit
+(Def.)"
+MD248962,Sandy Point State Park South Beach,AASPS2,Sandy Point State Park South Beach,ANNE ARUNDEL,AASPS220063Sample-RoutineWater,24-Aug-22,-,-,Sample-Routine,Enterococcus,-,10,MPN/100mL,-,-,-,ASTM,D6503-99,Standard Test Method for Enterococci in Water Using Enterolert,SP-001,Water Grab Sampling,Water Sampler (Other),-,-
+MD248962,Sandy Point State Park South Beach,AASPS2,Sandy Point State Park South Beach,ANNE ARUNDEL,AASPS220062Sample-RoutineWater,24-Aug-22,-,-,Sample-Routine,Enterococcus,-,10,MPN/100mL,-,-,-,ASTM,D6503-99,Standard Test Method for Enterococci in Water Using Enterolert,SP-001,Water Grab Sampling,Water Sampler (Other),-,-
+MD248962,Sandy Point State Park South Beach,AASPS2,Sandy Point State Park South Beach,ANNE ARUNDEL,AASPS220061Sample-RoutineWater,24-Aug-22,-,-,Sample-Routine,Enterococcus,-,10,MPN/100mL,-,-,-,ASTM,D6503-99,Standard Test Method for Enterococci in Water Using Enterolert,SP-001,Water Grab Sampling,Water Sampler (Other),-,-
+MD248962,Sandy Point State Park South Beach,AASPS2,Sandy Point State Park South Beach,ANNE ARUNDEL,AASPS219197Sample-RoutineWater,29-Aug-22,-,-,Sample-Routine,Enterococcus,-,10,MPN/100mL,birds,-,-,ASTM,D6503-99,Standard Test Method for Enterococci in Water Using Enterolert,SP-001,Water Grab Sampling,Water Sampler (Other),-,-
+MD248962,Sandy Point State Park South Beach,AASPS2,Sandy Point State Park South Beach,ANNE ARUNDEL,AASPS219196Sample-RoutineWater,29-Aug-22,-,-,Sample-Routine,Enterococcus,-,10,MPN/100mL,birds,-,-,ASTM,D6503-99,Standard Test Method for Enterococci in Water Using Enterolert,SP-001,Water Grab Sampling,Water Sampler (Other),-,-
+MD248962,Sandy Point State Park South Beach,AASPS2,Sandy Point State Park South Beach,ANNE ARUNDEL,AASPS219195Sample-RoutineWater,29-Aug-22,-,-,Sample-Routine,Enterococcus,-,10,MPN/100mL,birds,-,-,ASTM,D6503-99,Standard Test Method for Enterococci in Water Using Enterolert,SP-001,Water Grab Sampling,Water Sampler (Other),-,-
+MD248962,Sandy Point State Park South Beach,AASPS2,Sandy Point State Park South Beach,ANNE ARUNDEL,AASPS218416Sample-RoutineWater,08-Aug-22,-,-,Sample-Routine,Enterococcus,-,60,MPN/100mL,-,-,-,ASTM,D6503-99,Standard Test Method for Enterococci in Water Using Enterolert,SP-001,Water Grab Sampling,Water Sampler (Other),-,-
+MD248962,Sandy Point State Park South Beach,AASPS2,Sandy Point State Park South Beach,ANNE ARUNDEL,AASPS218415Sample-RoutineWater,08-Aug-22,-,-,Sample-Routine,Enterococcus,-,50,MPN/100mL,-,-,-,ASTM,D6503-99,Standard Test Method for Enterococci in Water Using Enterolert,SP-001,Water Grab Sampling,Water Sampler (Other),-,-
+MD248962,Sandy Point State Park South Beach,AASPS2,Sandy Point State Park South Beach,ANNE ARUNDEL,AASPS218414Sample-RoutineWater,08-Aug-22,-,-,Sample-Routine,Enterococcus,-,50,MPN/100mL,-,-,-,ASTM,D6503-99,Standard Test Method for Enterococci in Water Using Enterolert,SP-001,Water Grab Sampling,Water Sampler (Other),-,-
+MD248962,Sandy Point State Park South Beach,AASPS2,Sandy Point State Park South Beach,ANNE ARUNDEL,AASPS218219Sample-RoutineWater,15-Aug-22,-,-,Sample-Routine,Enterococcus,-,10,MPN/100mL,-,-,-,ASTM,D6503-99,Standard Test Method for Enterococci in Water Using Enterolert,SP-001,Water Grab Sampling,Water Sampler (Other),-,-
+MD248962,Sandy Point State Park South Beach,AASPS2,Sandy Point State Park South Beach,ANNE ARUNDEL,AASPS218176Sample-RoutineWater,15-Aug-22,-,-,Sample-Routine,Enterococcus,-,10,MPN/100mL,-,-,-,ASTM,D6503-99,Standard Test Method for Enterococci in Water Using Enterolert,SP-001,Water Grab Sampling,Water Sampler (Other),-,-
+MD248962,Sandy Point State Park South Beach,AASPS2,Sandy Point State Park South Beach,ANNE ARUNDEL,AASPS218175Sample-RoutineWater,15-Aug-22,-,-,Sample-Routine,Enterococcus,-,10,MPN/100mL,-,-,-,ASTM,D6503-99,Standard Test Method for Enterococci in Water Using Enterolert,SP-001,Water Grab Sampling,Water Sampler (Other),-,-
+MD248962,Sandy Point State Park South Beach,AASPS2,Sandy Point State Park South Beach,ANNE ARUNDEL,AASPS217913Sample-RoutineWater,01-Aug-22,-,-,Sample-Routine,Enterococcus,-,50,MPN/100mL,-,-,-,ASTM,D6503-99,Standard Test Method for Enterococci in Water Using Enterolert,SP-001,Water Grab Sampling,Water Sampler (Other),-,-
+MD248962,Sandy Point State Park South Beach,AASPS2,Sandy Point State Park South Beach,ANNE ARUNDEL,AASPS217912Sample-RoutineWater,01-Aug-22,-,-,Sample-Routine,Enterococcus,-,10,MPN/100mL,-,-,-,ASTM,D6503-99,Standard Test Method for Enterococci in Water Using Enterolert,SP-001,Water Grab Sampling,Water Sampler (Other),-,-
+MD248962,Sandy Point State Park South Beach,AASPS2,Sandy Point State Park South Beach,ANNE ARUNDEL,AASPS217911Sample-RoutineWater,01-Aug-22,-,-,Sample-Routine,Enterococcus,-,60,MPN/100mL,-,-,-,ASTM,D6503-99,Standard Test Method for Enterococci in Water Using Enterolert,SP-001,Water Grab Sampling,Water Sampler (Other),-,-
+MD248962,Sandy Point State Park South Beach,AASPS2,Sandy Point State Park South Beach,ANNE ARUNDEL,AASPS217361Sample-RoutineWater,25-Jul-22,-,-,Sample-Routine,Enterococcus,-,40,MPN/100mL,-,-,-,ASTM,D6503-99,Standard Test Method for Enterococci in Water Using Enterolert,SP-001,Water Grab Sampling,Water Sampler (Other),-,-
+MD248962,Sandy Point State Park South Beach,AASPS2,Sandy Point State Park South Beach,ANNE ARUNDEL,AASPS217360Sample-RoutineWater,25-Jul-22,-,-,Sample-Routine,Enterococcus,-,60,MPN/100mL,-,-,-,ASTM,D6503-99,Standard Test Method for Enterococci in Water Using Enterolert,SP-001,Water Grab Sampling,Water Sampler (Other),-,-
+MD248962,Sandy Point State Park South Beach,AASPS2,Sandy Point State Park South Beach,ANNE ARUNDEL,AASPS217359Sample-RoutineWater,25-Jul-22,-,-,Sample-Routine,Enterococcus,-,60,MPN/100mL,-,-,-,ASTM,D6503-99,Standard Test Method for Enterococci in Water Using Enterolert,SP-001,Water Grab Sampling,Water Sampler (Other),-,-
+MD248962,Sandy Point State Park South Beach,AASPS2,Sandy Point State Park South Beach,ANNE ARUNDEL,AASPS217090Sample-RoutineWater,19-Jul-22,-,-,Sample-Routine,Enterococcus,-,10,MPN/100mL,-,-,-,ASTM,D6503-99,Standard Test Method for Enterococci in Water Using Enterolert,SP-001,Water Grab Sampling,Water Sampler (Other),-,-
+MD248962,Sandy Point State Park South Beach,AASPS2,Sandy Point State Park South Beach,ANNE ARUNDEL,AASPS217089Sample-RoutineWater,19-Jul-22,-,-,Sample-Routine,Enterococcus,-,10,MPN/100mL,-,-,-,ASTM,D6503-99,Standard Test Method for Enterococci in Water Using Enterolert,SP-001,Water Grab Sampling,Water Sampler (Other),-,-
+MD248962,Sandy Point State Park South Beach,AASPS2,Sandy Point State Park South Beach,ANNE ARUNDEL,AASPS217088Sample-RoutineWater,19-Jul-22,-,-,Sample-Routine,Enterococcus,-,20,MPN/100mL,-,-,-,ASTM,D6503-99,Standard Test Method for Enterococci in Water Using Enterolert,SP-001,Water Grab Sampling,Water Sampler (Other),-,-
+MD248962,Sandy Point State Park South Beach,AASPS2,Sandy Point State Park South Beach,ANNE ARUNDEL,AASPS216988Sample-RoutineWater,05-Jul-22,-,-,Sample-Routine,Enterococcus,-,530,MPN/100mL,White Caps/Rough,-,-,ASTM,D6503-99,Standard Test Method for Enterococci in Water Using Enterolert,SP-001,Water Grab Sampling,Water Sampler (Other),-,-
+MD248962,Sandy Point State Park South Beach,AASPS2,Sandy Point State Park South Beach,ANNE ARUNDEL,AASPS216987Sample-RoutineWater,05-Jul-22,-,-,Sample-Routine,Enterococcus,-,430,MPN/100mL,White Caps/Rough,-,-,ASTM,D6503-99,Standard Test Method for Enterococci in Water Using Enterolert,SP-001,Water Grab Sampling,Water Sampler (Other),-,-
+MD248962,Sandy Point State Park South Beach,AASPS2,Sandy Point State Park South Beach,ANNE ARUNDEL,AASPS216986Sample-RoutineWater,05-Jul-22,-,-,Sample-Routine,Enterococcus,-,620,MPN/100mL,White Caps/Rough,-,-,ASTM,D6503-99,Standard Test Method for Enterococci in Water Using Enterolert,SP-001,Water Grab Sampling,Water Sampler (Other),-,-
+MD248962,Sandy Point State Park South Beach,AASPS2,Sandy Point State Park South Beach,ANNE ARUNDEL,AASPS216482Sample-RoutineWater,12-Jul-22,-,-,Sample-Routine,Enterococcus,-,40,MPN/100mL,-,-,-,ASTM,D6503-99,Standard Test Method for Enterococci in Water Using Enterolert,SP-001,Water Grab Sampling,Water Sampler (Other),-,-
+MD248962,Sandy Point State Park South Beach,AASPS2,Sandy Point State Park South Beach,ANNE ARUNDEL,AASPS216481Sample-RoutineWater,12-Jul-22,-,-,Sample-Routine,Enterococcus,-,10,MPN/100mL,-,-,-,ASTM,D6503-99,Standard Test Method for Enterococci in Water Using Enterolert,SP-001,Water Grab Sampling,Water Sampler (Other),-,-
+MD248962,Sandy Point State Park South Beach,AASPS2,Sandy Point State Park South Beach,ANNE ARUNDEL,AASPS216480Sample-RoutineWater,12-Jul-22,-,-,Sample-Routine,Enterococcus,-,10,MPN/100mL,-,-,-,ASTM,D6503-99,Standard Test Method for Enterococci in Water Using Enterolert,SP-001,Water Grab Sampling,Water Sampler (Other),-,-
+MD248962,Sandy Point State Park South Beach,AASPS2,Sandy Point State Park South Beach,ANNE ARUNDEL,AASPS216112Sample-RoutineWater,30-Jun-22,-,-,Sample-Routine,Enterococcus,-,10,MPN/100mL,lots of people swimming,-,-,ASTM,D6503-99,Standard Test Method for Enterococci in Water Using Enterolert,SP-001,Water Grab Sampling,Water Sampler (Other),-,-
+MD248962,Sandy Point State Park South Beach,AASPS2,Sandy Point State Park South Beach,ANNE ARUNDEL,AASPS216111Sample-RoutineWater,30-Jun-22,-,-,Sample-Routine,Enterococcus,-,10,MPN/100mL,lots of people swimming,-,-,ASTM,D6503-99,Standard Test Method for Enterococci in Water Using Enterolert,SP-001,Water Grab Sampling,Water Sampler (Other),-,-
+MD248962,Sandy Point State Park South Beach,AASPS2,Sandy Point State Park South Beach,ANNE ARUNDEL,AASPS216110Sample-RoutineWater,30-Jun-22,-,-,Sample-Routine,Enterococcus,-,10,MPN/100mL,lots of people swimming,-,-,ASTM,D6503-99,Standard Test Method for Enterococci in Water Using Enterolert,SP-001,Water Grab Sampling,Water Sampler (Other),-,-
+MD248962,Sandy Point State Park South Beach,AASPS2,Sandy Point State Park South Beach,ANNE ARUNDEL,AASPS216055Sample-RoutineWater,27-Jun-22,-,-,Sample-Routine,Enterococcus,-,120,MPN/100mL,-,-,-,ASTM,D6503-99,Standard Test Method for Enterococci in Water Using Enterolert,SP-001,Water Grab Sampling,Water Sampler (Other),-,-
+MD248962,Sandy Point State Park South Beach,AASPS2,Sandy Point State Park South Beach,ANNE ARUNDEL,AASPS216054Sample-RoutineWater,27-Jun-22,-,-,Sample-Routine,Enterococcus,-,60,MPN/100mL,-,-,-,ASTM,D6503-99,Standard Test Method for Enterococci in Water Using Enterolert,SP-001,Water Grab Sampling,Water Sampler (Other),-,-
+MD248962,Sandy Point State Park South Beach,AASPS2,Sandy Point State Park South Beach,ANNE ARUNDEL,AASPS216053Sample-RoutineWater,27-Jun-22,-,-,Sample-Routine,Enterococcus,-,10,MPN/100mL,-,-,-,ASTM,D6503-99,Standard Test Method for Enterococci in Water Using Enterolert,SP-001,Water Grab Sampling,Water Sampler (Other),-,-
+MD248962,Sandy Point State Park South Beach,AASPS2,Sandy Point State Park South Beach,ANNE ARUNDEL,AASPS215670Sample-RoutineWater,22-Jun-22,-,-,Sample-Routine,Enterococcus,-,10,MPN/100mL,birds,-,-,ASTM,D6503-99,Standard Test Method for Enterococci in Water Using Enterolert,SP-001,Water Grab Sampling,Water Sampler (Other),-,-
+MD248962,Sandy Point State Park South Beach,AASPS2,Sandy Point State Park South Beach,ANNE ARUNDEL,AASPS215669Sample-RoutineWater,22-Jun-22,-,-,Sample-Routine,Enterococcus,-,10,MPN/100mL,birds,-,-,ASTM,D6503-99,Standard Test Method for Enterococci in Water Using Enterolert,SP-001,Water Grab Sampling,Water Sampler (Other),-,-
+MD248962,Sandy Point State Park South Beach,AASPS2,Sandy Point State Park South Beach,ANNE ARUNDEL,AASPS215668Sample-RoutineWater,22-Jun-22,-,-,Sample-Routine,Enterococcus,-,10,MPN/100mL,birds,-,-,ASTM,D6503-99,Standard Test Method for Enterococci in Water Using Enterolert,SP-001,Water Grab Sampling,Water Sampler (Other),-,-
+MD248962,Sandy Point State Park South Beach,AASPS2,Sandy Point State Park South Beach,ANNE ARUNDEL,AASPS214551Sample-RoutineWater,06-Jun-22,-,-,Sample-Routine,Enterococcus,-,10,MPN/100mL,-,-,-,ASTM,D6503-99,Standard Test Method for Enterococci in Water Using Enterolert,SP-001,Water Grab Sampling,Water Sampler (Other),-,-
+MD248962,Sandy Point State Park South Beach,AASPS2,Sandy Point State Park South Beach,ANNE ARUNDEL,AASPS214550Sample-RoutineWater,06-Jun-22,-,-,Sample-Routine,Enterococcus,-,10,MPN/100mL,-,-,-,ASTM,D6503-99,Standard Test Method for Enterococci in Water Using Enterolert,SP-001,Water Grab Sampling,Water Sampler (Other),-,-
+MD248962,Sandy Point State Park South Beach,AASPS2,Sandy Point State Park South Beach,ANNE ARUNDEL,AASPS214549Sample-RoutineWater,06-Jun-22,-,-,Sample-Routine,Enterococcus,-,10,MPN/100mL,-,-,-,ASTM,D6503-99,Standard Test Method for Enterococci in Water Using Enterolert,SP-001,Water Grab Sampling,Water Sampler (Other),-,-
+MD248962,Sandy Point State Park South Beach,AASPS2,Sandy Point State Park South Beach,ANNE ARUNDEL,AASPS214466Sample-RoutineWater,12-May-22,-,-,Sample-Routine,Enterococcus,-,20,MPN/100mL,-,-,-,ASTM,D6503-99,Standard Test Method for Enterococci in Water Using Enterolert,SP-001,Water Grab Sampling,Water Sampler (Other),-,-
+MD248962,Sandy Point State Park South Beach,AASPS2,Sandy Point State Park South Beach,ANNE ARUNDEL,AASPS214465Sample-RoutineWater,12-May-22,-,-,Sample-Routine,Enterococcus,-,10,MPN/100mL,-,-,-,ASTM,D6503-99,Standard Test Method for Enterococci in Water Using Enterolert,SP-001,Water Grab Sampling,Water Sampler (Other),-,-
+MD248962,Sandy Point State Park South Beach,AASPS2,Sandy Point State Park South Beach,ANNE ARUNDEL,AASPS214464Sample-RoutineWater,12-May-22,-,-,Sample-Routine,Enterococcus,-,10,MPN/100mL,-,-,-,ASTM,D6503-99,Standard Test Method for Enterococci in Water Using Enterolert,SP-001,Water Grab Sampling,Water Sampler (Other),-,-
+MD248962,Sandy Point State Park South Beach,AASPS2,Sandy Point State Park South Beach,ANNE ARUNDEL,AASPS214279Sample-RoutineWater,02-Jun-22,-,-,Sample-Routine,Enterococcus,-,10,MPN/100mL,-,-,-,ASTM,D6503-99,Standard Test Method for Enterococci in Water Using Enterolert,SP-001,Water Grab Sampling,Water Sampler (Other),-,-
+MD248962,Sandy Point State Park South Beach,AASPS2,Sandy Point State Park South Beach,ANNE ARUNDEL,AASPS214278Sample-RoutineWater,02-Jun-22,-,-,Sample-Routine,Enterococcus,-,10,MPN/100mL,-,-,-,ASTM,D6503-99,Standard Test Method for Enterococci in Water Using Enterolert,SP-001,Water Grab Sampling,Water Sampler (Other),-,-
+MD248962,Sandy Point State Park South Beach,AASPS2,Sandy Point State Park South Beach,ANNE ARUNDEL,AASPS214277Sample-RoutineWater,02-Jun-22,-,-,Sample-Routine,Enterococcus,-,10,MPN/100mL,-,-,-,ASTM,D6503-99,Standard Test Method for Enterococci in Water Using Enterolert,SP-001,Water Grab Sampling,Water Sampler (Other),-,-
+MD248962,Sandy Point State Park South Beach,AASPS2,Sandy Point State Park South Beach,ANNE ARUNDEL,AASPS213647Sample-RoutineWater,26-May-22,-,-,Sample-Routine,Enterococcus,-,10,MPN/100mL,-,-,-,ASTM,D6503-99,Standard Test Method for Enterococci in Water Using Enterolert,SP-001,Water Grab Sampling,Water Sampler (Other),-,-
+MD248962,Sandy Point State Park South Beach,AASPS2,Sandy Point State Park South Beach,ANNE ARUNDEL,AASPS213646Sample-RoutineWater,26-May-22,-,-,Sample-Routine,Enterococcus,-,10,MPN/100mL,-,-,-,ASTM,D6503-99,Standard Test Method for Enterococci in Water Using Enterolert,SP-001,Water Grab Sampling,Water Sampler (Other),-,-
+MD248962,Sandy Point State Park South Beach,AASPS2,Sandy Point State Park South Beach,ANNE ARUNDEL,AASPS213645Sample-RoutineWater,26-May-22,-,-,Sample-Routine,Enterococcus,-,10,MPN/100mL,-,-,-,ASTM,D6503-99,Standard Test Method for Enterococci in Water Using Enterolert,SP-001,Water Grab Sampling,Water Sampler (Other),-,-
+MD248962,Sandy Point State Park South Beach,AASPS2,Sandy Point State Park South Beach,ANNE ARUNDEL,AASPS213542Sample-RoutineWater,16-May-22,-,-,Sample-Routine,Enterococcus,-,10,MPN/100mL,-,-,-,ASTM,D6503-99,Standard Test Method for Enterococci in Water Using Enterolert,SP-001,Water Grab Sampling,Water Sampler (Other),-,-
+MD248962,Sandy Point State Park South Beach,AASPS2,Sandy Point State Park South Beach,ANNE ARUNDEL,AASPS213541Sample-RoutineWater,16-May-22,-,-,Sample-Routine,Enterococcus,-,20,MPN/100mL,-,-,-,ASTM,D6503-99,Standard Test Method for Enterococci in Water Using Enterolert,SP-001,Water Grab Sampling,Water Sampler (Other),-,-

@@ -1,0 +1,91 @@
+"each ID
+(Def.)","Beach Name
+(Def.)","Station
+ID
+(Def.)","Station Name
+(Def.)","County
+Name
+(Def.)","Identifier
+(Def.)","Start
+Date
+(Def.)","Start
+Time
+(Def.)","Zone
+Code
+(Def.)","Activity
+Type
+Code
+(Def.)","Characteristic
+Name
+(Def.)","Result Value
+Text
+(Def.)","Result
+Value
+(Def.)","Result
+Measure
+Unit","Result Comment
+(Def.)","Activity
+Depth
+Value
+(Def.)","Activity
+Depth
+Unit
+Code
+(Def.)","Result
+Analytical
+Method
+Identifier
+Context
+(Def.)","Result
+Analytical
+Method
+Identifier
+(Def.)","Result
+Analytical
+Method
+Name
+(Def.)","Sample Collection
+Method Identifier
+(Def.)","Sample Collection
+Method Name
+(Def.)","Field Gear
+(Def.)","Analysis
+Date
+Time
+(Def.)","Detection
+Quantitation
+Limit
+(Def.)"
+NY854811,MANOR HAVEN BEACH,NY854811-01,MANOR HAVEN BEACH,NASSAU,2022120236,31-Aug-22,-,-,Sample-Routine,Enterococcus,-,11,#/100mL,-,3,ft,USEPA,1600,Enterococci in Water by Membrane Filtration Using membrane-Enterococcus Indoxyl-B-D-Glucoside Agar (mEl),routine,SEE NYS QAPP,Water Bottle,-,-
+NY854811,MANOR HAVEN BEACH,NY854811-01,MANOR HAVEN BEACH,NASSAU,2022119823,24-Aug-22,-,-,Sample-Routine,Enterococcus,-,29,#/100mL,-,3,ft,USEPA,1600,Enterococci in Water by Membrane Filtration Using membrane-Enterococcus Indoxyl-B-D-Glucoside Agar (mEl),routine,SEE NYS QAPP,Water Bottle,-,-
+NY854811,MANOR HAVEN BEACH,NY854811-01,MANOR HAVEN BEACH,NASSAU,2022119635,22-Aug-22,-,-,Sample-Routine,Enterococcus,-,40,#/100mL,-,3,ft,USEPA,1600,Enterococci in Water by Membrane Filtration Using membrane-Enterococcus Indoxyl-B-D-Glucoside Agar (mEl),routine,SEE NYS QAPP,Water Bottle,-,-
+NY854811,MANOR HAVEN BEACH,NY854811-01,MANOR HAVEN BEACH,NASSAU,2022119239,17-Aug-22,-,-,Sample-Routine,Enterococcus,-,8,#/100mL,-,3,ft,USEPA,1600,Enterococci in Water by Membrane Filtration Using membrane-Enterococcus Indoxyl-B-D-Glucoside Agar (mEl),routine,SEE NYS QAPP,Water Bottle,-,-
+NY854811,MANOR HAVEN BEACH,NY854811-01,MANOR HAVEN BEACH,NASSAU,2022119113,15-Aug-22,-,-,Sample-Routine,Enterococcus,-,5,#/100mL,-,3,ft,USEPA,1600,Enterococci in Water by Membrane Filtration Using membrane-Enterococcus Indoxyl-B-D-Glucoside Agar (mEl),routine,SEE NYS QAPP,Water Bottle,-,-
+NY854811,MANOR HAVEN BEACH,NY854811-01,MANOR HAVEN BEACH,NASSAU,2022118806,10-Aug-22,-,-,Sample-Routine,Enterococcus,-,140,#/100mL,-,3,ft,USEPA,1600,Enterococci in Water by Membrane Filtration Using membrane-Enterococcus Indoxyl-B-D-Glucoside Agar (mEl),routine,SEE NYS QAPP,Water Bottle,-,-
+NY854811,MANOR HAVEN BEACH,NY854811-01,MANOR HAVEN BEACH,NASSAU,2022118628,08-Aug-22,-,-,Sample-Routine,Enterococcus,-,5,#/100mL,-,3,ft,USEPA,1600,Enterococci in Water by Membrane Filtration Using membrane-Enterococcus Indoxyl-B-D-Glucoside Agar (mEl),routine,SEE NYS QAPP,Water Bottle,-,-
+NY854811,MANOR HAVEN BEACH,NY854811-01,MANOR HAVEN BEACH,NASSAU,2022118349,03-Aug-22,-,-,Sample-Routine,Enterococcus,Present Below Quantification Limit,-,-,-,3,ft,USEPA,1600,Enterococci in Water by Membrane Filtration Using membrane-Enterococcus Indoxyl-B-D-Glucoside Agar (mEl),routine,SEE NYS QAPP,Water Bottle,-,Lower Quantitation Limit~1.00~#/100mL
+NY854811,MANOR HAVEN BEACH,NY854811-01,MANOR HAVEN BEACH,NASSAU,2022118146,01-Aug-22,-,-,Sample-Routine,Enterococcus,-,28,#/100mL,-,3,ft,USEPA,1600,Enterococci in Water by Membrane Filtration Using membrane-Enterococcus Indoxyl-B-D-Glucoside Agar (mEl),routine,SEE NYS QAPP,Water Bottle,-,-
+NY854811,MANOR HAVEN BEACH,NY854811-01,MANOR HAVEN BEACH,NASSAU,2022118089,27-Jul-22,-,-,Sample-Routine,Enterococcus,-,110,#/100mL,-,3,ft,USEPA,1600,Enterococci in Water by Membrane Filtration Using membrane-Enterococcus Indoxyl-B-D-Glucoside Agar (mEl),routine,SEE NYS QAPP,Water Bottle,-,-
+NY854811,MANOR HAVEN BEACH,NY854811-01,MANOR HAVEN BEACH,NASSAU,2022117538,25-Jul-22,-,-,Sample-Routine,Enterococcus,-,690,#/100mL,-,3,ft,USEPA,1600,Enterococci in Water by Membrane Filtration Using membrane-Enterococcus Indoxyl-B-D-Glucoside Agar (mEl),routine,SEE NYS QAPP,Water Bottle,-,-
+NY854811,MANOR HAVEN BEACH,NY854811-01,MANOR HAVEN BEACH,NASSAU,2022117338,20-Jul-22,-,-,Sample-Routine,Enterococcus,-,16,#/100mL,-,3,ft,USEPA,1600,Enterococci in Water by Membrane Filtration Using membrane-Enterococcus Indoxyl-B-D-Glucoside Agar (mEl),routine,SEE NYS QAPP,Water Bottle,-,-
+NY854811,MANOR HAVEN BEACH,NY854811-01,MANOR HAVEN BEACH,NASSAU,2022117017,18-Jul-22,-,-,Sample-Routine,Enterococcus,-,14,#/100mL,-,3,ft,USEPA,1600,Enterococci in Water by Membrane Filtration Using membrane-Enterococcus Indoxyl-B-D-Glucoside Agar (mEl),routine,SEE NYS QAPP,Water Bottle,-,-
+NY854811,MANOR HAVEN BEACH,NY854811-01,MANOR HAVEN BEACH,NASSAU,2022116770,13-Jul-22,-,-,Sample-Routine,Enterococcus,-,320,#/100mL,-,3,ft,USEPA,1600,Enterococci in Water by Membrane Filtration Using membrane-Enterococcus Indoxyl-B-D-Glucoside Agar (mEl),routine,SEE NYS QAPP,Water Bottle,-,-
+NY854811,MANOR HAVEN BEACH,NY854811-01,MANOR HAVEN BEACH,NASSAU,2022116509,11-Jul-22,-,-,Sample-Routine,Enterococcus,-,40,#/100mL,-,3,ft,USEPA,1600,Enterococci in Water by Membrane Filtration Using membrane-Enterococcus Indoxyl-B-D-Glucoside Agar (mEl),routine,SEE NYS QAPP,Water Bottle,-,-
+NY854811,MANOR HAVEN BEACH,NY854811-01,MANOR HAVEN BEACH,NASSAU,2022116203,06-Jul-22,-,-,Sample-Routine,Enterococcus,Present Below Quantification Limit,-,-,-,3,ft,USEPA,1600,Enterococci in Water by Membrane Filtration Using membrane-Enterococcus Indoxyl-B-D-Glucoside Agar (mEl),routine,SEE NYS QAPP,Water Bottle,-,Lower Quantitation Limit~1.00~#/100mL
+NY854811,MANOR HAVEN BEACH,NY854811-01,MANOR HAVEN BEACH,NASSAU,2022115881,29-Jun-22,-,-,Sample-Routine,Enterococcus,-,23,#/100mL,-,3,ft,USEPA,1600,Enterococci in Water by Membrane Filtration Using membrane-Enterococcus Indoxyl-B-D-Glucoside Agar (mEl),routine,SEE NYS QAPP,Water Bottle,-,-
+NY854811,MANOR HAVEN BEACH,NY854811-01,MANOR HAVEN BEACH,NASSAU,2022115716,27-Jun-22,-,-,Sample-Routine,Enterococcus,-,31,#/100mL,-,3,ft,USEPA,1600,Enterococci in Water by Membrane Filtration Using membrane-Enterococcus Indoxyl-B-D-Glucoside Agar (mEl),routine,SEE NYS QAPP,Water Bottle,-,-
+NY854811,MANOR HAVEN BEACH,NY854811-01,MANOR HAVEN BEACH,NASSAU,2022115325,22-Jun-22,-,-,Sample-Routine,Enterococcus,-,6,#/100mL,-,3,ft,USEPA,1600,Enterococci in Water by Membrane Filtration Using membrane-Enterococcus Indoxyl-B-D-Glucoside Agar (mEl),routine,SEE NYS QAPP,Water Bottle,-,-
+NY854811,MANOR HAVEN BEACH,NY854811-01,MANOR HAVEN BEACH,NASSAU,2022115166,20-Jun-22,-,-,Sample-Routine,Enterococcus,-,1,#/100mL,-,3,ft,USEPA,1600,Enterococci in Water by Membrane Filtration Using membrane-Enterococcus Indoxyl-B-D-Glucoside Agar (mEl),routine,SEE NYS QAPP,Water Bottle,-,-
+NY854811,MANOR HAVEN BEACH,NY854811-01,MANOR HAVEN BEACH,NASSAU,2022114901,15-Jun-22,-,-,Sample-Routine,Enterococcus,-,7,#/100mL,-,3,ft,USEPA,1600,Enterococci in Water by Membrane Filtration Using membrane-Enterococcus Indoxyl-B-D-Glucoside Agar (mEl),routine,SEE NYS QAPP,Water Bottle,-,-
+NY854811,MANOR HAVEN BEACH,NY854811-01,MANOR HAVEN BEACH,NASSAU,2022114722,13-Jun-22,-,-,Sample-Routine,Enterococcus,-,7,#/100mL,-,3,ft,USEPA,1600,Enterococci in Water by Membrane Filtration Using membrane-Enterococcus Indoxyl-B-D-Glucoside Agar (mEl),routine,SEE NYS QAPP,Water Bottle,-,-
+NY854811,MANOR HAVEN BEACH,NY854811-01,MANOR HAVEN BEACH,NASSAU,2022114551,08-Jun-22,-,-,Sample-Routine,Enterococcus,-,1,#/100mL,-,3,ft,USEPA,1600,Enterococci in Water by Membrane Filtration Using membrane-Enterococcus Indoxyl-B-D-Glucoside Agar (mEl),routine,SEE NYS QAPP,Water Bottle,-,-
+NY854811,MANOR HAVEN BEACH,NY854811-01,MANOR HAVEN BEACH,NASSAU,2022114053,06-Jun-22,-,-,Sample-Routine,Enterococcus,-,2,#/100mL,-,3,ft,USEPA,1600,Enterococci in Water by Membrane Filtration Using membrane-Enterococcus Indoxyl-B-D-Glucoside Agar (mEl),routine,SEE NYS QAPP,Water Bottle,-,-
+NY854811,MANOR HAVEN BEACH,NY854811-01,MANOR HAVEN BEACH,NASSAU,2022113930,01-Jun-22,-,-,Sample-Routine,Enterococcus,Present Below Quantification Limit,-,-,-,3,ft,USEPA,1600,Enterococci in Water by Membrane Filtration Using membrane-Enterococcus Indoxyl-B-D-Glucoside Agar (mEl),routine,SEE NYS QAPP,Water Bottle,-,Lower Quantitation Limit~1.00~#/100mL
+NY854811,MANOR HAVEN BEACH,NY854811-01,MANOR HAVEN BEACH,NASSAU,2022113677,25-May-22,-,-,Sample-Routine,Enterococcus,Present Below Quantification Limit,-,-,-,3,ft,USEPA,1600,Enterococci in Water by Membrane Filtration Using membrane-Enterococcus Indoxyl-B-D-Glucoside Agar (mEl),routine,SEE NYS QAPP,Water Bottle,-,Lower Quantitation Limit~1.00~#/100mL
+NY854811,MANOR HAVEN BEACH,NY854811-01,MANOR HAVEN BEACH,NASSAU,2022113363,18-May-22,-,-,Sample-Routine,Enterococcus,-,1,#/100mL,-,3,ft,USEPA,1600,Enterococci in Water by Membrane Filtration Using membrane-Enterococcus Indoxyl-B-D-Glucoside Agar (mEl),routine,SEE NYS QAPP,Water Bottle,-,-
+NY854811,MANOR HAVEN BEACH,NY854811-01,MANOR HAVEN BEACH,NASSAU,2022113048,04-May-22,-,-,Sample-Routine,Enterococcus,Present Below Quantification Limit,-,-,-,3,ft,USEPA,1600,Enterococci in Water by Membrane Filtration Using membrane-Enterococcus Indoxyl-B-D-Glucoside Agar (mEl),routine,SEE NYS QAPP,Water Bottle,-,Lower Quantitation Limit~1.00~#/100mL
+NY854811,MANOR HAVEN BEACH,NY854811-01,MANOR HAVEN BEACH,NASSAU,2022113037,02-May-22,-,-,Sample-Routine,Enterococcus,Present Below Quantification Limit,-,-,-,3,ft,USEPA,1600,Enterococci in Water by Membrane Filtration Using membrane-Enterococcus Indoxyl-B-D-Glucoside Agar (mEl),routine,SEE NYS QAPP,Water Bottle,-,Lower Quantitation Limit~1.00~#/100mL
+NY854811,MANOR HAVEN BEACH,NY854811-01,MANOR HAVEN BEACH,NASSAU,2022113026,27-Apr-22,-,-,Sample-Routine,Enterococcus,Present Below Quantification Limit,-,-,-,3,ft,USEPA,1600,Enterococci in Water by Membrane Filtration Using membrane-Enterococcus Indoxyl-B-D-Glucoside Agar (mEl),routine,SEE NYS QAPP,Water Bottle,-,Lower Quantitation Limit~1.00~#/100mL
+NY854811,MANOR HAVEN BEACH,NY854811-01,MANOR HAVEN BEACH,NASSAU,2022112996,25-Apr-22,-,-,Sample-Routine,Enterococcus,Present Below Quantification Limit,-,-,-,3,ft,USEPA,1600,Enterococci in Water by Membrane Filtration Using membrane-Enterococcus Indoxyl-B-D-Glucoside Agar (mEl),routine,SEE NYS QAPP,Water Bottle,-,Lower Quantitation Limit~1.00~#/100mL
+NY854811,MANOR HAVEN BEACH,NY854811-01,MANOR HAVEN BEACH,NASSAU,2022112964,20-Apr-22,-,-,Sample-Routine,Enterococcus,Present Below Quantification Limit,-,-,-,3,ft,USEPA,1600,Enterococci in Water by Membrane Filtration Using membrane-Enterococcus Indoxyl-B-D-Glucoside Agar (mEl),routine,SEE NYS QAPP,Water Bottle,-,Lower Quantitation Limit~1.00~#/100mL
+NY854811,MANOR HAVEN BEACH,NY854811-01,MANOR HAVEN BEACH,NASSAU,2022112891,11-Apr-22,-,-,Sample-Routine,Enterococcus,Present Below Quantification Limit,-,-,-,3,ft,USEPA,1600,,,,,,

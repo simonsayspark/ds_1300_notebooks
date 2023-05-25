@@ -1,0 +1,91 @@
+"Beach ID
+(Def.)","Beach Name
+(Def.)","Station
+ID
+(Def.)","Station Name
+(Def.)","County
+Name
+(Def.)","Identifier
+(Def.)","Start
+Date
+(Def.)","Start
+Time
+(Def.)","Zone
+Code
+(Def.)","Activity
+Type
+Code
+(Def.)","Characteristic
+Name
+(Def.)","Result Value
+Text
+(Def.)","Result
+Value
+(Def.)","Result
+Measure
+Unit","Result Comment
+(Def.)","Activity
+Depth
+Value
+(Def.)","Activity
+Depth
+Unit
+Code
+(Def.)","Result
+Analytical
+Method
+Identifier
+Context
+(Def.)","Result
+Analytical
+Method
+Identifier
+(Def.)","Result
+Analytical
+Method
+Name
+(Def.)","Sample Collection
+Method Identifier
+(Def.)","Sample Collection
+Method Name
+(Def.)","Field Gear
+(Def.)",,
+DE237526,Bethany Beach,DE237526,Bethany Beach,SUSSEX,DE237526-005540-S-0-Enterococcus,14-Sep-22,-,-,Sample-Routine,Enterococcus,-,5,#/100mL,-,-,-,IDEXX,Enterolert2000,Enterolert Test Kit Procedure,ROUTINE,Routine Sampling,Water Bottle,"Analysis
+Date
+Time
+(Def.)","Detection
+Quantitation
+Limit
+(Def.)"
+DE237526,Bethany Beach,DE237526,Bethany Beach,SUSSEX,DE237526-005539-S-0-Enterococcus,14-Sep-22,-,-,Sample-Routine,Enterococcus,-,5,#/100mL,-,-,-,IDEXX,Enterolert2000,Enterolert Test Kit Procedure,ROUTINE,Routine Sampling,Water Bottle,-,-
+DE237526,Bethany Beach,DE237526,Bethany Beach,SUSSEX,DE237526-005538-S-0-Enterococcus,12-Sep-22,-,-,Sample-Routine,Enterococcus,-,5,#/100mL,-,-,-,IDEXX,Enterolert2000,Enterolert Test Kit Procedure,ROUTINE,Routine Sampling,Water Bottle,-,-
+DE237526,Bethany Beach,DE237526,Bethany Beach,SUSSEX,DE237526-005536-S-0-Enterococcus,06-Sep-22,-,-,Sample-Routine,Enterococcus,-,10,#/100mL,-,-,-,IDEXX,Enterolert2000,Enterolert Test Kit Procedure,ROUTINE,Routine Sampling,Water Bottle,-,-
+DE237526,Bethany Beach,DE237526,Bethany Beach,SUSSEX,DE237526-005535-S-0-Enterococcus,31-Aug-22,-,-,Sample-Routine,Enterococcus,-,5,#/100mL,-,-,-,IDEXX,Enterolert2000,Enterolert Test Kit Procedure,ROUTINE,Routine Sampling,Water Bottle,-,-
+DE237526,Bethany Beach,DE237526,Bethany Beach,SUSSEX,DE237526-005534-S-0-Enterococcus,29-Aug-22,-,-,Sample-Routine,Enterococcus,-,5,#/100mL,-,-,-,IDEXX,Enterolert2000,Enterolert Test Kit Procedure,ROUTINE,Routine Sampling,Water Bottle,-,-
+DE237526,Bethany Beach,DE237526,Bethany Beach,SUSSEX,DE237526-005533-S-0-Enterococcus,24-Aug-22,-,-,Sample-Routine,Enterococcus,-,5,#/100mL,-,-,-,IDEXX,Enterolert2000,Enterolert Test Kit Procedure,ROUTINE,Routine Sampling,Water Bottle,-,-
+DE237526,Bethany Beach,DE237526,Bethany Beach,SUSSEX,DE237526-005530-S-0-Enterococcus,22-Aug-22,-,-,Sample-Routine,Enterococcus,-,10,#/100mL,-,-,-,IDEXX,Enterolert2000,Enterolert Test Kit Procedure,ROUTINE,Routine Sampling,Water Bottle,-,-
+DE237526,Bethany Beach,DE237526,Bethany Beach,SUSSEX,DE237526-005529-S-0-Enterococcus,17-Aug-22,-,-,Sample-Routine,Enterococcus,-,10,#/100mL,-,-,-,IDEXX,Enterolert2000,Enterolert Test Kit Procedure,ROUTINE,Routine Sampling,Water Bottle,-,-
+DE237526,Bethany Beach,DE237526,Bethany Beach,SUSSEX,DE237526-005527-S-0-Enterococcus,15-Aug-22,-,-,Sample-Routine,Enterococcus,-,10,#/100mL,-,-,-,IDEXX,Enterolert2000,Enterolert Test Kit Procedure,ROUTINE,Routine Sampling,Water Bottle,-,-
+DE237526,Bethany Beach,DE237526,Bethany Beach,SUSSEX,DE237526-005525-S-0-Enterococcus,10-Aug-22,-,-,Sample-Routine,Enterococcus,-,5,#/100mL,-,-,-,IDEXX,Enterolert2000,Enterolert Test Kit Procedure,ROUTINE,Routine Sampling,Water Bottle,-,-
+DE237526,Bethany Beach,DE237526,Bethany Beach,SUSSEX,DE237526-005524-S-0-Enterococcus,08-Aug-22,-,-,Sample-Routine,Enterococcus,-,5,#/100mL,-,-,-,IDEXX,Enterolert2000,Enterolert Test Kit Procedure,ROUTINE,Routine Sampling,Water Bottle,-,-
+DE237526,Bethany Beach,DE237526,Bethany Beach,SUSSEX,DE237526-005523-S-0-Enterococcus,04-Aug-22,-,-,Sample-Routine,Enterococcus,-,10,#/100mL,-,-,-,IDEXX,Enterolert2000,Enterolert Test Kit Procedure,ROUTINE,Routine Sampling,Water Bottle,-,-
+DE237526,Bethany Beach,DE237526,Bethany Beach,SUSSEX,DE237526-005522-S-0-Enterococcus,03-Aug-22,-,-,Sample-Routine,Enterococcus,-,3873,#/100mL,-,-,-,IDEXX,Enterolert2000,Enterolert Test Kit Procedure,ROUTINE,Routine Sampling,Water Bottle,-,-
+DE237526,Bethany Beach,DE237526,Bethany Beach,SUSSEX,DE237526-005521-S-0-Enterococcus,01-Aug-22,-,-,Sample-Routine,Enterococcus,-,10,#/100mL,-,-,-,IDEXX,Enterolert2000,Enterolert Test Kit Procedure,ROUTINE,Routine Sampling,Water Bottle,-,-
+DE237526,Bethany Beach,DE237526,Bethany Beach,SUSSEX,DE237526-005518-S-0-Enterococcus,27-Jul-22,-,-,Sample-Routine,Enterococcus,-,10,#/100mL,-,-,-,IDEXX,Enterolert2000,Enterolert Test Kit Procedure,ROUTINE,Routine Sampling,Water Bottle,-,-
+DE237526,Bethany Beach,DE237526,Bethany Beach,SUSSEX,DE237526-005517-S-0-Enterococcus,25-Jul-22,-,-,Sample-Routine,Enterococcus,-,5,#/100mL,-,-,-,IDEXX,Enterolert2000,Enterolert Test Kit Procedure,ROUTINE,Routine Sampling,Water Bottle,-,-
+DE237526,Bethany Beach,DE237526,Bethany Beach,SUSSEX,DE237526-005516-S-0-Enterococcus,20-Jul-22,-,-,Sample-Routine,Enterococcus,-,5,#/100mL,-,-,-,IDEXX,Enterolert2000,Enterolert Test Kit Procedure,ROUTINE,Routine Sampling,Water Bottle,-,-
+DE237526,Bethany Beach,DE237526,Bethany Beach,SUSSEX,DE237526-005515-S-0-Enterococcus,19-Jul-22,-,-,Sample-Routine,Enterococcus,-,5,#/100mL,-,-,-,IDEXX,Enterolert2000,Enterolert Test Kit Procedure,ROUTINE,Routine Sampling,Water Bottle,-,-
+DE237526,Bethany Beach,DE237526,Bethany Beach,SUSSEX,DE237526-005514-S-0-Enterococcus,13-Jul-22,-,-,Sample-Routine,Enterococcus,-,10,#/100mL,-,-,-,IDEXX,Enterolert2000,Enterolert Test Kit Procedure,ROUTINE,Routine Sampling,Water Bottle,-,-
+DE237526,Bethany Beach,DE237526,Bethany Beach,SUSSEX,DE237526-005513-S-0-Enterococcus,11-Jul-22,-,-,Sample-Routine,Enterococcus,-,20,#/100mL,-,-,-,IDEXX,Enterolert2000,Enterolert Test Kit Procedure,ROUTINE,Routine Sampling,Water Bottle,-,-
+DE237526,Bethany Beach,DE237526,Bethany Beach,SUSSEX,DE237526-005510-S-0-Enterococcus,05-Jul-22,-,-,Sample-Routine,Enterococcus,-,5,#/100mL,-,-,-,IDEXX,Enterolert2000,Enterolert Test Kit Procedure,ROUTINE,Routine Sampling,Water Bottle,-,-
+DE237526,Bethany Beach,DE237526,Bethany Beach,SUSSEX,DE237526-005509-S-0-Enterococcus,29-Jun-22,-,-,Sample-Routine,Enterococcus,-,5,#/100mL,-,-,-,IDEXX,Enterolert2000,Enterolert Test Kit Procedure,ROUTINE,Routine Sampling,Water Bottle,-,-
+DE237526,Bethany Beach,DE237526,Bethany Beach,SUSSEX,DE237526-005508-S-0-Enterococcus,27-Jun-22,-,-,Sample-Routine,Enterococcus,-,5,#/100mL,-,-,-,IDEXX,Enterolert2000,Enterolert Test Kit Procedure,ROUTINE,Routine Sampling,Water Bottle,-,-
+DE237526,Bethany Beach,DE237526,Bethany Beach,SUSSEX,DE237526-005506-S-0-Enterococcus,21-Jun-22,-,-,Sample-Routine,Enterococcus,-,10,#/100mL,-,-,-,IDEXX,Enterolert2000,Enterolert Test Kit Procedure,ROUTINE,Routine Sampling,Water Bottle,-,-
+DE237526,Bethany Beach,DE237526,Bethany Beach,SUSSEX,DE237526-005504-S-0-Enterococcus,13-Jun-22,-,-,Sample-Routine,Enterococcus,-,5,#/100mL,-,-,-,IDEXX,Enterolert2000,Enterolert Test Kit Procedure,ROUTINE,Routine Sampling,Water Bottle,-,-
+DE237526,Bethany Beach,DE237526,Bethany Beach,SUSSEX,DE237526-005502-S-0-Enterococcus,08-Jun-22,-,-,Sample-Routine,Enterococcus,-,5,#/100mL,-,-,-,IDEXX,Enterolert2000,Enterolert Test Kit Procedure,ROUTINE,Routine Sampling,Water Bottle,-,-
+DE237526,Bethany Beach,DE237526,Bethany Beach,SUSSEX,DE237526-005500-S-0-Enterococcus,06-Jun-22,-,-,Sample-Routine,Enterococcus,-,5,#/100mL,-,-,-,IDEXX,Enterolert2000,Enterolert Test Kit Procedure,ROUTINE,Routine Sampling,Water Bottle,-,-
+DE237526,Bethany Beach,DE237526,Bethany Beach,SUSSEX,DE237526-005499-S-0-Enterococcus,31-May-22,-,-,Sample-Routine,Enterococcus,-,5,#/100mL,-,-,-,IDEXX,Enterolert2000,Enterolert Test Kit Procedure,ROUTINE,Routine Sampling,Water Bottle,-,-
+DE237526,Bethany Beach,DE237526,Bethany Beach,SUSSEX,DE237526-005498-S-0-Enterococcus,25-May-22,-,-,Sample-Routine,Enterococcus,-,10,#/100mL,-,-,-,IDEXX,Enterolert2000,Enterolert Test Kit Procedure,ROUTINE,Routine Sampling,Water Bottle,-,-
+DE237526,Bethany Beach,DE237526,Bethany Beach,SUSSEX,DE237526-005495-S-0-Enterococcus,23-May-22,-,-,Sample-Routine,Enterococcus,-,5,#/100mL,-,-,-,IDEXX,Enterolert2000,Enterolert Test Kit Procedure,ROUTINE,Routine Sampling,Water Bottle,-,-
+DE237526,Bethany Beach,DE237526,Bethany Beach,SUSSEX,DE237526-005493-S-0-Enterococcus,02-May-22,-,-,Sample-Routine,Enterococcus,-,5,#/100mL,-,-,-,IDEXX,Enterolert2000,Enterolert Test Kit Procedure,ROUTINE,Routine Sampling,Water Bottle,-,-
+Count: 32,,,,,,,,,,,,,,,,,,,,,,,-,-

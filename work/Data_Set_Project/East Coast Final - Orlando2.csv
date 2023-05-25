@@ -1,0 +1,78 @@
+"Beach ID
+(Def.)","Beach Name
+(Def.)","Station
+ID
+(Def.)","Station Name
+(Def.)","County
+Name
+(Def.)","Identifier
+(Def.)","Start
+Date
+(Def.)","Start
+Time
+(Def.)","Zone
+Code
+(Def.)","Activity
+Type
+Code
+(Def.)","Characteristic
+Name
+(Def.)","Result Value
+Text
+(Def.)","Result
+Value
+(Def.)","Result
+Measure
+Unit","Result Comment
+(Def.)","Activity
+Depth
+Value
+(Def.)","Activity
+Depth
+Unit
+Code
+(Def.)","Result
+Analytical
+Method
+Identifier
+Context
+(Def.)","Result
+Analytical
+Method
+Identifier
+(Def.)","Result
+Analytical
+Method
+Name
+(Def.)","Sample Collection
+Method Identifier
+(Def.)","Sample Collection
+Method Name
+(Def.)","Field Gear
+(Def.)","Analysis
+Date
+Time
+(Def.)","Detection
+Quantitation
+Limit
+(Def.)"
+FL401816,SOUTH FLAGLER PIER,FLAGLER105,SOUTH FLAGLER PIER @ FLAGLER BEACH,FLAGLER,FLAGLER105S103122,31-Oct-22,12:01:00 PM,EDT,Sample-Routine,Enterococcus,-,20,MPN/100mL,-,18,in,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,Direct Grab,Direct Grab,Water Sampler (Other),11-01-2022,Practical Quantitation Limit~10~MPN/100mL
+FL401816,SOUTH FLAGLER PIER,FLAGLER105,SOUTH FLAGLER PIER @ FLAGLER BEACH,FLAGLER,FLAGLER105S101722,17-Oct-22,2:19:00 PM,EDT,Sample-Routine,Enterococcus,-,10,MPN/100mL,**U**,18,in,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,Direct Grab,Direct Grab,Water Sampler (Other),10-18-2022,Practical Quantitation Limit~10~MPN/100mL
+FL401816,SOUTH FLAGLER PIER,FLAGLER105,SOUTH FLAGLER PIER @ FLAGLER BEACH,FLAGLER,FLAGLER105S100322,03-Oct-22,12:07:00 PM,EDT,Sample-Routine,Enterococcus,-,10,MPN/100mL,**U**,18,in,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,Direct Grab,Direct Grab,Water Sampler (Other),10-04-2022,Practical Quantitation Limit~10~MPN/100mL
+FL401816,SOUTH FLAGLER PIER,FLAGLER105,SOUTH FLAGLER PIER @ FLAGLER BEACH,FLAGLER,FLAGLER105S091922,19-Sep-22,3:03:00 PM,EDT,Sample-Routine,Enterococcus,-,10,MPN/100mL,**U**,18,in,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,Direct Grab,Direct Grab,Water Sampler (Other),09-20-2022,Practical Quantitation Limit~10~MPN/100mL
+FL401816,SOUTH FLAGLER PIER,FLAGLER105,SOUTH FLAGLER PIER @ FLAGLER BEACH,FLAGLER,FLAGLER105S090622,06-Sep-22,2:15:00 PM,EDT,Sample-Routine,Enterococcus,-,10,MPN/100mL,-,18,in,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,Direct Grab,Direct Grab,Water Sampler (Other),09-07-2022,Practical Quantitation Limit~10~MPN/100mL
+FL401816,SOUTH FLAGLER PIER,FLAGLER105,SOUTH FLAGLER PIER @ FLAGLER BEACH,FLAGLER,FLAGLER105S082222,22-Aug-22,2:34:00 PM,EDT,Sample-Routine,Enterococcus,-,10,MPN/100mL,**U**,18,in,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,Direct Grab,Direct Grab,Water Sampler (Other),08-23-2022,Practical Quantitation Limit~10~MPN/100mL
+FL401816,SOUTH FLAGLER PIER,FLAGLER105,SOUTH FLAGLER PIER @ FLAGLER BEACH,FLAGLER,FLAGLER105S080822,08-Aug-22,11:06:00 AM,EDT,Sample-Routine,Enterococcus,-,20,MPN/100mL,-,18,in,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,Direct Grab,Direct Grab,Water Sampler (Other),08-09-2022,Practical Quantitation Limit~10~MPN/100mL
+FL401816,SOUTH FLAGLER PIER,FLAGLER105,SOUTH FLAGLER PIER @ FLAGLER BEACH,FLAGLER,FLAGLER105S072522,25-Jul-22,11:14:00 AM,EDT,Sample-Routine,Enterococcus,-,10,MPN/100mL,**U**,18,in,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,Direct Grab,Direct Grab,Water Sampler (Other),07-26-2022,Practical Quantitation Limit~10~MPN/100mL
+FL401816,SOUTH FLAGLER PIER,FLAGLER105,SOUTH FLAGLER PIER @ FLAGLER BEACH,FLAGLER,FLAGLER105S071122,11-Jul-22,12:30:00 PM,EDT,Sample-Routine,Enterococcus,-,10,MPN/100mL,**U**,18,in,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,Direct Grab,Direct Grab,Water Sampler (Other),07-12-2022,Practical Quantitation Limit~10~MPN/100mL
+FL401816,SOUTH FLAGLER PIER,FLAGLER105,SOUTH FLAGLER PIER @ FLAGLER BEACH,FLAGLER,FLAGLER105S062722,27-Jun-22,11:47:00 AM,EDT,Sample-Routine,Enterococcus,-,10,MPN/100mL,-,18,in,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,Direct Grab,Direct Grab,Water Sampler (Other),06-28-2022,Practical Quantitation Limit~10~MPN/100mL
+FL401816,SOUTH FLAGLER PIER,FLAGLER105,SOUTH FLAGLER PIER @ FLAGLER BEACH,FLAGLER,FLAGLER105S062022,20-Jun-22,1:40:00 PM,EDT,Sample-Routine,Enterococcus,-,10,MPN/100mL,**U**,18,in,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,Direct Grab,Direct Grab,Water Sampler (Other),06-21-2022,Practical Quantitation Limit~10~MPN/100mL
+FL401816,SOUTH FLAGLER PIER,FLAGLER105,SOUTH FLAGLER PIER @ FLAGLER BEACH,FLAGLER,FLAGLER105S061322,13-Jun-22,1:50:00 PM,EDT,Sample-Routine,Enterococcus,-,10,MPN/100mL,**U**,18,in,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,Direct Grab,Direct Grab,Water Sampler (Other),06-14-2022,Practical Quantitation Limit~10~MPN/100mL
+FL401816,SOUTH FLAGLER PIER,FLAGLER105,SOUTH FLAGLER PIER @ FLAGLER BEACH,FLAGLER,FLAGLER105S060622,06-Jun-22,2:45:00 PM,EDT,Sample-Routine,Enterococcus,-,10,MPN/100mL,-,18,in,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,Direct Grab,Direct Grab,Water Sampler (Other),06-07-2022,Practical Quantitation Limit~10~MPN/100mL
+FL401816,SOUTH FLAGLER PIER,FLAGLER105,SOUTH FLAGLER PIER @ FLAGLER BEACH,FLAGLER,FLAGLER105S053122,31-May-22,12:51:00 PM,EDT,Sample-Routine,Enterococcus,-,10,MPN/100mL,**U**,18,in,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,Direct Grab,Direct Grab,Water Sampler (Other),06-01-2022,Practical Quantitation Limit~10~MPN/100mL
+FL401816,SOUTH FLAGLER PIER,FLAGLER105,SOUTH FLAGLER PIER @ FLAGLER BEACH,FLAGLER,FLAGLER105S051622,16-May-22,12:07:00 PM,EDT,Sample-Routine,Enterococcus,-,10,MPN/100mL,**U**,18,in,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,Direct Grab,Direct Grab,Water Sampler (Other),05-17-2022,Practical Quantitation Limit~10~MPN/100mL
+FL401816,SOUTH FLAGLER PIER,FLAGLER105,SOUTH FLAGLER PIER @ FLAGLER BEACH,FLAGLER,FLAGLER105S050222,02-May-22,2:51:00 PM,EDT,Sample-Routine,Enterococcus,-,31,MPN/100mL,-,18,in,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,Direct Grab,Direct Grab,Water Sampler (Other),05-03-2022,Practical Quantitation Limit~10~MPN/100mL
+FL401816,SOUTH FLAGLER PIER,FLAGLER105,SOUTH FLAGLER PIER @ FLAGLER BEACH,FLAGLER,FLAGLER105S041822,18-Apr-22,2:30:00 PM,EDT,Sample-Routine,Enterococcus,-,10,MPN/100mL,**U**,18,in,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,Direct Grab,Direct Grab,Water Sampler (Other),04-19-2022,Practical Quantitation Limit~10~MPN/100mL
+FL401816,SOUTH FLAGLER PIER,FLAGLER105,SOUTH FLAGLER PIER @ FLAGLER BEACH,FLAGLER,FLAGLER105S040422,04-Apr-22,1:55:00 PM,EDT,Sample-Routine,Enterococcus,-,10,MPN/100mL,**U**,18,in,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,Direct Grab,Direct Grab,Water Sampler (Other),04-05-2022,Practical Quantitation Limit~10~MPN/100mL
+FL401816,SOUTH FLAGLER PIER,FLAGLER105,SOUTH FLAGLER PIER @ FLAGLER BEACH,FLAGLER,FLAGLER105S032122,21-Mar-22,3:44:00 PM,EDT,Sample-Routine,Enterococcus,-,10,MPN/100mL,**U**,18,in,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,Direct Grab,Direct Grab,Water Sampler (Other),03-22-2022,Practical Quantitation Limit~10~MPN/100mL
+FL401816,SOUTH FLAGLER PIER,FLAGLER105,SOUTH FLAGLER PIER @ FLAGLER BEACH,FLAGLER,FLAGLER105S030722,07-Mar-22,11:55:00 AM,EST,Sample-Routine,Enterococcus,-,10,MPN/100mL,-,18,in,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,Direct Grab,Direct Grab,Water Sampler (Other),03-08-2022,Practical Quantitation Limit~10~MPN/100mL

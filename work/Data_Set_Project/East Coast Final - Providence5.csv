@@ -1,0 +1,108 @@
+"Beach ID
+(Def.)","Beach Name
+(Def.)","Station
+ID
+(Def.)","Station Name
+(Def.)","County
+Name
+(Def.)","Identifier
+(Def.)","Start
+Date
+(Def.)","Start
+Time
+(Def.)","Zone
+Code
+(Def.)","Activity
+Type
+Code
+(Def.)","Characteristic
+Name
+(Def.)","Result Value
+Text
+(Def.)","Result
+Value
+(Def.)","Result
+Measure
+Unit","Result Comment
+(Def.)","Activity
+Depth
+Value
+(Def.)","Activity
+Depth
+Unit
+Code
+(Def.)","Result
+Analytical
+Method
+Identifier
+Context
+(Def.)","Result
+Analytical
+Method
+Identifier
+(Def.)","Result
+Analytical
+Method
+Name
+(Def.)","Sample Collection
+Method Identifier
+(Def.)","Sample Collection
+Method Name
+(Def.)","Field Gear
+(Def.)","Analysis
+Date
+Time
+(Def.)","Detection
+Quantitation
+Limit
+(Def.)"
+RI245197,Barrington Town Beach,RI245197-02,Barrington Town Beach - West,BRISTOL,2203956-02,31-Aug-22,10:44:00 AM,EDT,Sample-Routine,Enterococcus,-,10,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI245197,Barrington Town Beach,RI245197-01,Barrington Town Beach - East,BRISTOL,2203956-01,31-Aug-22,10:42:00 AM,EDT,Sample-Routine,Enterococcus,-,10,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI245197,Barrington Town Beach,RI245197-02,Barrington Town Beach - West,BRISTOL,2203871-02,29-Aug-22,9:14:00 AM,EDT,Sample-Routine,Enterococcus,-,10,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI245197,Barrington Town Beach,RI245197-01,Barrington Town Beach - East,BRISTOL,2203871-01,29-Aug-22,9:12:00 AM,EDT,Sample-Routine,Enterococcus,-,10,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI245197,Barrington Town Beach,RI245197-02,Barrington Town Beach - West,BRISTOL,2203796-02,24-Aug-22,9:51:00 AM,EDT,Sample-Routine,Enterococcus,-,10,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI245197,Barrington Town Beach,RI245197-01,Barrington Town Beach - East,BRISTOL,2203796-01,24-Aug-22,9:48:00 AM,EDT,Sample-Routine,Enterococcus,-,10,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI245197,Barrington Town Beach,RI245197-02,Barrington Town Beach - West,BRISTOL,2203749-02,22-Aug-22,9:23:00 AM,EDT,Sample-Routine,Enterococcus,-,10,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI245197,Barrington Town Beach,RI245197-01,Barrington Town Beach - East,BRISTOL,2203749-01,22-Aug-22,9:25:00 AM,EDT,Sample-Routine,Enterococcus,-,10,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI245197,Barrington Town Beach,RI245197-02,Barrington Town Beach - West,BRISTOL,2203675-02,17-Aug-22,9:26:00 AM,EDT,Sample-Routine,Enterococcus,-,10,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI245197,Barrington Town Beach,RI245197-01,Barrington Town Beach - East,BRISTOL,2203675-01,17-Aug-22,9:24:00 AM,EDT,Sample-Routine,Enterococcus,-,10,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI245197,Barrington Town Beach,RI245197-02,Barrington Town Beach - West,BRISTOL,2203614-02,15-Aug-22,10:22:00 AM,EDT,Sample-Routine,Enterococcus,-,10,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI245197,Barrington Town Beach,RI245197-01,Barrington Town Beach - East,BRISTOL,2203614-01,15-Aug-22,10:17:00 AM,EDT,Sample-Routine,Enterococcus,-,10,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI245197,Barrington Town Beach,RI245197-02,Barrington Town Beach - West,BRISTOL,2203571-02,11-Aug-22,9:54:00 AM,EDT,Sample-Routine,Enterococcus,-,41,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI245197,Barrington Town Beach,RI245197-01,Barrington Town Beach - East,BRISTOL,2203571-01,11-Aug-22,9:50:00 AM,EDT,Sample-Routine,Enterococcus,-,10,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI245197,Barrington Town Beach,RI245197-02,Barrington Town Beach - West,BRISTOL,2203477-02,09-Aug-22,8:42:00 AM,EDT,Sample-Routine,Enterococcus,-,10,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI245197,Barrington Town Beach,RI245197-01,Barrington Town Beach - East,BRISTOL,2203477-01,09-Aug-22,8:39:00 AM,EDT,Sample-Routine,Enterococcus,-,10,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI245197,Barrington Town Beach,RI245197-02,Barrington Town Beach - West,BRISTOL,2203388-02,03-Aug-22,8:23:00 AM,EDT,Sample-Routine,Enterococcus,-,10,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI245197,Barrington Town Beach,RI245197-01,Barrington Town Beach - East,BRISTOL,2203388-01,03-Aug-22,8:20:00 AM,EDT,Sample-Routine,Enterococcus,-,10,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI245197,Barrington Town Beach,RI245197-02,Barrington Town Beach - West,BRISTOL,2203310-02,01-Aug-22,9:16:00 AM,EDT,Sample-Routine,Enterococcus,-,10,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI245197,Barrington Town Beach,RI245197-01,Barrington Town Beach - East,BRISTOL,2203310-01,01-Aug-22,9:14:00 AM,EDT,Sample-Routine,Enterococcus,-,10,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI245197,Barrington Town Beach,RI245197-02,Barrington Town Beach - West,BRISTOL,2203231-02,27-Jul-22,9:53:00 AM,EDT,Sample-Routine,Enterococcus,-,10,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI245197,Barrington Town Beach,RI245197-01,Barrington Town Beach - East,BRISTOL,2203231-01,27-Jul-22,9:50:00 AM,EDT,Sample-Routine,Enterococcus,-,10,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI245197,Barrington Town Beach,RI245197-02,Barrington Town Beach - West,BRISTOL,2203165-02,25-Jul-22,9:35:00 AM,EDT,Sample-Routine,Enterococcus,-,10,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI245197,Barrington Town Beach,RI245197-01,Barrington Town Beach - East,BRISTOL,2203165-01,25-Jul-22,9:38:00 AM,EDT,Sample-Routine,Enterococcus,-,10,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI245197,Barrington Town Beach,RI245197-02,Barrington Town Beach - West,BRISTOL,2203075-02,20-Jul-22,9:47:00 AM,EDT,Sample-Routine,Enterococcus,-,144,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI245197,Barrington Town Beach,RI245197-01,Barrington Town Beach - East,BRISTOL,2203075-01,20-Jul-22,9:44:00 AM,EDT,Sample-Routine,Enterococcus,-,109,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI245197,Barrington Town Beach,RI245197-02,Barrington Town Beach - West,BRISTOL,2203004-02,18-Jul-22,10:03:00 AM,EDT,Sample-Routine,Enterococcus,-,10,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI245197,Barrington Town Beach,RI245197-01,Barrington Town Beach - East,BRISTOL,2203004-01,18-Jul-22,9:55:00 AM,EDT,Sample-Routine,Enterococcus,-,10,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI245197,Barrington Town Beach,RI245197-02,Barrington Town Beach - West,BRISTOL,2202934-02,13-Jul-22,10:00:00 AM,EDT,Sample-Routine,Enterococcus,-,10,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI245197,Barrington Town Beach,RI245197-01,Barrington Town Beach - East,BRISTOL,2202934-01,13-Jul-22,9:54:00 AM,EDT,Sample-Routine,Enterococcus,-,10,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI245197,Barrington Town Beach,RI245197-02,Barrington Town Beach - West,BRISTOL,2202834-02,11-Jul-22,10:18:00 AM,EDT,Sample-Routine,Enterococcus,-,10,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI245197,Barrington Town Beach,RI245197-01,Barrington Town Beach - East,BRISTOL,2202834-01,11-Jul-22,10:15:00 AM,EDT,Sample-Routine,Enterococcus,-,20,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI245197,Barrington Town Beach,RI245197-02,Barrington Town Beach - West,BRISTOL,2202791-02,07-Jul-22,9:33:00 AM,EDT,Sample-Routine,Enterococcus,-,10,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI245197,Barrington Town Beach,RI245197-01,Barrington Town Beach - East,BRISTOL,2202791-01,07-Jul-22,9:30:00 AM,EDT,Sample-Routine,Enterococcus,-,10,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI245197,Barrington Town Beach,RI245197-02,Barrington Town Beach - West,BRISTOL,2202714-02,05-Jul-22,9:52:00 AM,EDT,Sample-Routine,Enterococcus,-,20,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI245197,Barrington Town Beach,RI245197-01,Barrington Town Beach - East,BRISTOL,2202714-01,05-Jul-22,9:50:00 AM,EDT,Sample-Routine,Enterococcus,-,10,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI245197,Barrington Town Beach,RI245197-02,Barrington Town Beach - West,BRISTOL,2202622-02,29-Jun-22,9:33:00 AM,EDT,Sample-Routine,Enterococcus,-,10,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI245197,Barrington Town Beach,RI245197-01,Barrington Town Beach - East,BRISTOL,2202622-01,29-Jun-22,9:31:00 AM,EDT,Sample-Routine,Enterococcus,-,10,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI245197,Barrington Town Beach,RI245197-02,Barrington Town Beach - West,BRISTOL,2202570-02,27-Jun-22,9:59:00 AM,EDT,Sample-Routine,Enterococcus,-,512,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI245197,Barrington Town Beach,RI245197-01,Barrington Town Beach - East,BRISTOL,2202570-01,27-Jun-22,9:57:00 AM,EDT,Sample-Routine,Enterococcus,-,480,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI245197,Barrington Town Beach,RI245197-02,Barrington Town Beach - West,BRISTOL,2202468-02,22-Jun-22,9:45:00 AM,EDT,Sample-Routine,Enterococcus,-,10,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI245197,Barrington Town Beach,RI245197-01,Barrington Town Beach - East,BRISTOL,2202468-01,22-Jun-22,9:40:00 AM,EDT,Sample-Routine,Enterococcus,-,10,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI245197,Barrington Town Beach,RI245197-02,Barrington Town Beach - West,BRISTOL,2202404-02,20-Jun-22,10:07:00 AM,EDT,Sample-Routine,Enterococcus,-,10,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI245197,Barrington Town Beach,RI245197-01,Barrington Town Beach - East,BRISTOL,2202404-01,20-Jun-22,10:05:00 AM,EDT,Sample-Routine,Enterococcus,-,30,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI245197,Barrington Town Beach,RI245197-02,Barrington Town Beach - West,BRISTOL,2202330-02,15-Jun-22,9:22:00 AM,EDT,Sample-Routine,Enterococcus,-,10,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI245197,Barrington Town Beach,RI245197-01,Barrington Town Beach - East,BRISTOL,2202330-01,15-Jun-22,9:25:00 AM,EDT,Sample-Routine,Enterococcus,-,10,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI245197,Barrington Town Beach,RI245197-02,Barrington Town Beach - West,BRISTOL,2202267-02,13-Jun-22,9:44:00 AM,EDT,Sample-Routine,Enterococcus,-,10,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI245197,Barrington Town Beach,RI245197-01,Barrington Town Beach - East,BRISTOL,2202267-01,13-Jun-22,9:42:00 AM,EDT,Sample-Routine,Enterococcus,-,41,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI245197,Barrington Town Beach,RI245197-02,Barrington Town Beach - West,BRISTOL,2202187-02,08-Jun-22,9:33:00 AM,EDT,Sample-Routine,Enterococcus,-,10,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-
+RI245197,Barrington Town Beach,RI245197-01,Barrington Town Beach - East,BRISTOL,2202187-01,08-Jun-22,9:35:00 AM,EDT,Sample-Routine,Enterococcus,-,10,cfu/100mL,-,-,-,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,-,-,-,-,-

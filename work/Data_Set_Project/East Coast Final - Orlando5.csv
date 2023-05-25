@@ -1,0 +1,81 @@
+"Beach ID
+(Def.)","Beach Name
+(Def.)","Station
+ID
+(Def.)","Station Name
+(Def.)","County
+Name
+(Def.)","Identifier
+(Def.)","Start
+Date
+(Def.)","Start
+Time
+(Def.)","Zone
+Code
+(Def.)","Activity
+Type
+Code
+(Def.)","Characteristic
+Name
+(Def.)","Result Value
+Text
+(Def.)","Result
+Value
+(Def.)","Result
+Measure
+Unit","Result Comment
+(Def.)","Activity
+Depth
+Value
+(Def.)","Activity
+Depth
+Unit
+Code
+(Def.)","Result
+Analytical
+Method
+Identifier
+Context
+(Def.)","Result
+Analytical
+Method
+Identifier
+(Def.)","Result
+Analytical
+Method
+Name
+(Def.)","Sample Collection
+Method Identifier
+(Def.)","Sample Collection
+Method Name
+(Def.)","Field Gear
+(Def.)","Analysis
+Date
+Time
+(Def.)","Detection
+Quantitation
+Limit
+(Def.)"
+FL750562,GRANADA BLVD,VOLUSIA283,GRANDA BLVD,VOLUSIA,VOLUSIA283S122722,27-Dec-22,11:15:00 AM,EST,Sample-Routine,Enterococcus,-,10,MPN/100mL,**U**,18,in,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,Direct Grab,Direct Grab,Water Sampler (Other),12-28-2022,Practical Quantitation Limit~10~MPN/100mL
+FL750562,GRANADA BLVD,VOLUSIA283,GRANDA BLVD,VOLUSIA,VOLUSIA283S112822,28-Nov-22,12:20:00 PM,EST,Sample-Routine,Enterococcus,-,85,MPN/100mL,-,18,in,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,Direct Grab,Direct Grab,Water Sampler (Other),11-29-2022,Practical Quantitation Limit~10~MPN/100mL
+FL750562,GRANADA BLVD,VOLUSIA283,GRANDA BLVD,VOLUSIA,VOLUSIA283S103122,31-Oct-22,12:01:00 PM,EDT,Sample-Routine,Enterococcus,-,10,MPN/100mL,**U**,18,in,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,Direct Grab,Direct Grab,Water Sampler (Other),11-01-2022,Practical Quantitation Limit~10~MPN/100mL
+FL750562,GRANADA BLVD,VOLUSIA283,GRANDA BLVD,VOLUSIA,VOLUSIA283S101722,17-Oct-22,12:00:00 PM,EDT,Sample-Routine,Enterococcus,-,10,MPN/100mL,**U**,18,in,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,Direct Grab,Direct Grab,Water Sampler (Other),10-18-2022,Practical Quantitation Limit~10~MPN/100mL
+FL750562,GRANADA BLVD,VOLUSIA283,GRANDA BLVD,VOLUSIA,VOLUSIA283S100622,06-Oct-22,11:45:00 AM,EDT,Sample-Routine,Enterococcus,-,10,MPN/100mL,**U**,18,in,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,Direct Grab,Direct Grab,Water Sampler (Other),10-07-2022,Practical Quantitation Limit~10~MPN/100mL
+FL750562,GRANADA BLVD,VOLUSIA283,GRANDA BLVD,VOLUSIA,VOLUSIA283S091922,19-Sep-22,12:00:00 PM,EDT,Sample-Routine,Enterococcus,-,10,MPN/100mL,**U**,18,in,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,Direct Grab,Direct Grab,Water Sampler (Other),09-20-2022,Practical Quantitation Limit~10~MPN/100mL
+FL750562,GRANADA BLVD,VOLUSIA283,GRANDA BLVD,VOLUSIA,VOLUSIA283S090622,06-Sep-22,12:30:00 PM,EDT,Sample-Routine,Enterococcus,-,31,MPN/100mL,-,18,in,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,Direct Grab,Direct Grab,Water Sampler (Other),09-07-2022,Practical Quantitation Limit~10~MPN/100mL
+FL750562,GRANADA BLVD,VOLUSIA283,GRANDA BLVD,VOLUSIA,VOLUSIA283S082222,22-Aug-22,12:00:00 PM,EDT,Sample-Routine,Enterococcus,-,10,MPN/100mL,-,18,in,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,Direct Grab,Direct Grab,Water Sampler (Other),08-23-2022,Practical Quantitation Limit~10~MPN/100mL
+FL750562,GRANADA BLVD,VOLUSIA283,GRANDA BLVD,VOLUSIA,VOLUSIA283S080822,08-Aug-22,11:44:00 AM,EDT,Sample-Routine,Enterococcus,-,10,MPN/100mL,**U**,18,in,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,Direct Grab,Direct Grab,Water Sampler (Other),08-09-2022,Practical Quantitation Limit~10~MPN/100mL
+FL750562,GRANADA BLVD,VOLUSIA283,GRANDA BLVD,VOLUSIA,VOLUSIA283S072522,25-Jul-22,11:45:00 AM,EDT,Sample-Routine,Enterococcus,-,10,MPN/100mL,**U**,18,in,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,Direct Grab,Direct Grab,Water Sampler (Other),07-26-2022,Practical Quantitation Limit~10~MPN/100mL
+FL750562,GRANADA BLVD,VOLUSIA283,GRANDA BLVD,VOLUSIA,VOLUSIA283S071122,11-Jul-22,10:23:00 AM,EDT,Sample-Routine,Enterococcus,-,10,MPN/100mL,-,18,in,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,Direct Grab,Direct Grab,Water Sampler (Other),07-12-2022,Practical Quantitation Limit~10~MPN/100mL
+FL750562,GRANADA BLVD,VOLUSIA283,GRANDA BLVD,VOLUSIA,VOLUSIA283S062722,27-Jun-22,11:30:00 AM,EDT,Sample-Routine,Enterococcus,-,10,MPN/100mL,-,18,in,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,Direct Grab,Direct Grab,Water Sampler (Other),06-28-2022,Practical Quantitation Limit~10~MPN/100mL
+FL750562,GRANADA BLVD,VOLUSIA283,GRANDA BLVD,VOLUSIA,VOLUSIA283S061322,13-Jun-22,12:05:00 PM,EDT,Sample-Routine,Enterococcus,-,10,MPN/100mL,**U**,18,in,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,Direct Grab,Direct Grab,Water Sampler (Other),06-14-2022,Practical Quantitation Limit~10~MPN/100mL
+FL750562,GRANADA BLVD,VOLUSIA283,GRANDA BLVD,VOLUSIA,VOLUSIA283S053122,31-May-22,11:30:00 AM,EDT,Sample-Routine,Enterococcus,-,20,MPN/100mL,-,18,in,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,Direct Grab,Direct Grab,Water Sampler (Other),06-01-2022,Practical Quantitation Limit~10~MPN/100mL
+FL750562,GRANADA BLVD,VOLUSIA283,GRANDA BLVD,VOLUSIA,VOLUSIA283S051622,16-May-22,11:32:00 AM,EDT,Sample-Routine,Enterococcus,-,10,MPN/100mL,-,18,in,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,Direct Grab,Direct Grab,Water Sampler (Other),05-17-2022,Practical Quantitation Limit~10~MPN/100mL
+FL750562,GRANADA BLVD,VOLUSIA283,GRANDA BLVD,VOLUSIA,VOLUSIA283S050222,02-May-22,11:14:00 AM,EDT,Sample-Routine,Enterococcus,-,10,MPN/100mL,-,18,in,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,Direct Grab,Direct Grab,Water Sampler (Other),05-03-2022,Practical Quantitation Limit~10~MPN/100mL
+FL750562,GRANADA BLVD,VOLUSIA283,GRANDA BLVD,VOLUSIA,VOLUSIA283S041822,18-Apr-22,11:06:00 AM,EDT,Sample-Routine,Enterococcus,-,10,MPN/100mL,**U**,18,in,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,Direct Grab,Direct Grab,Water Sampler (Other),04-19-2022,Practical Quantitation Limit~10~MPN/100mL
+FL750562,GRANADA BLVD,VOLUSIA283,GRANDA BLVD,VOLUSIA,VOLUSIA283S040422,04-Apr-22,11:24:00 AM,EDT,Sample-Routine,Enterococcus,-,10,MPN/100mL,**U**,18,in,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,Direct Grab,Direct Grab,Water Sampler (Other),04-05-2022,Practical Quantitation Limit~10~MPN/100mL
+FL750562,GRANADA BLVD,VOLUSIA283,GRANDA BLVD,VOLUSIA,VOLUSIA283S032122,21-Mar-22,11:41:00 AM,EDT,Sample-Routine,Enterococcus,-,10,MPN/100mL,**U**,18,in,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,Direct Grab,Direct Grab,Water Sampler (Other),03-22-2022,Practical Quantitation Limit~10~MPN/100mL
+FL750562,GRANADA BLVD,VOLUSIA283,GRANDA BLVD,VOLUSIA,VOLUSIA283S030722,07-Mar-22,11:39:00 AM,EST,Sample-Routine,Enterococcus,-,10,MPN/100mL,**U**,18,in,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,Direct Grab,Direct Grab,Water Sampler (Other),03-08-2022,Practical Quantitation Limit~10~MPN/100mL
+FL750562,GRANADA BLVD,VOLUSIA283,GRANDA BLVD,VOLUSIA,VOLUSIA283S022122,21-Feb-22,12:04:00 PM,EST,Sample-Routine,Enterococcus,-,10,MPN/100mL,**U**,18,in,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,Direct Grab,Direct Grab,Water Sampler (Other),02-22-2022,Practical Quantitation Limit~10~MPN/100mL
+FL750562,GRANADA BLVD,VOLUSIA283,GRANDA BLVD,VOLUSIA,VOLUSIA283S013122,31-Jan-22,12:00:00 PM,EST,Sample-Routine,Enterococcus,-,10,MPN/100mL,**U**,18,in,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,Direct Grab,Direct Grab,Water Sampler (Other),02-01-2022,Practical Quantitation Limit~10~MPN/100mL
+FL750562,GRANADA BLVD,VOLUSIA283,GRANDA BLVD,VOLUSIA,VOLUSIA283S011022,10-Jan-22,11:17:00 AM,EST,Sample-Routine,Enterococcus,-,10,MPN/100mL,**U**,18,in,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,Direct Grab,Direct Grab,Water Sampler (Other),01-11-2022,Practical Quantitation Limit~10~MPN/100mL

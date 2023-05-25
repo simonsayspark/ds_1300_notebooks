@@ -1,0 +1,75 @@
+"Beach ID
+(Def.)","Beach Name
+(Def.)","Station
+ID
+(Def.)","Station Name
+(Def.)","County
+Name
+(Def.)","Identifier
+(Def.)","Start
+Date
+(Def.)","Start
+Time
+(Def.)","Zone
+Code
+(Def.)","Activity
+Type
+Code
+(Def.)","Characteristic
+Name
+(Def.)","Result Value
+Text
+(Def.)","Result
+Value
+(Def.)","Result
+Measure
+Unit","Result Comment
+(Def.)","Activity
+Depth
+Value
+(Def.)","Activity
+Depth
+Unit
+Code
+(Def.)","Result
+Analytical
+Method
+Identifier
+Context
+(Def.)","Result
+Analytical
+Method
+Identifier
+(Def.)","Result
+Analytical
+Method
+Name
+(Def.)","Sample Collection
+Method Identifier
+(Def.)","Sample Collection
+Method Name
+(Def.)","Field Gear
+(Def.)","Analysis
+Date
+Time
+(Def.)","Detection
+Quantitation
+Limit
+(Def.)"
+VA938661,SALT PONDS,VA938661,SALT PONDS,HAMPTON,4792,13-Sep-22,12:00:00 AM,EDT,Sample-Routine,Enterococcus,-,1,#/100mL,-,-,-,21VABCH,METH1,Fecal Coliform Procedure,ROUTINE,Routine Sampling,Water Bottle,-,-
+VA938661,SALT PONDS,VA938661,SALT PONDS,HAMPTON,4745,06-Sep-22,12:00:00 AM,EDT,Sample-Routine,Enterococcus,-,1,#/100mL,-,-,-,21VABCH,METH1,Fecal Coliform Procedure,ROUTINE,Routine Sampling,Water Bottle,-,-
+VA938661,SALT PONDS,VA938661,SALT PONDS,HAMPTON,4662,29-Aug-22,12:00:00 AM,EDT,Sample-Routine,Enterococcus,-,10,#/100mL,-,-,-,21VABCH,METH1,Fecal Coliform Procedure,ROUTINE,Routine Sampling,Water Bottle,-,-
+VA938661,SALT PONDS,VA938661,SALT PONDS,HAMPTON,4656,23-Aug-22,12:00:00 AM,EDT,Sample-Routine,Enterococcus,-,1,#/100mL,-,-,-,21VABCH,METH1,Fecal Coliform Procedure,ROUTINE,Routine Sampling,Water Bottle,-,-
+VA938661,SALT PONDS,VA938661,SALT PONDS,HAMPTON,4602,16-Aug-22,12:00:00 AM,EDT,Sample-Routine,Enterococcus,-,1,#/100mL,-,-,-,21VABCH,METH1,Fecal Coliform Procedure,ROUTINE,Routine Sampling,Water Bottle,-,-
+VA938661,SALT PONDS,VA938661,SALT PONDS,HAMPTON,4556,09-Aug-22,12:00:00 AM,EDT,Sample-Routine,Enterococcus,-,1,#/100mL,-,-,-,21VABCH,METH1,Fecal Coliform Procedure,ROUTINE,Routine Sampling,Water Bottle,-,-
+VA938661,SALT PONDS,VA938661,SALT PONDS,HAMPTON,4503,02-Aug-22,12:00:00 AM,EDT,Sample-Routine,Enterococcus,-,1,#/100mL,-,-,-,21VABCH,METH1,Fecal Coliform Procedure,ROUTINE,Routine Sampling,Water Bottle,-,-
+VA938661,SALT PONDS,VA938661,SALT PONDS,HAMPTON,4452,27-Jul-22,12:00:00 AM,EDT,Sample-Routine,Enterococcus,-,10,#/100mL,-,-,-,21VABCH,METH1,Fecal Coliform Procedure,ROUTINE,Routine Sampling,Water Bottle,-,-
+VA938661,SALT PONDS,VA938661,SALT PONDS,HAMPTON,4405,19-Jul-22,12:00:00 AM,EDT,Sample-Routine,Enterococcus,-,1,#/100mL,-,-,-,21VABCH,METH1,Fecal Coliform Procedure,ROUTINE,Routine Sampling,Water Bottle,-,-
+VA938661,SALT PONDS,VA938661,SALT PONDS,HAMPTON,4331,12-Jul-22,12:00:00 AM,EDT,Sample-Routine,Enterococcus,-,63,#/100mL,-,-,-,21VABCH,METH1,Fecal Coliform Procedure,ROUTINE,Routine Sampling,Water Bottle,-,-
+VA938661,SALT PONDS,VA938661,SALT PONDS,HAMPTON,4289,05-Jul-22,12:00:00 AM,EDT,Sample-Routine,Enterococcus,-,1,#/100mL,-,-,-,21VABCH,METH1,Fecal Coliform Procedure,ROUTINE,Routine Sampling,Water Bottle,-,-
+VA938661,SALT PONDS,VA938661,SALT PONDS,HAMPTON,4227,28-Jun-22,12:00:00 AM,EDT,Sample-Routine,Enterococcus,-,10,#/100mL,-,-,-,21VABCH,METH1,Fecal Coliform Procedure,ROUTINE,Routine Sampling,Water Bottle,-,-
+VA938661,SALT PONDS,VA938661,SALT PONDS,HAMPTON,4195,21-Jun-22,12:00:00 AM,EDT,Sample-Routine,Enterococcus,-,1,#/100mL,-,-,-,21VABCH,METH1,Fecal Coliform Procedure,ROUTINE,Routine Sampling,Water Bottle,-,-
+VA938661,SALT PONDS,VA938661,SALT PONDS,HAMPTON,4156,14-Jun-22,12:00:00 AM,EDT,Sample-Routine,Enterococcus,-,31,#/100mL,-,-,-,21VABCH,METH1,Fecal Coliform Procedure,ROUTINE,Routine Sampling,Water Bottle,-,-
+VA938661,SALT PONDS,VA938661,SALT PONDS,HAMPTON,4106,08-Jun-22,12:00:00 AM,EDT,Sample-Routine,Enterococcus,-,1,#/100mL,-,-,-,21VABCH,METH1,Fecal Coliform Procedure,ROUTINE,Routine Sampling,Water Bottle,-,-
+VA938661,SALT PONDS,VA938661,SALT PONDS,HAMPTON,4035,24-May-22,12:00:00 AM,EDT,Sample-Routine,Enterococcus,-,1,#/100mL,-,-,-,21VABCH,METH1,Fecal Coliform Procedure,ROUTINE,Routine Sampling,Water Bottle,-,-
+VA938661,SALT PONDS,VA938661,SALT PONDS,HAMPTON,4030,31-May-22,12:00:00 AM,EDT,Sample-Routine,Enterococcus,-,1,#/100mL,-,-,-,21VABCH,METH1,Fecal Coliform Procedure,ROUTINE,Routine Sampling,Water Bottle,-,-

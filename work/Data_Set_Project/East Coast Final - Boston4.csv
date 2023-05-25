@@ -1,0 +1,76 @@
+"Beach ID
+(Def.)","Beach Name
+(Def.)","Station
+ID
+(Def.)","Station Name
+(Def.)","County
+Name
+(Def.)","Identifier
+(Def.)","Start
+Date
+(Def.)","Start
+Time
+(Def.)","Zone
+Code
+(Def.)","Activity
+Type
+Code
+(Def.)","Characteristic
+Name
+(Def.)","Result Value
+Text
+(Def.)","Result
+Value
+(Def.)","Result
+Measure
+Unit","Result Comment
+(Def.)","Activity
+Depth
+Value
+(Def.)","Activity
+Depth
+Unit
+Code
+(Def.)","Result
+Analytical
+Method
+Identifier
+Context
+(Def.)","Result
+Analytical
+Method
+Identifier
+(Def.)","Result
+Analytical
+Method
+Name
+(Def.)","Sample Collection
+Method Identifier
+(Def.)","Sample Collection
+Method Name
+(Def.)","Field Gear
+(Def.)","Analysis
+Date
+Time
+(Def.)","Detection
+Quantitation
+Limit
+(Def.)"
+MA186671,Revere,MA186671,Revere,SUFFOLK,MA1866712442011,01-Sep-22,11:48:00 AM,EDT,Sample-Routine,Enterococcus,-,4,cfu/100ml,-,3,ft,-,-,-,ROUTINE,Routine Sample,Water Bottle,-,-
+MA186671,Revere,MA186671,Revere,SUFFOLK,MA1866712372011,25-Aug-22,10:22:00 AM,EDT,Sample-Routine,Enterococcus,-,10,cfu/100ml,-,3,ft,-,-,-,ROUTINE,Routine Sample,Water Bottle,-,-
+MA186671,Revere,MA186671,Revere,SUFFOLK,MA1866712302011,18-Aug-22,11:36:00 AM,EDT,Sample-Routine,Enterococcus,-,4,cfu/100ml,-,3,ft,-,-,-,ROUTINE,Routine Sample,Water Bottle,-,-
+MA186671,Revere,MA186671,Revere,SUFFOLK,MA1866712232011,11-Aug-22,9:30:00 AM,EDT,Sample-Routine,Enterococcus,-,4,cfu/100ml,-,3,ft,-,-,-,ROUTINE,Routine Sample,Water Bottle,-,-
+MA186671,Revere,MA186671,Revere,SUFFOLK,MA1866712162011,04-Aug-22,6:59:00 AM,EDT,Sample-Routine,Enterococcus,-,151,cfu/100ml,-,3,ft,-,-,-,ROUTINE,Routine Sample,Water Bottle,-,-
+MA186671,Revere,MA186671,Revere,SUFFOLK,MA1866712092011,28-Jul-22,9:47:00 AM,EDT,Sample-Routine,Enterococcus,-,4,cfu/100ml,-,3,ft,-,-,-,ROUTINE,Routine Sample,Water Bottle,-,-
+MA186671,Revere,MA186671,Revere,SUFFOLK,MA1866712032011,22-Jul-22,2:30:00 PM,EDT,Sample-Routine,Enterococcus,-,470,cfu/100ml,-,3,ft,-,-,-,ROUTINE,Routine Sample,Water Bottle,-,-
+MA186671,Revere,MA186671,Revere,SUFFOLK,MA1866712022011,21-Jul-22,6:28:00 AM,EDT,Sample-Routine,Enterococcus,-,462,cfu/100ml,-,3,ft,-,-,-,ROUTINE,Routine Sample,Water Bottle,-,-
+MA186671,Revere,MA186671,Revere,SUFFOLK,MA1866711952011,14-Jul-22,10:48:00 AM,EDT,Sample-Routine,Enterococcus,-,12,cfu/100ml,-,3,ft,-,-,-,ROUTINE,Routine Sample,Water Bottle,-,-
+MA186671,Revere,MA186671,Revere,SUFFOLK,MA1866711882011,07-Jul-22,7:25:00 AM,EDT,Sample-Routine,Enterococcus,-,10,cfu/100ml,-,3,ft,-,-,-,ROUTINE,Routine Sample,Water Bottle,-,-
+MA186671,Revere,MA186671,Revere,SUFFOLK,MA1866711812011,30-Jun-22,9:37:00 AM,EDT,Sample-Routine,Enterococcus,-,38,cfu/100ml,-,3,ft,-,-,-,ROUTINE,Routine Sample,Water Bottle,-,-
+MA186671,Revere,MA186671,Revere,SUFFOLK,MA1866711742011B,23-Jun-22,6:31:00 AM,EDT,Sample-Routine,Enterococcus,-,79,cfu/100ml,-,3,ft,-,-,-,ROUTINE,Routine Sample,Water Bottle,-,-
+MA186671,Revere,MA186671,Revere,SUFFOLK,MA1866711742011,23-Jun-22,6:31:00 AM,EDT,Sample-Routine,Enterococcus,-,79,cfu/100ml,-,3,ft,-,-,-,ROUTINE,Routine Sample,Water Bottle,-,-
+MA186671,Revere,MA186671,Revere,SUFFOLK,MA1866711672011,16-Jun-22,9:23:00 AM,EDT,Sample-Routine,Enterococcus,-,37,cfu/100ml,-,3,ft,-,-,-,ROUTINE,Routine Sample,Water Bottle,-,-
+MA186671,Revere,MA186671,Revere,SUFFOLK,MA1866711602011,09-Jun-22,7:49:00 AM,EDT,Sample-Routine,Enterococcus,-,4,cfu/100ml,-,3,ft,-,-,-,ROUTINE,Routine Sample,Water Bottle,-,-
+MA186671,Revere,MA186671,Revere,SUFFOLK,MA1866711532011B,02-Jun-22,7:48:00 AM,EDT,Sample-Routine,Enterococcus,-,28,cfu/100ml,-,3,ft,-,-,-,ROUTINE,Routine Sample,Water Bottle,-,-
+MA186671,Revere,MA186671,Revere,SUFFOLK,MA1866711532011,02-Jun-22,7:48:00 AM,EDT,Sample-Routine,Enterococcus,-,28,cfu/100ml,-,3,ft,-,-,-,ROUTINE,Routine Sample,Water Bottle,-,-
+MA186671,Revere,MA186671,Revere,SUFFOLK,MA1866711462011,26-May-22,7:25:00 AM,EDT,Sample-Routine,Enterococcus,-,8,cfu/100ml,-,3,ft,-,-,-,ROUTINE,Routine Sample,Water Bottle,-,-

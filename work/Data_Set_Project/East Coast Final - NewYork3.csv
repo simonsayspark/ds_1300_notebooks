@@ -1,0 +1,108 @@
+"Beach ID
+(Def.)","Beach Name
+(Def.)","Station
+ID
+(Def.)","Station Name
+(Def.)","County
+Name
+(Def.)","Identifier
+(Def.)","Start
+Date
+(Def.)","Start
+Time
+(Def.)","Zone
+Code
+(Def.)","Activity
+Type
+Code
+(Def.)","Characteristic
+Name
+(Def.)","Result Value
+Text
+(Def.)","Result
+Value
+(Def.)","Result
+Measure
+Unit","Result Comment
+(Def.)","Activity
+Depth
+Value
+(Def.)","Activity
+Depth
+Unit
+Code
+(Def.)","Result
+Analytical
+Method
+Identifier
+Context
+(Def.)","Result
+Analytical
+Method
+Identifier
+(Def.)","Result
+Analytical
+Method
+Name
+(Def.)","Sample Collection
+Method Identifier
+(Def.)","Sample Collection
+Method Name
+(Def.)","Field Gear
+(Def.)","Analysis
+Date
+Time
+(Def.)","Detection
+Quantitation
+Limit
+(Def.)"
+NY817429,ORCHARD BEACH,NY817429-03,ORCHARD BEACH - RIGHT,BRONX,2022120772,07-Sep-22,-,-,Sample-Routine,Enterococcus,-,1354,MPN,-,3,ft,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,routine,SEE NYS QAPP,Water Bottle,-,-
+NY817429,ORCHARD BEACH,NY817429-02,ORCHARD BEACH - LEFT,BRONX,2022120771,07-Sep-22,-,-,Sample-Routine,Enterococcus,-,836,MPN,-,3,ft,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,routine,SEE NYS QAPP,Water Bottle,-,-
+NY817429,ORCHARD BEACH,NY817429-01,ORCHARD BEACH,BRONX,2022120770,07-Sep-22,-,-,Sample-Routine,Enterococcus,-,743,MPN,-,3,ft,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,routine,SEE NYS QAPP,Water Bottle,-,-
+NY817429,ORCHARD BEACH,NY817429-03,ORCHARD BEACH - RIGHT,BRONX,2022120418,30-Aug-22,-,-,Sample-Routine,Enterococcus,-,42,MPN,-,3,ft,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,routine,SEE NYS QAPP,Water Bottle,-,-
+NY817429,ORCHARD BEACH,NY817429-02,ORCHARD BEACH - LEFT,BRONX,2022120417,30-Aug-22,-,-,Sample-Routine,Enterococcus,-,31,MPN,-,3,ft,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,routine,SEE NYS QAPP,Water Bottle,-,-
+NY817429,ORCHARD BEACH,NY817429-01,ORCHARD BEACH,BRONX,2022120416,30-Aug-22,-,-,Sample-Routine,Enterococcus,Present Below Quantification Limit,-,-,-,3,ft,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,routine,SEE NYS QAPP,Water Bottle,-,Lower Quantitation Limit~10.0~MPN
+NY817429,ORCHARD BEACH,NY817429-03,ORCHARD BEACH - RIGHT,BRONX,2022120147,23-Aug-22,-,-,Sample-Routine,Enterococcus,Present Below Quantification Limit,-,-,-,3,ft,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,routine,SEE NYS QAPP,Water Bottle,-,Lower Quantitation Limit~10.0~MPN
+NY817429,ORCHARD BEACH,NY817429-03,ORCHARD BEACH - RIGHT,BRONX,2022120146,25-Aug-22,-,-,Sample-Routine,Enterococcus,-,63,MPN,-,3,ft,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,Follow-up,SEE NYS QAPP,Water Bottle,-,-
+NY817429,ORCHARD BEACH,NY817429-02,ORCHARD BEACH - LEFT,BRONX,2022120145,25-Aug-22,-,-,Sample-Routine,Enterococcus,-,20,MPN,-,3,ft,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,Follow-up,SEE NYS QAPP,Water Bottle,-,-
+NY817429,ORCHARD BEACH,NY817429-02,ORCHARD BEACH - LEFT,BRONX,2022120144,23-Aug-22,-,-,Sample-Routine,Enterococcus,Present Below Quantification Limit,-,-,-,3,ft,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,routine,SEE NYS QAPP,Water Bottle,-,Lower Quantitation Limit~10.0~MPN
+NY817429,ORCHARD BEACH,NY817429-01,ORCHARD BEACH,BRONX,2022120143,23-Aug-22,-,-,Sample-Routine,Enterococcus,-,30,MPN,-,3,ft,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,routine,SEE NYS QAPP,Water Bottle,-,-
+NY817429,ORCHARD BEACH,NY817429-01,ORCHARD BEACH,BRONX,2022120142,25-Aug-22,-,-,Sample-Routine,Enterococcus,Present Below Quantification Limit,-,-,-,3,ft,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,Follow-up,SEE NYS QAPP,Water Bottle,-,Lower Quantitation Limit~10.0~MPN
+NY817429,ORCHARD BEACH,NY817429-03,ORCHARD BEACH - RIGHT,BRONX,2022119340,16-Aug-22,-,-,Sample-Routine,Enterococcus,-,42,MPN,-,3,ft,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,routine,SEE NYS QAPP,Water Bottle,-,-
+NY817429,ORCHARD BEACH,NY817429-02,ORCHARD BEACH - LEFT,BRONX,2022119339,16-Aug-22,-,-,Sample-Routine,Enterococcus,-,20,MPN,-,3,ft,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,routine,SEE NYS QAPP,Water Bottle,-,-
+NY817429,ORCHARD BEACH,NY817429-01,ORCHARD BEACH,BRONX,2022119338,16-Aug-22,-,-,Sample-Routine,Enterococcus,-,111,MPN,-,3,ft,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,routine,SEE NYS QAPP,Water Bottle,-,-
+NY817429,ORCHARD BEACH,NY817429-03,ORCHARD BEACH - RIGHT,BRONX,2022118890,09-Aug-22,-,-,Sample-Routine,Enterococcus,-,41,MPN,-,3,ft,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,routine,SEE NYS QAPP,Water Bottle,-,-
+NY817429,ORCHARD BEACH,NY817429-02,ORCHARD BEACH - LEFT,BRONX,2022118889,09-Aug-22,-,-,Sample-Routine,Enterococcus,-,10,MPN,-,3,ft,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,routine,SEE NYS QAPP,Water Bottle,-,-
+NY817429,ORCHARD BEACH,NY817429-01,ORCHARD BEACH,BRONX,2022118888,09-Aug-22,-,-,Sample-Routine,Enterococcus,-,84,MPN,-,3,ft,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,routine,SEE NYS QAPP,Water Bottle,-,-
+NY817429,ORCHARD BEACH,NY817429-03,ORCHARD BEACH - RIGHT,BRONX,2022118523,02-Aug-22,-,-,Sample-Routine,Enterococcus,Present Below Quantification Limit,-,-,-,3,ft,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,routine,SEE NYS QAPP,Water Bottle,-,Lower Quantitation Limit~10.0~MPN
+NY817429,ORCHARD BEACH,NY817429-02,ORCHARD BEACH - LEFT,BRONX,2022118522,02-Aug-22,-,-,Sample-Routine,Enterococcus,-,20,MPN,-,3,ft,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,routine,SEE NYS QAPP,Water Bottle,-,-
+NY817429,ORCHARD BEACH,NY817429-01,ORCHARD BEACH,BRONX,2022118521,02-Aug-22,-,-,Sample-Routine,Enterococcus,-,31,MPN,-,3,ft,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,routine,SEE NYS QAPP,Water Bottle,-,-
+NY817429,ORCHARD BEACH,NY817429-03,ORCHARD BEACH - RIGHT,BRONX,2022118042,26-Jul-22,-,-,Sample-Routine,Enterococcus,-,164,MPN,-,3,ft,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,routine,SEE NYS QAPP,Water Bottle,-,-
+NY817429,ORCHARD BEACH,NY817429-02,ORCHARD BEACH - LEFT,BRONX,2022118041,26-Jul-22,-,-,Sample-Routine,Enterococcus,-,31,MPN,-,3,ft,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,routine,SEE NYS QAPP,Water Bottle,-,-
+NY817429,ORCHARD BEACH,NY817429-01,ORCHARD BEACH,BRONX,2022118040,26-Jul-22,-,-,Sample-Routine,Enterococcus,-,10,MPN,-,3,ft,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,routine,SEE NYS QAPP,Water Bottle,-,-
+NY817429,ORCHARD BEACH,NY817429-03,ORCHARD BEACH - RIGHT,BRONX,2022117620,19-Jul-22,-,-,Sample-Routine,Enterococcus,Present Below Quantification Limit,-,-,-,3,ft,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,routine,SEE NYS QAPP,Water Bottle,-,Lower Quantitation Limit~10.0~MPN
+NY817429,ORCHARD BEACH,NY817429-02,ORCHARD BEACH - LEFT,BRONX,2022117619,19-Jul-22,-,-,Sample-Routine,Enterococcus,-,10,MPN,-,3,ft,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,routine,SEE NYS QAPP,Water Bottle,-,-
+NY817429,ORCHARD BEACH,NY817429-01,ORCHARD BEACH,BRONX,2022117618,19-Jul-22,-,-,Sample-Routine,Enterococcus,-,31,MPN,-,3,ft,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,routine,SEE NYS QAPP,Water Bottle,-,-
+NY817429,ORCHARD BEACH,NY817429-03,ORCHARD BEACH - RIGHT,BRONX,2022117084,12-Jul-22,-,-,Sample-Routine,Enterococcus,Present Below Quantification Limit,-,-,-,3,ft,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,routine,SEE NYS QAPP,Water Bottle,-,Lower Quantitation Limit~10.0~MPN
+NY817429,ORCHARD BEACH,NY817429-02,ORCHARD BEACH - LEFT,BRONX,2022117083,12-Jul-22,-,-,Sample-Routine,Enterococcus,-,10,MPN,-,3,ft,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,routine,SEE NYS QAPP,Water Bottle,-,-
+NY817429,ORCHARD BEACH,NY817429-01,ORCHARD BEACH,BRONX,2022117082,12-Jul-22,-,-,Sample-Routine,Enterococcus,Present Below Quantification Limit,-,-,-,3,ft,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,routine,SEE NYS QAPP,Water Bottle,-,Lower Quantitation Limit~10.0~MPN
+NY817429,ORCHARD BEACH,NY817429-03,ORCHARD BEACH - RIGHT,BRONX,2022116388,06-Jul-22,-,-,Sample-Routine,Enterococcus,Present Below Quantification Limit,-,-,-,3,ft,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,routine,SEE NYS QAPP,Water Bottle,-,Lower Quantitation Limit~10.0~MPN
+NY817429,ORCHARD BEACH,NY817429-02,ORCHARD BEACH - LEFT,BRONX,2022116387,06-Jul-22,-,-,Sample-Routine,Enterococcus,Present Below Quantification Limit,-,-,-,3,ft,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,routine,SEE NYS QAPP,Water Bottle,-,Lower Quantitation Limit~10.0~MPN
+NY817429,ORCHARD BEACH,NY817429-01,ORCHARD BEACH,BRONX,2022116386,06-Jul-22,-,-,Sample-Routine,Enterococcus,Present Below Quantification Limit,-,-,-,3,ft,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,routine,SEE NYS QAPP,Water Bottle,-,Lower Quantitation Limit~10.0~MPN
+NY817429,ORCHARD BEACH,NY817429-03,ORCHARD BEACH - RIGHT,BRONX,2022116063,28-Jun-22,-,-,Sample-Routine,Enterococcus,-,10,MPN,-,3,ft,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,routine,SEE NYS QAPP,Water Bottle,-,-
+NY817429,ORCHARD BEACH,NY817429-02,ORCHARD BEACH - LEFT,BRONX,2022116062,28-Jun-22,-,-,Sample-Routine,Enterococcus,Present Below Quantification Limit,-,-,-,3,ft,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,routine,SEE NYS QAPP,Water Bottle,-,Lower Quantitation Limit~10.0~MPN
+NY817429,ORCHARD BEACH,NY817429-01,ORCHARD BEACH,BRONX,2022116061,28-Jun-22,-,-,Sample-Routine,Enterococcus,-,20,MPN,-,3,ft,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,routine,SEE NYS QAPP,Water Bottle,-,-
+NY817429,ORCHARD BEACH,NY817429-03,ORCHARD BEACH - RIGHT,BRONX,2022115602,22-Jun-22,-,-,Sample-Routine,Enterococcus,-,161,MPN,-,3,ft,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,routine,SEE NYS QAPP,Water Bottle,-,-
+NY817429,ORCHARD BEACH,NY817429-02,ORCHARD BEACH - LEFT,BRONX,2022115601,22-Jun-22,-,-,Sample-Routine,Enterococcus,-,120,MPN,-,3,ft,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,routine,SEE NYS QAPP,Water Bottle,-,-
+NY817429,ORCHARD BEACH,NY817429-01,ORCHARD BEACH,BRONX,2022115600,22-Jun-22,-,-,Sample-Routine,Enterococcus,-,520,MPN,-,3,ft,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,routine,SEE NYS QAPP,Water Bottle,-,-
+NY817429,ORCHARD BEACH,NY817429-03,ORCHARD BEACH - RIGHT,BRONX,2022115114,14-Jun-22,-,-,Sample-Routine,Enterococcus,-,53,MPN,-,3,ft,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,routine,SEE NYS QAPP,Water Bottle,-,-
+NY817429,ORCHARD BEACH,NY817429-02,ORCHARD BEACH - LEFT,BRONX,2022115113,14-Jun-22,-,-,Sample-Routine,Enterococcus,-,31,MPN,-,3,ft,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,routine,SEE NYS QAPP,Water Bottle,-,-
+NY817429,ORCHARD BEACH,NY817429-01,ORCHARD BEACH,BRONX,2022115112,14-Jun-22,-,-,Sample-Routine,Enterococcus,-,10,MPN,-,3,ft,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,routine,SEE NYS QAPP,Water Bottle,-,-
+NY817429,ORCHARD BEACH,NY817429-03,ORCHARD BEACH - RIGHT,BRONX,2022114624,07-Jun-22,-,-,Sample-Routine,Enterococcus,Present Below Quantification Limit,-,-,-,3,ft,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,routine,SEE NYS QAPP,Water Bottle,-,Lower Quantitation Limit~10.0~MPN
+NY817429,ORCHARD BEACH,NY817429-02,ORCHARD BEACH - LEFT,BRONX,2022114623,07-Jun-22,-,-,Sample-Routine,Enterococcus,-,31,MPN,-,3,ft,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,routine,SEE NYS QAPP,Water Bottle,-,-
+NY817429,ORCHARD BEACH,NY817429-01,ORCHARD BEACH,BRONX,2022114622,07-Jun-22,-,-,Sample-Routine,Enterococcus,Present Below Quantification Limit,-,-,-,3,ft,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,routine,SEE NYS QAPP,Water Bottle,-,Lower Quantitation Limit~10.0~MPN
+NY817429,ORCHARD BEACH,NY817429-03,ORCHARD BEACH - RIGHT,BRONX,2022114401,01-Jun-22,-,-,Sample-Routine,Enterococcus,-,42,MPN,-,3,ft,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,routine,SEE NYS QAPP,Water Bottle,-,-
+NY817429,ORCHARD BEACH,NY817429-02,ORCHARD BEACH - LEFT,BRONX,2022114400,01-Jun-22,-,-,Sample-Routine,Enterococcus,-,53,MPN,-,3,ft,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,routine,SEE NYS QAPP,Water Bottle,-,-
+NY817429,ORCHARD BEACH,NY817429-01,ORCHARD BEACH,BRONX,2022114399,01-Jun-22,-,-,Sample-Routine,Enterococcus,-,53,MPN,-,3,ft,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,routine,SEE NYS QAPP,Water Bottle,-,-
+NY817429,ORCHARD BEACH,NY817429-03,ORCHARD BEACH - RIGHT,BRONX,2022114239,10-May-22,-,-,Sample-Routine,Enterococcus,-,20,MPN,-,3,ft,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,routine,SEE NYS QAPP,Water Bottle,-,-
+NY817429,ORCHARD BEACH,NY817429-03,ORCHARD BEACH - RIGHT,BRONX,2022114238,03-May-22,-,-,Sample-Routine,Enterococcus,-,64,MPN,-,3,ft,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,routine,SEE NYS QAPP,Water Bottle,-,-

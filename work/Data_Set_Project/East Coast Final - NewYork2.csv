@@ -1,0 +1,96 @@
+"Beach ID
+(Def.)","Beach Name
+(Def.)","Station
+ID
+(Def.)","Station Name
+(Def.)","County
+Name
+(Def.)","Identifier
+(Def.)","Start
+Date
+(Def.)","Start
+Time
+(Def.)","Zone
+Code
+(Def.)","Activity
+Type
+Code
+(Def.)","Characteristic
+Name
+(Def.)","Result Value
+Text
+(Def.)","Result
+Value
+(Def.)","Result
+Measure
+Unit","Result Comment
+(Def.)","Activity
+Depth
+Value
+(Def.)","Activity
+Depth
+Unit
+Code
+(Def.)","Result
+Analytical
+Method
+Identifier
+Context
+(Def.)","Result
+Analytical
+Method
+Identifier
+(Def.)","Result
+Analytical
+Method
+Name
+(Def.)","Sample Collection
+Method Identifier
+(Def.)","Sample Collection
+Method Name
+(Def.)","Field Gear
+(Def.)","Analysis
+Date
+Time
+(Def.)","Detection
+Quantitation
+Limit
+(Def.)"
+NY565139,NORTH HEMPSTEAD BEACH PARK (BAR BEACH),NY565139-01,NORTH HEMPSTEAD BEACH PARK (BAR BEACH),NASSAU,2022120238,31-Aug-22,-,-,Sample-Routine,Enterococcus,-,29,#/100mL,-,3,ft,USEPA,1600,Enterococci in Water by Membrane Filtration Using membrane-Enterococcus Indoxyl-B-D-Glucoside Agar (mEl),routine,SEE NYS QAPP,Water Bottle,-,-
+NY565139,NORTH HEMPSTEAD BEACH PARK (BAR BEACH),NY565139-01,NORTH HEMPSTEAD BEACH PARK (BAR BEACH),NASSAU,2022120026,29-Aug-22,-,-,Sample-Routine,Enterococcus,-,72,#/100mL,-,3,ft,USEPA,1600,Enterococci in Water by Membrane Filtration Using membrane-Enterococcus Indoxyl-B-D-Glucoside Agar (mEl),routine,SEE NYS QAPP,Water Bottle,-,-
+NY565139,NORTH HEMPSTEAD BEACH PARK (BAR BEACH),NY565139-01,NORTH HEMPSTEAD BEACH PARK (BAR BEACH),NASSAU,2022119825,24-Aug-22,-,-,Sample-Routine,Enterococcus,-,1,#/100mL,-,3,ft,USEPA,1600,Enterococci in Water by Membrane Filtration Using membrane-Enterococcus Indoxyl-B-D-Glucoside Agar (mEl),routine,SEE NYS QAPP,Water Bottle,-,-
+NY565139,NORTH HEMPSTEAD BEACH PARK (BAR BEACH),NY565139-01,NORTH HEMPSTEAD BEACH PARK (BAR BEACH),NASSAU,2022119637,22-Aug-22,-,-,Sample-Routine,Enterococcus,-,21,#/100mL,-,3,ft,USEPA,1600,Enterococci in Water by Membrane Filtration Using membrane-Enterococcus Indoxyl-B-D-Glucoside Agar (mEl),routine,SEE NYS QAPP,Water Bottle,-,-
+NY565139,NORTH HEMPSTEAD BEACH PARK (BAR BEACH),NY565139-01,NORTH HEMPSTEAD BEACH PARK (BAR BEACH),NASSAU,2022119241,17-Aug-22,-,-,Sample-Routine,Enterococcus,-,40,#/100mL,-,3,ft,USEPA,1600,Enterococci in Water by Membrane Filtration Using membrane-Enterococcus Indoxyl-B-D-Glucoside Agar (mEl),routine,SEE NYS QAPP,Water Bottle,-,-
+NY565139,NORTH HEMPSTEAD BEACH PARK (BAR BEACH),NY565139-01,NORTH HEMPSTEAD BEACH PARK (BAR BEACH),NASSAU,2022119115,15-Aug-22,-,-,Sample-Routine,Enterococcus,-,5,#/100mL,-,3,ft,USEPA,1600,Enterococci in Water by Membrane Filtration Using membrane-Enterococcus Indoxyl-B-D-Glucoside Agar (mEl),routine,SEE NYS QAPP,Water Bottle,-,-
+NY565139,NORTH HEMPSTEAD BEACH PARK (BAR BEACH),NY565139-01,NORTH HEMPSTEAD BEACH PARK (BAR BEACH),NASSAU,2022118808,10-Aug-22,-,-,Sample-Routine,Enterococcus,-,1400,#/100mL,-,3,ft,USEPA,1600,Enterococci in Water by Membrane Filtration Using membrane-Enterococcus Indoxyl-B-D-Glucoside Agar (mEl),routine,SEE NYS QAPP,Water Bottle,-,-
+NY565139,NORTH HEMPSTEAD BEACH PARK (BAR BEACH),NY565139-01,NORTH HEMPSTEAD BEACH PARK (BAR BEACH),NASSAU,2022118630,08-Aug-22,-,-,Sample-Routine,Enterococcus,-,10,#/100mL,-,3,ft,USEPA,1600,Enterococci in Water by Membrane Filtration Using membrane-Enterococcus Indoxyl-B-D-Glucoside Agar (mEl),routine,SEE NYS QAPP,Water Bottle,-,-
+NY565139,NORTH HEMPSTEAD BEACH PARK (BAR BEACH),NY565139-01,NORTH HEMPSTEAD BEACH PARK (BAR BEACH),NASSAU,2022118351,03-Aug-22,-,-,Sample-Routine,Enterococcus,-,4,#/100mL,-,3,ft,USEPA,1600,Enterococci in Water by Membrane Filtration Using membrane-Enterococcus Indoxyl-B-D-Glucoside Agar (mEl),routine,SEE NYS QAPP,Water Bottle,-,-
+NY565139,NORTH HEMPSTEAD BEACH PARK (BAR BEACH),NY565139-01,NORTH HEMPSTEAD BEACH PARK (BAR BEACH),NASSAU,2022118148,01-Aug-22,-,-,Sample-Routine,Enterococcus,-,13,#/100mL,-,3,ft,USEPA,1600,Enterococci in Water by Membrane Filtration Using membrane-Enterococcus Indoxyl-B-D-Glucoside Agar (mEl),routine,SEE NYS QAPP,Water Bottle,-,-
+NY565139,NORTH HEMPSTEAD BEACH PARK (BAR BEACH),NY565139-01,NORTH HEMPSTEAD BEACH PARK (BAR BEACH),NASSAU,2022118091,27-Jul-22,-,-,Sample-Routine,Enterococcus,-,58,#/100mL,-,3,ft,USEPA,1600,Enterococci in Water by Membrane Filtration Using membrane-Enterococcus Indoxyl-B-D-Glucoside Agar (mEl),routine,SEE NYS QAPP,Water Bottle,-,-
+NY565139,NORTH HEMPSTEAD BEACH PARK (BAR BEACH),NY565139-01,NORTH HEMPSTEAD BEACH PARK (BAR BEACH),NASSAU,2022117540,25-Jul-22,-,-,Sample-Routine,Enterococcus,-,10,#/100mL,-,3,ft,USEPA,1600,Enterococci in Water by Membrane Filtration Using membrane-Enterococcus Indoxyl-B-D-Glucoside Agar (mEl),routine,SEE NYS QAPP,Water Bottle,-,-
+NY565139,NORTH HEMPSTEAD BEACH PARK (BAR BEACH),NY565139-01,NORTH HEMPSTEAD BEACH PARK (BAR BEACH),NASSAU,2022117340,20-Jul-22,-,-,Sample-Routine,Enterococcus,-,8,#/100mL,-,3,ft,USEPA,1600,Enterococci in Water by Membrane Filtration Using membrane-Enterococcus Indoxyl-B-D-Glucoside Agar (mEl),routine,SEE NYS QAPP,Water Bottle,-,-
+NY565139,NORTH HEMPSTEAD BEACH PARK (BAR BEACH),NY565139-01,NORTH HEMPSTEAD BEACH PARK (BAR BEACH),NASSAU,2022117019,18-Jul-22,-,-,Sample-Routine,Enterococcus,-,23,#/100mL,-,3,ft,USEPA,1600,Enterococci in Water by Membrane Filtration Using membrane-Enterococcus Indoxyl-B-D-Glucoside Agar (mEl),routine,SEE NYS QAPP,Water Bottle,-,-
+NY565139,NORTH HEMPSTEAD BEACH PARK (BAR BEACH),NY565139-01,NORTH HEMPSTEAD BEACH PARK (BAR BEACH),NASSAU,2022116772,13-Jul-22,-,-,Sample-Routine,Enterococcus,-,80,#/100mL,-,3,ft,USEPA,1600,Enterococci in Water by Membrane Filtration Using membrane-Enterococcus Indoxyl-B-D-Glucoside Agar (mEl),routine,SEE NYS QAPP,Water Bottle,-,-
+NY565139,NORTH HEMPSTEAD BEACH PARK (BAR BEACH),NY565139-01,NORTH HEMPSTEAD BEACH PARK (BAR BEACH),NASSAU,2022116511,11-Jul-22,-,-,Sample-Routine,Enterococcus,Present Below Quantification Limit,-,-,-,3,ft,USEPA,1600,Enterococci in Water by Membrane Filtration Using membrane-Enterococcus Indoxyl-B-D-Glucoside Agar (mEl),routine,SEE NYS QAPP,Water Bottle,-,Lower Quantitation Limit~1.00~#/100mL
+NY565139,NORTH HEMPSTEAD BEACH PARK (BAR BEACH),NY565139-01,NORTH HEMPSTEAD BEACH PARK (BAR BEACH),NASSAU,2022116205,06-Jul-22,-,-,Sample-Routine,Enterococcus,Present Below Quantification Limit,-,-,-,3,ft,USEPA,1600,Enterococci in Water by Membrane Filtration Using membrane-Enterococcus Indoxyl-B-D-Glucoside Agar (mEl),routine,SEE NYS QAPP,Water Bottle,-,Lower Quantitation Limit~1.00~#/100mL
+NY565139,NORTH HEMPSTEAD BEACH PARK (BAR BEACH),NY565139-01,NORTH HEMPSTEAD BEACH PARK (BAR BEACH),NASSAU,2022115883,29-Jun-22,-,-,Sample-Routine,Enterococcus,Present Below Quantification Limit,-,-,-,3,ft,USEPA,1600,Enterococci in Water by Membrane Filtration Using membrane-Enterococcus Indoxyl-B-D-Glucoside Agar (mEl),routine,SEE NYS QAPP,Water Bottle,-,Lower Quantitation Limit~1.00~#/100mL
+NY565139,NORTH HEMPSTEAD BEACH PARK (BAR BEACH),NY565139-01,NORTH HEMPSTEAD BEACH PARK (BAR BEACH),NASSAU,2022115718,27-Jun-22,-,-,Sample-Routine,Enterococcus,Present Below Quantification Limit,-,-,-,3,ft,USEPA,1600,Enterococci in Water by Membrane Filtration Using membrane-Enterococcus Indoxyl-B-D-Glucoside Agar (mEl),routine,SEE NYS QAPP,Water Bottle,-,Lower Quantitation Limit~1.00~#/100mL
+NY565139,NORTH HEMPSTEAD BEACH PARK (BAR BEACH),NY565139-01,NORTH HEMPSTEAD BEACH PARK (BAR BEACH),NASSAU,2022115327,22-Jun-22,-,-,Sample-Routine,Enterococcus,Present Below Quantification Limit,-,-,-,3,ft,USEPA,1600,Enterococci in Water by Membrane Filtration Using membrane-Enterococcus Indoxyl-B-D-Glucoside Agar (mEl),routine,SEE NYS QAPP,Water Bottle,-,Lower Quantitation Limit~1.00~#/100mL
+NY565139,NORTH HEMPSTEAD BEACH PARK (BAR BEACH),NY565139-01,NORTH HEMPSTEAD BEACH PARK (BAR BEACH),NASSAU,2022115168,20-Jun-22,-,-,Sample-Routine,Enterococcus,-,1,#/100mL,-,3,ft,USEPA,1600,Enterococci in Water by Membrane Filtration Using membrane-Enterococcus Indoxyl-B-D-Glucoside Agar (mEl),routine,SEE NYS QAPP,Water Bottle,-,-
+NY565139,NORTH HEMPSTEAD BEACH PARK (BAR BEACH),NY565139-01,NORTH HEMPSTEAD BEACH PARK (BAR BEACH),NASSAU,2022114903,15-Jun-22,-,-,Sample-Routine,Enterococcus,-,2,#/100mL,-,3,ft,USEPA,1600,Enterococci in Water by Membrane Filtration Using membrane-Enterococcus Indoxyl-B-D-Glucoside Agar (mEl),routine,SEE NYS QAPP,Water Bottle,-,-
+NY565139,NORTH HEMPSTEAD BEACH PARK (BAR BEACH),NY565139-01,NORTH HEMPSTEAD BEACH PARK (BAR BEACH),NASSAU,2022114724,13-Jun-22,-,-,Sample-Routine,Enterococcus,Present Below Quantification Limit,-,-,-,3,ft,USEPA,1600,Enterococci in Water by Membrane Filtration Using membrane-Enterococcus Indoxyl-B-D-Glucoside Agar (mEl),routine,SEE NYS QAPP,Water Bottle,-,Lower Quantitation Limit~1.00~#/100mL
+NY565139,NORTH HEMPSTEAD BEACH PARK (BAR BEACH),NY565139-01,NORTH HEMPSTEAD BEACH PARK (BAR BEACH),NASSAU,2022114553,08-Jun-22,-,-,Sample-Routine,Enterococcus,Present Below Quantification Limit,-,-,-,3,ft,USEPA,1600,Enterococci in Water by Membrane Filtration Using membrane-Enterococcus Indoxyl-B-D-Glucoside Agar (mEl),routine,SEE NYS QAPP,Water Bottle,-,Lower Quantitation Limit~1.00~#/100mL
+NY565139,NORTH HEMPSTEAD BEACH PARK (BAR BEACH),NY565139-01,NORTH HEMPSTEAD BEACH PARK (BAR BEACH),NASSAU,2022114055,06-Jun-22,-,-,Sample-Routine,Enterococcus,-,2,#/100mL,-,3,ft,USEPA,1600,Enterococci in Water by Membrane Filtration Using membrane-Enterococcus Indoxyl-B-D-Glucoside Agar (mEl),routine,SEE NYS QAPP,Water Bottle,-,-
+NY565139,NORTH HEMPSTEAD BEACH PARK (BAR BEACH),NY565139-01,NORTH HEMPSTEAD BEACH PARK (BAR BEACH),NASSAU,2022113932,01-Jun-22,-,-,Sample-Routine,Enterococcus,-,12,#/100mL,-,3,ft,USEPA,1600,Enterococci in Water by Membrane Filtration Using membrane-Enterococcus Indoxyl-B-D-Glucoside Agar (mEl),routine,SEE NYS QAPP,Water Bottle,-,-
+NY565139,NORTH HEMPSTEAD BEACH PARK (BAR BEACH),NY565139-01,NORTH HEMPSTEAD BEACH PARK (BAR BEACH),NASSAU,2022113679,25-May-22,-,-,Sample-Routine,Enterococcus,Present Below Quantification Limit,-,-,-,3,ft,USEPA,1600,Enterococci in Water by Membrane Filtration Using membrane-Enterococcus Indoxyl-B-D-Glucoside Agar (mEl),routine,SEE NYS QAPP,Water Bottle,-,Lower Quantitation Limit~1.00~#/100mL
+NY565139,NORTH HEMPSTEAD BEACH PARK (BAR BEACH),NY565139-01,NORTH HEMPSTEAD BEACH PARK (BAR BEACH),NASSAU,2022113365,18-May-22,-,-,Sample-Routine,Enterococcus,-,5,#/100mL,-,3,ft,USEPA,1600,Enterococci in Water by Membrane Filtration Using membrane-Enterococcus Indoxyl-B-D-Glucoside Agar (mEl),routine,SEE NYS QAPP,Water Bottle,-,-
+NY565139,NORTH HEMPSTEAD BEACH PARK (BAR BEACH),NY565139-01,NORTH HEMPSTEAD BEACH PARK (BAR BEACH),NASSAU,2022113354,16-May-22,-,-,Sample-Routine,Enterococcus,Present Below Quantification Limit,-,-,-,3,ft,USEPA,1600,Enterococci in Water by Membrane Filtration Using membrane-Enterococcus Indoxyl-B-D-Glucoside Agar (mEl),routine,SEE NYS QAPP,Water Bottle,-,Lower Quantitation Limit~1.00~#/100mL
+NY565139,NORTH HEMPSTEAD BEACH PARK (BAR BEACH),NY565139-01,NORTH HEMPSTEAD BEACH PARK (BAR BEACH),NASSAU,2022113170,11-May-22,-,-,Sample-Routine,Enterococcus,Present Below Quantification Limit,-,-,-,3,ft,USEPA,1600,Enterococci in Water by Membrane Filtration Using membrane-Enterococcus Indoxyl-B-D-Glucoside Agar (mEl),routine,SEE NYS QAPP,Water Bottle,-,Lower Quantitation Limit~1.00~#/100mL
+NY565139,NORTH HEMPSTEAD BEACH PARK (BAR BEACH),NY565139-01,NORTH HEMPSTEAD BEACH PARK (BAR BEACH),NASSAU,2022113050,04-May-22,-,-,Sample-Routine,Enterococcus,Present Below Quantification Limit,-,-,-,3,ft,USEPA,1600,Enterococci in Water by Membrane Filtration Using membrane-Enterococcus Indoxyl-B-D-Glucoside Agar (mEl),routine,SEE NYS QAPP,Water Bottle,-,Lower Quantitation Limit~1.00~#/100mL
+NY565139,NORTH HEMPSTEAD BEACH PARK (BAR BEACH),NY565139-01,NORTH HEMPSTEAD BEACH PARK (BAR BEACH),NASSAU,2022113039,02-May-22,-,-,Sample-Routine,Enterococcus,-,1,#/100mL,-,3,ft,USEPA,1600,Enterococci in Water by Membrane Filtration Using membrane-Enterococcus Indoxyl-B-D-Glucoside Agar (mEl),routine,SEE NYS QAPP,Water Bottle,-,-
+NY565139,NORTH HEMPSTEAD BEACH PARK (BAR BEACH),NY565139-01,NORTH HEMPSTEAD BEACH PARK (BAR BEACH),NASSAU,2022113028,27-Apr-22,-,-,Sample-Routine,Enterococcus,-,2,#/100mL,-,3,ft,USEPA,1600,Enterococci in Water by Membrane Filtration Using membrane-Enterococcus Indoxyl-B-D-Glucoside Agar (mEl),routine,SEE NYS QAPP,Water Bottle,-,-
+NY565139,NORTH HEMPSTEAD BEACH PARK (BAR BEACH),NY565139-01,NORTH HEMPSTEAD BEACH PARK (BAR BEACH),NASSAU,2022112998,25-Apr-22,-,-,Sample-Routine,Enterococcus,Present Below Quantification Limit,-,-,-,3,ft,USEPA,1600,Enterococci in Water by Membrane Filtration Using membrane-Enterococcus Indoxyl-B-D-Glucoside Agar (mEl),routine,SEE NYS QAPP,Water Bottle,-,Lower Quantitation Limit~1.00~#/100mL
+NY565139,NORTH HEMPSTEAD BEACH PARK (BAR BEACH),NY565139-01,NORTH HEMPSTEAD BEACH PARK (BAR BEACH),NASSAU,2022112966,20-Apr-22,-,-,Sample-Routine,Enterococcus,Present Below Quantification Limit,-,-,-,3,ft,USEPA,1600,Enterococci in Water by Membrane Filtration Using membrane-Enterococcus Indoxyl-B-D-Glucoside Agar (mEl),routine,SEE NYS QAPP,Water Bottle,-,Lower Quantitation Limit~1.00~#/100mL
+NY565139,NORTH HEMPSTEAD BEACH PARK (BAR BEACH),NY565139-01,NORTH HEMPSTEAD BEACH PARK (BAR BEACH),NASSAU,2022112955,18-Apr-22,-,-,Sample-Routine,Enterococcus,Present Below Quantification Limit,-,-,-,3,ft,USEPA,1600,Enterococci in Water by Membrane Filtration Using membrane-Enterococcus Indoxyl-B-D-Glucoside Agar (mEl),routine,SEE NYS QAPP,Water Bottle,-,Lower Quantitation Limit~1.00~#/100mL
+NY565139,NORTH HEMPSTEAD BEACH PARK (BAR BEACH),NY565139-01,NORTH HEMPSTEAD BEACH PARK (BAR BEACH),NASSAU,2022112903,13-Apr-22,-,-,Sample-Routine,Enterococcus,-,1,#/100mL,-,3,ft,USEPA,1600,Enterococci in Water by Membrane Filtration Using membrane-Enterococcus Indoxyl-B-D-Glucoside Agar (mEl),routine,SEE NYS QAPP,Water Bottle,-,-
+NY565139,NORTH HEMPSTEAD BEACH PARK (BAR BEACH),NY565139-01,NORTH HEMPSTEAD BEACH PARK (BAR BEACH),NASSAU,2022112893,11-Apr-22,-,-,Sample-Routine,Enterococcus,-,15,#/100mL,-,3,ft,USEPA,1600,Enterococci in Water by Membrane Filtration Using membrane-Enterococcus Indoxyl-B-D-Glucoside Agar (mEl),routine,SEE NYS QAPP,Water Bottle,-,-

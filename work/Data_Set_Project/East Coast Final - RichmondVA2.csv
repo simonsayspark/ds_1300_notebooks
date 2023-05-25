@@ -1,0 +1,75 @@
+"Beach ID
+(Def.)","Beach Name
+(Def.)","Station
+ID
+(Def.)","Station Name
+(Def.)","County
+Name
+(Def.)","Identifier
+(Def.)","Start
+Date
+(Def.)","Start
+Time
+(Def.)","Zone
+Code
+(Def.)","Activity
+Type
+Code
+(Def.)","Characteristic
+Name
+(Def.)","Result Value
+Text
+(Def.)","Result
+Value
+(Def.)","Result
+Measure
+Unit","Result Comment
+(Def.)","Activity
+Depth
+Value
+(Def.)","Activity
+Depth
+Unit
+Code
+(Def.)","Result
+Analytical
+Method
+Identifier
+Context
+(Def.)","Result
+Analytical
+Method
+Identifier
+(Def.)","Result
+Analytical
+Method
+Name
+(Def.)","Sample Collection
+Method Identifier
+(Def.)","Sample Collection
+Method Name
+(Def.)","Field Gear
+(Def.)","Analysis
+Date
+Time
+(Def.)","Detection
+Quantitation
+Limit
+(Def.)"
+VA509547,"OCEAN VIEW PARK, EAST SIDE OF PARKING LOT",VA509547,"OCEAN VIEW PARK, EAST SIDE OF PARKING LOT",NORFOLK,4758,12-Sep-22,12:00:00 AM,EDT,Sample-Routine,Enterococcus,-,98,#/100mL,-,-,-,21VABCH,METH1,Fecal Coliform Procedure,ROUTINE,Routine Sampling,Water Bottle,-,-
+VA509547,"OCEAN VIEW PARK, EAST SIDE OF PARKING LOT",VA509547,"OCEAN VIEW PARK, EAST SIDE OF PARKING LOT",NORFOLK,4720,06-Sep-22,12:00:00 AM,EDT,Sample-Routine,Enterococcus,-,1,#/100mL,-,-,-,21VABCH,METH1,Fecal Coliform Procedure,ROUTINE,Routine Sampling,Water Bottle,-,-
+VA509547,"OCEAN VIEW PARK, EAST SIDE OF PARKING LOT",VA509547,"OCEAN VIEW PARK, EAST SIDE OF PARKING LOT",NORFOLK,4668,29-Aug-22,12:00:00 AM,EDT,Sample-Routine,Enterococcus,-,235,#/100mL,-,-,-,21VABCH,METH1,Fecal Coliform Procedure,ROUTINE,Routine Sampling,Water Bottle,-,-
+VA509547,"OCEAN VIEW PARK, EAST SIDE OF PARKING LOT",VA509547,"OCEAN VIEW PARK, EAST SIDE OF PARKING LOT",NORFOLK,4616,22-Aug-22,12:00:00 AM,EDT,Sample-Routine,Enterococcus,-,41,#/100mL,-,-,-,21VABCH,METH1,Fecal Coliform Procedure,ROUTINE,Routine Sampling,Water Bottle,-,-
+VA509547,"OCEAN VIEW PARK, EAST SIDE OF PARKING LOT",VA509547,"OCEAN VIEW PARK, EAST SIDE OF PARKING LOT",NORFOLK,4563,15-Aug-22,12:00:00 AM,EDT,Sample-Routine,Enterococcus,-,20,#/100mL,-,-,-,21VABCH,METH1,Fecal Coliform Procedure,ROUTINE,Routine Sampling,Water Bottle,-,-
+VA509547,"OCEAN VIEW PARK, EAST SIDE OF PARKING LOT",VA509547,"OCEAN VIEW PARK, EAST SIDE OF PARKING LOT",NORFOLK,4513,08-Aug-22,12:00:00 AM,EDT,Sample-Routine,Enterococcus,-,1,#/100mL,-,-,-,21VABCH,METH1,Fecal Coliform Procedure,ROUTINE,Routine Sampling,Water Bottle,-,-
+VA509547,"OCEAN VIEW PARK, EAST SIDE OF PARKING LOT",VA509547,"OCEAN VIEW PARK, EAST SIDE OF PARKING LOT",NORFOLK,4464,01-Aug-22,12:00:00 AM,EDT,Sample-Routine,Enterococcus,-,1,#/100mL,-,-,-,21VABCH,METH1,Fecal Coliform Procedure,ROUTINE,Routine Sampling,Water Bottle,-,-
+VA509547,"OCEAN VIEW PARK, EAST SIDE OF PARKING LOT",VA509547,"OCEAN VIEW PARK, EAST SIDE OF PARKING LOT",NORFOLK,4413,25-Jul-22,12:00:00 AM,EDT,Sample-Routine,Enterococcus,-,1,#/100mL,-,-,-,21VABCH,METH1,Fecal Coliform Procedure,ROUTINE,Routine Sampling,Water Bottle,-,-
+VA509547,"OCEAN VIEW PARK, EAST SIDE OF PARKING LOT",VA509547,"OCEAN VIEW PARK, EAST SIDE OF PARKING LOT",NORFOLK,4365,18-Jul-22,12:00:00 AM,EDT,Sample-Routine,Enterococcus,-,1,#/100mL,-,-,-,21VABCH,METH1,Fecal Coliform Procedure,ROUTINE,Routine Sampling,Water Bottle,-,-
+VA509547,"OCEAN VIEW PARK, EAST SIDE OF PARKING LOT",VA509547,"OCEAN VIEW PARK, EAST SIDE OF PARKING LOT",NORFOLK,4312,11-Jul-22,12:00:00 AM,EDT,Sample-Routine,Enterococcus,-,10,#/100mL,-,-,-,21VABCH,METH1,Fecal Coliform Procedure,ROUTINE,Routine Sampling,Water Bottle,-,-
+VA509547,"OCEAN VIEW PARK, EAST SIDE OF PARKING LOT",VA509547,"OCEAN VIEW PARK, EAST SIDE OF PARKING LOT",NORFOLK,4300,05-Jul-22,12:00:00 AM,EDT,Sample-Routine,Enterococcus,-,10,#/100mL,-,-,-,21VABCH,METH1,Fecal Coliform Procedure,ROUTINE,Routine Sampling,Water Bottle,-,-
+VA509547,"OCEAN VIEW PARK, EAST SIDE OF PARKING LOT",VA509547,"OCEAN VIEW PARK, EAST SIDE OF PARKING LOT",NORFOLK,4213,27-Jun-22,12:00:00 AM,EDT,Sample-Routine,Enterococcus,-,1,#/100mL,-,-,-,21VABCH,METH1,Fecal Coliform Procedure,ROUTINE,Routine Sampling,Water Bottle,-,-
+VA509547,"OCEAN VIEW PARK, EAST SIDE OF PARKING LOT",VA509547,"OCEAN VIEW PARK, EAST SIDE OF PARKING LOT",NORFOLK,4164,21-Jun-22,12:00:00 AM,EDT,Sample-Routine,Enterococcus,-,1,#/100mL,-,-,-,21VABCH,METH1,Fecal Coliform Procedure,ROUTINE,Routine Sampling,Water Bottle,-,-
+VA509547,"OCEAN VIEW PARK, EAST SIDE OF PARKING LOT",VA509547,"OCEAN VIEW PARK, EAST SIDE OF PARKING LOT",NORFOLK,4112,13-Jun-22,12:00:00 AM,EDT,Sample-Routine,Enterococcus,-,10,#/100mL,-,-,-,21VABCH,METH1,Fecal Coliform Procedure,ROUTINE,Routine Sampling,Water Bottle,-,-
+VA509547,"OCEAN VIEW PARK, EAST SIDE OF PARKING LOT",VA509547,"OCEAN VIEW PARK, EAST SIDE OF PARKING LOT",NORFOLK,4061,06-Jun-22,12:00:00 AM,EDT,Sample-Routine,Enterococcus,-,10,#/100mL,-,-,-,21VABCH,METH1,Fecal Coliform Procedure,ROUTINE,Routine Sampling,Water Bottle,-,-
+VA509547,"OCEAN VIEW PARK, EAST SIDE OF PARKING LOT",VA509547,"OCEAN VIEW PARK, EAST SIDE OF PARKING LOT",NORFOLK,4002,31-May-22,12:00:00 AM,EDT,Sample-Routine,Enterococcus,-,1,#/100mL,-,-,-,21VABCH,METH1,Fecal Coliform Procedure,ROUTINE,Routine Sampling,Water Bottle,-,-
+VA509547,"OCEAN VIEW PARK, EAST SIDE OF PARKING LOT",VA509547,"OCEAN VIEW PARK, EAST SIDE OF PARKING LOT",NORFOLK,3957,23-May-22,12:00:00 AM,EDT,Sample-Routine,Enterococcus,-,1,#/100mL,-,-,-,21VABCH,METH1,Fecal Coliform Procedure,ROUTINE,Routine Sampling,Water Bottle,-,-

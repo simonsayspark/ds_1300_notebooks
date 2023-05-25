@@ -1,0 +1,72 @@
+"Beach ID
+(Def.)","Beach Name
+(Def.)","Station
+ID
+(Def.)","Station Name
+(Def.)","County
+Name
+(Def.)","Identifier
+(Def.)","Start
+Date
+(Def.)","Start
+Time
+(Def.)","Zone
+Code
+(Def.)","Activity
+Type
+Code
+(Def.)","Characteristic
+Name
+(Def.)","Result Value
+Text
+(Def.)","Result
+Value
+(Def.)","Result
+Measure
+Unit","Result Comment
+(Def.)","Activity
+Depth
+Value
+(Def.)","Activity
+Depth
+Unit
+Code
+(Def.)","Result
+Analytical
+Method
+Identifier
+Context
+(Def.)","Result
+Analytical
+Method
+Identifier
+(Def.)","Result
+Analytical
+Method
+Name
+(Def.)","Sample Collection
+Method Identifier
+(Def.)","Sample Collection
+Method Name
+(Def.)","Field Gear
+(Def.)","Analysis
+Date
+Time
+(Def.)","Detection
+Quantitation
+Limit
+(Def.)"
+VA818754,FESTIVAL BEACH,VA818754,FESTIVAL BEACH,MATHEWS,4683,30-Aug-22,12:00:00 AM,EDT,Sample-Routine,Enterococcus,-,10,#/100mL,-,-,-,21VABCH,METH1,Fecal Coliform Procedure,ROUTINE,Routine Sampling,Water Bottle,-,-
+VA818754,FESTIVAL BEACH,VA818754,FESTIVAL BEACH,MATHEWS,4650,23-Aug-22,12:00:00 AM,EDT,Sample-Routine,Enterococcus,-,1,#/100mL,-,-,-,21VABCH,METH1,Fecal Coliform Procedure,ROUTINE,Routine Sampling,Water Bottle,-,-
+VA818754,FESTIVAL BEACH,VA818754,FESTIVAL BEACH,MATHEWS,4596,16-Aug-22,12:00:00 AM,EDT,Sample-Routine,Enterococcus,-,10,#/100mL,-,-,-,21VABCH,METH1,Fecal Coliform Procedure,ROUTINE,Routine Sampling,Water Bottle,-,-
+VA818754,FESTIVAL BEACH,VA818754,FESTIVAL BEACH,MATHEWS,4550,09-Aug-22,12:00:00 AM,EDT,Sample-Routine,Enterococcus,-,1,#/100mL,-,-,-,21VABCH,METH1,Fecal Coliform Procedure,ROUTINE,Routine Sampling,Water Bottle,-,-
+VA818754,FESTIVAL BEACH,VA818754,FESTIVAL BEACH,MATHEWS,4522,02-Aug-22,12:00:00 AM,EDT,Sample-Routine,Enterococcus,-,1,#/100mL,-,-,-,21VABCH,METH1,Fecal Coliform Procedure,ROUTINE,Routine Sampling,Water Bottle,-,-
+VA818754,FESTIVAL BEACH,VA818754,FESTIVAL BEACH,MATHEWS,4453,27-Jul-22,12:00:00 AM,EDT,Sample-Routine,Enterococcus,-,1,#/100mL,-,-,-,21VABCH,METH1,Fecal Coliform Procedure,ROUTINE,Routine Sampling,Water Bottle,-,-
+VA818754,FESTIVAL BEACH,VA818754,FESTIVAL BEACH,MATHEWS,4354,12-Jul-22,12:00:00 AM,EDT,Sample-Routine,Enterococcus,-,1,#/100mL,-,-,-,21VABCH,METH1,Fecal Coliform Procedure,ROUTINE,Routine Sampling,Water Bottle,-,-
+VA818754,FESTIVAL BEACH,VA818754,FESTIVAL BEACH,MATHEWS,4262,05-Jul-22,12:00:00 AM,EDT,Sample-Routine,Enterococcus,-,10,#/100mL,-,-,-,21VABCH,METH1,Fecal Coliform Procedure,ROUTINE,Routine Sampling,Water Bottle,-,-
+VA818754,FESTIVAL BEACH,VA818754,FESTIVAL BEACH,MATHEWS,4255,28-Jun-22,12:00:00 AM,EDT,Sample-Routine,Enterococcus,-,10,#/100mL,-,-,-,21VABCH,METH1,Fecal Coliform Procedure,ROUTINE,Routine Sampling,Water Bottle,-,-
+VA818754,FESTIVAL BEACH,VA818754,FESTIVAL BEACH,MATHEWS,4201,21-Jun-22,12:00:00 AM,EDT,Sample-Routine,Enterococcus,-,1,#/100mL,-,-,-,21VABCH,METH1,Fecal Coliform Procedure,ROUTINE,Routine Sampling,Water Bottle,-,-
+VA818754,FESTIVAL BEACH,VA818754,FESTIVAL BEACH,MATHEWS,4145,14-Jun-22,12:00:00 AM,EDT,Sample-Routine,Enterococcus,-,1,#/100mL,-,-,-,21VABCH,METH1,Fecal Coliform Procedure,ROUTINE,Routine Sampling,Water Bottle,-,-
+VA818754,FESTIVAL BEACH,VA818754,FESTIVAL BEACH,MATHEWS,4077,07-Jun-22,12:00:00 AM,EDT,Sample-Routine,Enterococcus,-,1,#/100mL,-,-,-,21VABCH,METH1,Fecal Coliform Procedure,ROUTINE,Routine Sampling,Water Bottle,-,-
+VA818754,FESTIVAL BEACH,VA818754,FESTIVAL BEACH,MATHEWS,4038,31-May-22,12:00:00 AM,EDT,Sample-Routine,Enterococcus,-,1,#/100mL,-,-,-,21VABCH,METH1,Fecal Coliform Procedure,ROUTINE,Routine Sampling,Water Bottle,-,-
+VA818754,FESTIVAL BEACH,VA818754,FESTIVAL BEACH,MATHEWS,4036,24-May-22,12:00:00 AM,EDT,Sample-Routine,Enterococcus,-,20,#/100mL,-,-,-,21VABCH,METH1,Fecal Coliform Procedure,ROUTINE,Routine Sampling,Water Bottle,-,-

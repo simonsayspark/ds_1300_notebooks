@@ -1,0 +1,72 @@
+"Beach ID
+(Def.)","Beach Name
+(Def.)","Station
+ID
+(Def.)","Station Name
+(Def.)","County
+Name
+(Def.)","Identifier
+(Def.)","Start
+Date
+(Def.)","Start
+Time
+(Def.)","Zone
+Code
+(Def.)","Activity
+Type
+Code
+(Def.)","Characteristic
+Name
+(Def.)","Result Value
+Text
+(Def.)","Result
+Value
+(Def.)","Result
+Measure
+Unit","Result Comment
+(Def.)","Activity
+Depth
+Value
+(Def.)","Activity
+Depth
+Unit
+Code
+(Def.)","Result
+Analytical
+Method
+Identifier
+Context
+(Def.)","Result
+Analytical
+Method
+Identifier
+(Def.)","Result
+Analytical
+Method
+Name
+(Def.)","Sample Collection
+Method Identifier
+(Def.)","Sample Collection
+Method Name
+(Def.)","Field Gear
+(Def.)","Analysis
+Date
+Time
+(Def.)","Detection
+Quantitation
+Limit
+(Def.)"
+MA005593,Donovans,MA005593-1,Donovans - Location 1,SUFFOLK,MA202216288,31-Aug-22,8:20:00 AM,EDT,Sample-Routine,Enterococcus,-,6586,MPN/100mL,-,3,ft,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,ROUTINE,Routine Sample,Water Bottle,08-31-2022,-
+MA005593,Donovans,MA005593-1,Donovans - Location 1,SUFFOLK,MA202216287,24-Aug-22,8:20:00 AM,EDT,Sample-Routine,Enterococcus,-,147,MPN/100mL,-,3,ft,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,ROUTINE,Routine Sample,Water Bottle,08-24-2022,-
+MA005593,Donovans,MA005593-1,Donovans - Location 1,SUFFOLK,MA202216286,17-Aug-22,8:15:00 AM,EDT,Sample-Routine,Enterococcus,Not Detected,-,-,-,3,ft,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,ROUTINE,Routine Sample,Water Bottle,08-17-2022,Method Detection Level~10~MPN/100mL
+MA005593,Donovans,MA005593-1,Donovans - Location 1,SUFFOLK,MA202216285,10-Aug-22,7:40:00 AM,EDT,Sample-Routine,Enterococcus,-,223,MPN/100mL,-,3,ft,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,ROUTINE,Routine Sample,Water Bottle,08-10-2022,-
+MA005593,Donovans,MA005593-1,Donovans - Location 1,SUFFOLK,MA202216284,03-Aug-22,12:00:00 AM,EDT,Sample-Routine,Enterococcus,-,20,MPN/100mL,-,3,ft,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,ROUTINE,Routine Sample,Water Bottle,08-03-2022,-
+MA005593,Donovans,MA005593-1,Donovans - Location 1,SUFFOLK,MA202216283,27-Jul-22,12:00:00 AM,EDT,Sample-Routine,Enterococcus,-,10,MPN/100mL,-,3,ft,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,ROUTINE,Routine Sample,Water Bottle,07-27-2022,-
+MA005593,Donovans,MA005593-1,Donovans - Location 1,SUFFOLK,MA202216282,20-Jul-22,12:00:00 AM,EDT,Sample-Routine,Enterococcus,-,63,MPN/100mL,-,3,ft,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,ROUTINE,Routine Sample,Water Bottle,07-20-2022,-
+MA005593,Donovans,MA005593-1,Donovans - Location 1,SUFFOLK,MA202216281,13-Jul-22,12:00:00 AM,EDT,Sample-Routine,Enterococcus,-,10,MPN/100mL,-,3,ft,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,ROUTINE,Routine Sample,Water Bottle,07-13-2022,-
+MA005593,Donovans,MA005593-1,Donovans - Location 1,SUFFOLK,MA202216280,06-Jul-22,12:00:00 AM,EDT,Sample-Routine,Enterococcus,-,10,MPN/100mL,-,3,ft,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,ROUTINE,Routine Sample,Water Bottle,07-06-2022,-
+MA005593,Donovans,MA005593-1,Donovans - Location 1,SUFFOLK,MA202216279,29-Jun-22,12:00:00 AM,EDT,Sample-Routine,Enterococcus,-,425,MPN/100mL,-,3,ft,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,ROUTINE,Routine Sample,Water Bottle,06-29-2022,-
+MA005593,Donovans,MA005593-1,Donovans - Location 1,SUFFOLK,MA202216278,22-Jun-22,9:00:00 AM,EDT,Sample-Routine,Enterococcus,Not Detected,-,-,-,3,ft,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,ROUTINE,Routine Sample,Water Bottle,06-22-2022,Method Detection Level~10~MPN/100mL
+MA005593,Donovans,MA005593-1,Donovans - Location 1,SUFFOLK,MA202216277,15-Jun-22,12:00:00 AM,EDT,Sample-Routine,Enterococcus,-,10,MPN/100mL,-,3,ft,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,ROUTINE,Routine Sample,Water Bottle,06-15-2022,-
+MA005593,Donovans,MA005593-1,Donovans - Location 1,SUFFOLK,MA202216276,08-Jun-22,8:05:00 AM,EDT,Sample-Routine,Enterococcus,Not Detected,-,-,-,3,ft,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,ROUTINE,Routine Sample,Water Bottle,06-08-2022,Method Detection Level~10~MPN/100mL
+MA005593,Donovans,MA005593-1,Donovans - Location 1,SUFFOLK,MA202216275,01-Jun-22,12:00:00 AM,EDT,Sample-Routine,Enterococcus,-,10,MPN/100mL,-,3,ft,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,ROUTINE,Routine Sample,Water Bottle,06-01-2022,-

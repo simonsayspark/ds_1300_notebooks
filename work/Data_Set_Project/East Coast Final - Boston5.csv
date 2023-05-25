@@ -1,0 +1,71 @@
+"Beach ID
+(Def.)","Beach Name
+(Def.)","Station
+ID
+(Def.)","Station Name
+(Def.)","County
+Name
+(Def.)","Identifier
+(Def.)","Start
+Date
+(Def.)","Start
+Time
+(Def.)","Zone
+Code
+(Def.)","Activity
+Type
+Code
+(Def.)","Characteristic
+Name
+(Def.)","Result Value
+Text
+(Def.)","Result
+Value
+(Def.)","Result
+Measure
+Unit","Result Comment
+(Def.)","Activity
+Depth
+Value
+(Def.)","Activity
+Depth
+Unit
+Code
+(Def.)","Result
+Analytical
+Method
+Identifier
+Context
+(Def.)","Result
+Analytical
+Method
+Identifier
+(Def.)","Result
+Analytical
+Method
+Name
+(Def.)","Sample Collection
+Method Identifier
+(Def.)","Sample Collection
+Method Name
+(Def.)","Field Gear
+(Def.)","Analysis
+Date
+Time
+(Def.)","Detection
+Quantitation
+Limit
+(Def.)"
+MA241658,Grandview,MA241658-1,Grandview - location 1,SUFFOLK,MA202111567,01-Sep-22,12:00:00 AM,EDT,Sample-Routine,Enterococcus,Not Detected,-,-,-,3,ft,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,ROUTINE,Routine Sample,Water Bottle,09-01-2021,Method Detection Level~10~MPN/100ml
+MA241658,Grandview,MA241658-1,Grandview - location 1,SUFFOLK,MA202111068,25-Aug-22,12:00:00 AM,EDT,Sample-Routine,Enterococcus,-,10,MPN/100ml,-,3,ft,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,ROUTINE,Routine Sample,Water Bottle,08-25-2021,-
+MA241658,Grandview,MA241658-1,Grandview - location 1,SUFFOLK,MA202110519,18-Aug-22,12:00:00 AM,EDT,Sample-Routine,Enterococcus,-,132,MPN/100ml,-,3,ft,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,ROUTINE,Routine Sample,Water Bottle,08-18-2021,-
+MA241658,Grandview,MA241658-1,Grandview - location 1,SUFFOLK,MA202109920,11-Aug-22,8:40:00 AM,EDT,Sample-Routine,Enterococcus,-,30,MPN/100ml,-,3,ft,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,ROUTINE,Routine Sample,Water Bottle,08-11-2021,-
+MA241658,Grandview,MA241658-1,Grandview - location 1,SUFFOLK,MA202109325,04-Aug-22,7:51:00 AM,EDT,Sample-Routine,Enterococcus,-,10,MPN/100ml,-,3,ft,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,ROUTINE,Routine Sample,Water Bottle,08-04-2021,-
+MA241658,Grandview,MA241658-1,Grandview - location 1,SUFFOLK,MA202108792,28-Jul-22,8:00:00 AM,EDT,Sample-Routine,Enterococcus,-,171,MPN/100ml,-,3,ft,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,ROUTINE,Routine Sample,Water Bottle,07-28-2021,-
+MA241658,Grandview,MA241658-1,Grandview - location 1,SUFFOLK,MA202108199,21-Jul-22,12:00:00 AM,EDT,Sample-Routine,Enterococcus,-,20,MPN/100ml,-,3,ft,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,ROUTINE,Routine Sample,Water Bottle,07-21-2021,-
+MA241658,Grandview,MA241658-1,Grandview - location 1,SUFFOLK,MA202107593,14-Jul-22,8:40:00 AM,EDT,Sample-Routine,Enterococcus,Not Detected,-,-,-,3,ft,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,ROUTINE,Routine Sample,Water Bottle,07-14-2021,Method Detection Level~10~MPN/100ml
+MA241658,Grandview,MA241658-1,Grandview - location 1,SUFFOLK,MA202106960,07-Jul-22,8:50:00 AM,EDT,Sample-Routine,Enterococcus,Not Detected,-,-,-,3,ft,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,ROUTINE,Routine Sample,Water Bottle,07-07-2021,Method Detection Level~10~MPN/100ml
+MA241658,Grandview,MA241658-1,Grandview - location 1,SUFFOLK,MA202106496,30-Jun-22,8:50:00 AM,EDT,Sample-Routine,Enterococcus,Not Detected,-,-,-,3,ft,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,ROUTINE,Routine Sample,Water Bottle,06-30-2021,Method Detection Level~10~MPN/100ml
+MA241658,Grandview,MA241658-1,Grandview - location 1,SUFFOLK,MA202105926,23-Jun-22,12:00:00 AM,EDT,Sample-Routine,Enterococcus,-,30,MPN/100ml,-,3,ft,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,ROUTINE,Routine Sample,Water Bottle,06-23-2021,-
+MA241658,Grandview,MA241658-1,Grandview - location 1,SUFFOLK,MA202105406,16-Jun-22,12:00:00 AM,EDT,Sample-Routine,Enterococcus,-,30,MPN/100ml,-,3,ft,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,ROUTINE,Routine Sample,Water Bottle,06-16-2021,-
+MA241658,Grandview,MA241658-1,Grandview - location 1,SUFFOLK,MA202104990,09-Jun-22,12:00:00 AM,EDT,Sample-Routine,Enterococcus,Not Detected,-,-,-,3,ft,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,ROUTINE,Routine Sample,Water Bottle,06-09-2021,Method Detection Level~10~MPN/100ml

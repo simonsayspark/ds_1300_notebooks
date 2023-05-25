@@ -1,0 +1,108 @@
+"Beach ID
+(Def.)","Beach Name
+(Def.)","Station
+ID
+(Def.)","Station Name
+(Def.)","County
+Name
+(Def.)","Identifier
+(Def.)","Start
+Date
+(Def.)","Start
+Time
+(Def.)","Zone
+Code
+(Def.)","Activity
+Type
+Code
+(Def.)","Characteristic
+Name
+(Def.)","Result Value
+Text
+(Def.)","Result
+Value
+(Def.)","Result
+Measure
+Unit","Result Comment
+(Def.)","Activity
+Depth
+Value
+(Def.)","Activity
+Depth
+Unit
+Code
+(Def.)","Result
+Analytical
+Method
+Identifier
+Context
+(Def.)","Result
+Analytical
+Method
+Identifier
+(Def.)","Result
+Analytical
+Method
+Name
+(Def.)","Sample Collection
+Method Identifier
+(Def.)","Sample Collection
+Method Name
+(Def.)","Field Gear
+(Def.)","Analysis
+Date
+Time
+(Def.)","Detection
+Quantitation
+Limit
+(Def.)"
+SC618136,MYRTLE BEACH CITY OF,WAC-015A,WAC-015A,HORRY,E22-2068,19-Dec-22,11:47:00 AM,EDT,Sample-Routine,Enterococcus,-,20,MPN/100mL,-,-,-,APHA,9230-B,"9230 B ~ Fecal Streptococcus and Enterococcus Groups, Multiple Tube Technique",Sample-Routine,Sample-Routine,Water Bottle,-,Water Quality Standard or Criteria~10~MPN/100mL
+SC618136,MYRTLE BEACH CITY OF,WAC-016,WAC-016,HORRY,E22-2067,19-Dec-22,11:35:00 AM,EDT,Sample-Routine,Enterococcus,Present Below Quantification Limit,-,-,-,-,-,APHA,9230-B,"9230 B ~ Fecal Streptococcus and Enterococcus Groups, Multiple Tube Technique",Sample-Routine,Sample-Routine,Water Bottle,-,Water Quality Standard or Criteria~10~MPN/100mL
+SC618136,MYRTLE BEACH CITY OF,WAC-016A,WAC-016A,HORRY,E22-2066,19-Dec-22,11:23:00 AM,EDT,Sample-Routine,Enterococcus,-,30,MPN/100mL,-,-,-,APHA,9230-B,"9230 B ~ Fecal Streptococcus and Enterococcus Groups, Multiple Tube Technique",Sample-Routine,Sample-Routine,Water Bottle,-,Water Quality Standard or Criteria~10~MPN/100mL
+SC618136,MYRTLE BEACH CITY OF,WAC-017,WAC-017,HORRY,E22-2065,19-Dec-22,11:12:00 AM,EDT,Sample-Routine,Enterococcus,-,52,MPN/100mL,-,-,-,APHA,9230-B,"9230 B ~ Fecal Streptococcus and Enterococcus Groups, Multiple Tube Technique",Sample-Routine,Sample-Routine,Water Bottle,-,Water Quality Standard or Criteria~10~MPN/100mL
+SC618136,MYRTLE BEACH CITY OF,WAC-017A,WAC-017A,HORRY,E22-2064,19-Dec-22,11:03:00 AM,EDT,Sample-Routine,Enterococcus,-,20,MPN/100mL,-,-,-,APHA,9230-B,"9230 B ~ Fecal Streptococcus and Enterococcus Groups, Multiple Tube Technique",Sample-Routine,Sample-Routine,Water Bottle,-,Water Quality Standard or Criteria~10~MPN/100mL
+SC618136,MYRTLE BEACH CITY OF,WAC-018,WAC-018,HORRY,E22-2063,19-Dec-22,10:50:00 AM,EDT,Sample-Routine,Enterococcus,Present Below Quantification Limit,-,-,-,-,-,APHA,9230-B,"9230 B ~ Fecal Streptococcus and Enterococcus Groups, Multiple Tube Technique",Sample-Routine,Sample-Routine,Water Bottle,-,Water Quality Standard or Criteria~10~MPN/100mL
+SC618136,MYRTLE BEACH CITY OF,WAC-019,WAC-019,HORRY,E22-2062,19-Dec-22,10:41:00 AM,EDT,Sample-Routine,Enterococcus,Present Below Quantification Limit,-,-,-,-,-,APHA,9230-B,"9230 B ~ Fecal Streptococcus and Enterococcus Groups, Multiple Tube Technique",Sample-Routine,Sample-Routine,Water Bottle,-,Water Quality Standard or Criteria~10~MPN/100mL
+SC618136,MYRTLE BEACH CITY OF,WAC-020,WAC-020,HORRY,E22-2060,19-Dec-22,10:31:00 AM,EDT,Sample-Routine,Enterococcus,Present Below Quantification Limit,-,-,-,-,-,APHA,9230-B,"9230 B ~ Fecal Streptococcus and Enterococcus Groups, Multiple Tube Technique",Sample-Routine,Sample-Routine,Water Bottle,-,Water Quality Standard or Criteria~10~MPN/100mL
+SC618136,MYRTLE BEACH CITY OF,WAC-021,WAC-021,HORRY,E22-2059,19-Dec-22,10:12:00 AM,EDT,Sample-Routine,Enterococcus,-,20,MPN/100mL,-,-,-,APHA,9230-B,"9230 B ~ Fecal Streptococcus and Enterococcus Groups, Multiple Tube Technique",Sample-Routine,Sample-Routine,Water Bottle,-,Water Quality Standard or Criteria~10~MPN/100mL
+SC618136,MYRTLE BEACH CITY OF,WAC-022A,WAC-022A,HORRY,E22-2058,19-Dec-22,10:03:00 AM,EDT,Sample-Routine,Enterococcus,-,10,MPN/100mL,-,-,-,APHA,9230-B,"9230 B ~ Fecal Streptococcus and Enterococcus Groups, Multiple Tube Technique",Sample-Routine,Sample-Routine,Water Bottle,-,Water Quality Standard or Criteria~10~MPN/100mL
+SC618136,MYRTLE BEACH CITY OF,WAC-023,WAC-023,HORRY,E22-2057,19-Dec-22,9:54:00 AM,EDT,Sample-Routine,Enterococcus,-,20,MPN/100mL,-,-,-,APHA,9230-B,"9230 B ~ Fecal Streptococcus and Enterococcus Groups, Multiple Tube Technique",Sample-Routine,Sample-Routine,Water Bottle,-,Water Quality Standard or Criteria~10~MPN/100mL
+SC618136,MYRTLE BEACH CITY OF,WAC-024,WAC-024,HORRY,E22-2056,19-Dec-22,9:45:00 AM,EDT,Sample-Routine,Enterococcus,-,31,MPN/100mL,-,-,-,APHA,9230-B,"9230 B ~ Fecal Streptococcus and Enterococcus Groups, Multiple Tube Technique",Sample-Routine,Sample-Routine,Water Bottle,-,Water Quality Standard or Criteria~10~MPN/100mL
+SC618136,MYRTLE BEACH CITY OF,WAC-025A,WAC-025A,HORRY,E22-2055,19-Dec-22,9:36:00 AM,EDT,Sample-Routine,Enterococcus,-,10,MPN/100mL,-,-,-,APHA,9230-B,"9230 B ~ Fecal Streptococcus and Enterococcus Groups, Multiple Tube Technique",Sample-Routine,Sample-Routine,Water Bottle,-,Water Quality Standard or Criteria~10~MPN/100mL
+SC618136,MYRTLE BEACH CITY OF,WAC-015A,WAC-015A,HORRY,E22-2027,12-Dec-22,11:17:00 AM,EDT,Sample-Routine,Enterococcus,Present Below Quantification Limit,-,-,-,-,-,APHA,9230-B,"9230 B ~ Fecal Streptococcus and Enterococcus Groups, Multiple Tube Technique",Sample-Routine,Sample-Routine,Water Bottle,-,Water Quality Standard or Criteria~10~MPN/100mL
+SC618136,MYRTLE BEACH CITY OF,WAC-016,WAC-016,HORRY,E22-2026,12-Dec-22,11:07:00 AM,EDT,Sample-Routine,Enterococcus,Present Below Quantification Limit,-,-,-,-,-,APHA,9230-B,"9230 B ~ Fecal Streptococcus and Enterococcus Groups, Multiple Tube Technique",Sample-Routine,Sample-Routine,Water Bottle,-,Water Quality Standard or Criteria~10~MPN/100mL
+SC618136,MYRTLE BEACH CITY OF,WAC-016A,WAC-016A,HORRY,E22-2025,12-Dec-22,10:53:00 AM,EDT,Sample-Routine,Enterococcus,-,10,MPN/100mL,-,-,-,APHA,9230-B,"9230 B ~ Fecal Streptococcus and Enterococcus Groups, Multiple Tube Technique",Sample-Routine,Sample-Routine,Water Bottle,-,Water Quality Standard or Criteria~10~MPN/100mL
+SC618136,MYRTLE BEACH CITY OF,WAC-017,WAC-017,HORRY,E22-2024,12-Dec-22,10:47:00 AM,EDT,Sample-Routine,Enterococcus,-,31,MPN/100mL,-,-,-,APHA,9230-B,"9230 B ~ Fecal Streptococcus and Enterococcus Groups, Multiple Tube Technique",Sample-Routine,Sample-Routine,Water Bottle,-,Water Quality Standard or Criteria~10~MPN/100mL
+SC618136,MYRTLE BEACH CITY OF,WAC-017A,WAC-017A,HORRY,E22-2022,12-Dec-22,10:36:00 AM,EDT,Sample-Routine,Enterococcus,Present Below Quantification Limit,-,-,-,-,-,APHA,9230-B,"9230 B ~ Fecal Streptococcus and Enterococcus Groups, Multiple Tube Technique",Sample-Routine,Sample-Routine,Water Bottle,-,Water Quality Standard or Criteria~10~MPN/100mL
+SC618136,MYRTLE BEACH CITY OF,WAC-018,WAC-018,HORRY,E22-2021,12-Dec-22,10:19:00 AM,EDT,Sample-Routine,Enterococcus,-,31,MPN/100mL,-,-,-,APHA,9230-B,"9230 B ~ Fecal Streptococcus and Enterococcus Groups, Multiple Tube Technique",Sample-Routine,Sample-Routine,Water Bottle,-,Water Quality Standard or Criteria~10~MPN/100mL
+SC618136,MYRTLE BEACH CITY OF,WAC-019,WAC-019,HORRY,E22-2020,12-Dec-22,10:11:00 AM,EDT,Sample-Routine,Enterococcus,-,52,MPN/100mL,-,-,-,APHA,9230-B,"9230 B ~ Fecal Streptococcus and Enterococcus Groups, Multiple Tube Technique",Sample-Routine,Sample-Routine,Water Bottle,-,Water Quality Standard or Criteria~10~MPN/100mL
+SC618136,MYRTLE BEACH CITY OF,WAC-020,WAC-020,HORRY,E22-2019,12-Dec-22,10:02:00 AM,EDT,Sample-Routine,Enterococcus,-,74,MPN/100mL,-,-,-,APHA,9230-B,"9230 B ~ Fecal Streptococcus and Enterococcus Groups, Multiple Tube Technique",Sample-Routine,Sample-Routine,Water Bottle,-,Water Quality Standard or Criteria~10~MPN/100mL
+SC618136,MYRTLE BEACH CITY OF,WAC-021,WAC-021,HORRY,E22-2018,12-Dec-22,9:42:00 AM,EDT,Sample-Routine,Enterococcus,-,31,MPN/100mL,-,-,-,APHA,9230-B,"9230 B ~ Fecal Streptococcus and Enterococcus Groups, Multiple Tube Technique",Sample-Routine,Sample-Routine,Water Bottle,-,Water Quality Standard or Criteria~10~MPN/100mL
+SC618136,MYRTLE BEACH CITY OF,WAC-022A,WAC-022A,HORRY,E22-2017,12-Dec-22,9:35:00 AM,EDT,Sample-Routine,Enterococcus,-,41,MPN/100mL,-,-,-,APHA,9230-B,"9230 B ~ Fecal Streptococcus and Enterococcus Groups, Multiple Tube Technique",Sample-Routine,Sample-Routine,Water Bottle,-,Water Quality Standard or Criteria~10~MPN/100mL
+SC618136,MYRTLE BEACH CITY OF,WAC-023,WAC-023,HORRY,E22-2016,12-Dec-22,9:27:00 AM,EDT,Sample-Routine,Enterococcus,-,20,MPN/100mL,-,-,-,APHA,9230-B,"9230 B ~ Fecal Streptococcus and Enterococcus Groups, Multiple Tube Technique",Sample-Routine,Sample-Routine,Water Bottle,-,Water Quality Standard or Criteria~10~MPN/100mL
+SC618136,MYRTLE BEACH CITY OF,WAC-024,WAC-024,HORRY,E22-2015,12-Dec-22,9:19:00 AM,EDT,Sample-Routine,Enterococcus,-,20,MPN/100mL,-,-,-,APHA,9230-B,"9230 B ~ Fecal Streptococcus and Enterococcus Groups, Multiple Tube Technique",Sample-Routine,Sample-Routine,Water Bottle,-,Water Quality Standard or Criteria~10~MPN/100mL
+SC618136,MYRTLE BEACH CITY OF,WAC-025A,WAC-025A,HORRY,E22-2014,12-Dec-22,9:09:00 AM,EDT,Sample-Routine,Enterococcus,-,20,MPN/100mL,-,-,-,APHA,9230-B,"9230 B ~ Fecal Streptococcus and Enterococcus Groups, Multiple Tube Technique",Sample-Routine,Sample-Routine,Water Bottle,-,Water Quality Standard or Criteria~10~MPN/100mL
+SC618136,MYRTLE BEACH CITY OF,WAC-015A,WAC-015A,HORRY,E22-1992,05-Dec-22,11:50:00 AM,EDT,Sample-Routine,Enterococcus,-,10,MPN/100mL,-,-,-,APHA,9230-B,"9230 B ~ Fecal Streptococcus and Enterococcus Groups, Multiple Tube Technique",Sample-Routine,Sample-Routine,Water Bottle,-,Water Quality Standard or Criteria~10~MPN/100mL
+SC618136,MYRTLE BEACH CITY OF,WAC-016,WAC-016,HORRY,E22-1991,05-Dec-22,11:36:00 AM,EDT,Sample-Routine,Enterococcus,-,20,MPN/100mL,-,-,-,APHA,9230-B,"9230 B ~ Fecal Streptococcus and Enterococcus Groups, Multiple Tube Technique",Sample-Routine,Sample-Routine,Water Bottle,-,Water Quality Standard or Criteria~10~MPN/100mL
+SC618136,MYRTLE BEACH CITY OF,WAC-016A,WAC-016A,HORRY,E22-1990,05-Dec-22,11:24:00 AM,EDT,Sample-Routine,Enterococcus,-,20,MPN/100mL,-,-,-,APHA,9230-B,"9230 B ~ Fecal Streptococcus and Enterococcus Groups, Multiple Tube Technique",Sample-Routine,Sample-Routine,Water Bottle,-,Water Quality Standard or Criteria~10~MPN/100mL
+SC618136,MYRTLE BEACH CITY OF,WAC-017,WAC-017,HORRY,E22-1989,05-Dec-22,11:15:00 AM,EDT,Sample-Routine,Enterococcus,-,10,MPN/100mL,-,-,-,APHA,9230-B,"9230 B ~ Fecal Streptococcus and Enterococcus Groups, Multiple Tube Technique",Sample-Routine,Sample-Routine,Water Bottle,-,Water Quality Standard or Criteria~10~MPN/100mL
+SC618136,MYRTLE BEACH CITY OF,WAC-017A,WAC-017A,HORRY,E22-1988,05-Dec-22,11:05:00 AM,EDT,Sample-Routine,Enterococcus,-,30,MPN/100mL,-,-,-,APHA,9230-B,"9230 B ~ Fecal Streptococcus and Enterococcus Groups, Multiple Tube Technique",Sample-Routine,Sample-Routine,Water Bottle,-,Water Quality Standard or Criteria~10~MPN/100mL
+SC618136,MYRTLE BEACH CITY OF,WAC-018,WAC-018,HORRY,E22-1987,05-Dec-22,10:51:00 AM,EDT,Sample-Routine,Enterococcus,-,10,MPN/100mL,-,-,-,APHA,9230-B,"9230 B ~ Fecal Streptococcus and Enterococcus Groups, Multiple Tube Technique",Sample-Routine,Sample-Routine,Water Bottle,-,Water Quality Standard or Criteria~10~MPN/100mL
+SC618136,MYRTLE BEACH CITY OF,WAC-019,WAC-019,HORRY,E22-1986,05-Dec-22,10:39:00 AM,EDT,Sample-Routine,Enterococcus,-,10,MPN/100mL,-,-,-,APHA,9230-B,"9230 B ~ Fecal Streptococcus and Enterococcus Groups, Multiple Tube Technique",Sample-Routine,Sample-Routine,Water Bottle,-,Water Quality Standard or Criteria~10~MPN/100mL
+SC618136,MYRTLE BEACH CITY OF,WAC-020,WAC-020,HORRY,E22-1985,05-Dec-22,10:28:00 AM,EDT,Sample-Routine,Enterococcus,-,10,MPN/100mL,-,-,-,APHA,9230-B,"9230 B ~ Fecal Streptococcus and Enterococcus Groups, Multiple Tube Technique",Sample-Routine,Sample-Routine,Water Bottle,-,Water Quality Standard or Criteria~10~MPN/100mL
+SC618136,MYRTLE BEACH CITY OF,WAC-021,WAC-021,HORRY,E22-1984,05-Dec-22,10:06:00 AM,EDT,Sample-Routine,Enterococcus,-,75,MPN/100mL,-,-,-,APHA,9230-B,"9230 B ~ Fecal Streptococcus and Enterococcus Groups, Multiple Tube Technique",Sample-Routine,Sample-Routine,Water Bottle,-,Water Quality Standard or Criteria~10~MPN/100mL
+SC618136,MYRTLE BEACH CITY OF,WAC-022A,WAC-022A,HORRY,E22-1982,05-Dec-22,9:57:00 AM,EDT,Sample-Routine,Enterococcus,-,246,MPN/100mL,-,-,-,APHA,9230-B,"9230 B ~ Fecal Streptococcus and Enterococcus Groups, Multiple Tube Technique",Sample-Routine,Sample-Routine,Water Bottle,-,Water Quality Standard or Criteria~10~MPN/100mL
+SC618136,MYRTLE BEACH CITY OF,WAC-023,WAC-023,HORRY,E22-1981,05-Dec-22,9:48:00 AM,EDT,Sample-Routine,Enterococcus,-,243,MPN/100mL,-,-,-,APHA,9230-B,"9230 B ~ Fecal Streptococcus and Enterococcus Groups, Multiple Tube Technique",Sample-Routine,Sample-Routine,Water Bottle,-,Water Quality Standard or Criteria~10~MPN/100mL
+SC618136,MYRTLE BEACH CITY OF,WAC-024,WAC-024,HORRY,E22-1980,05-Dec-22,9:40:00 AM,EDT,Sample-Routine,Enterococcus,-,109,MPN/100mL,-,-,-,APHA,9230-B,"9230 B ~ Fecal Streptococcus and Enterococcus Groups, Multiple Tube Technique",Sample-Routine,Sample-Routine,Water Bottle,-,Water Quality Standard or Criteria~10~MPN/100mL
+SC618136,MYRTLE BEACH CITY OF,WAC-025A,WAC-025A,HORRY,E22-1979,05-Dec-22,9:30:00 AM,EDT,Sample-Routine,Enterococcus,-,10,MPN/100mL,-,-,-,APHA,9230-B,"9230 B ~ Fecal Streptococcus and Enterococcus Groups, Multiple Tube Technique",Sample-Routine,Sample-Routine,Water Bottle,-,Water Quality Standard or Criteria~10~MPN/100mL
+SC618136,MYRTLE BEACH CITY OF,WAC-015A,WAC-015A,HORRY,E22-1951,28-Nov-22,11:06:00 AM,EDT,Sample-Routine,Enterococcus,-,20,MPN/100mL,-,-,-,APHA,9230-B,"9230 B ~ Fecal Streptococcus and Enterococcus Groups, Multiple Tube Technique",Sample-Routine,Sample-Routine,Water Bottle,-,Water Quality Standard or Criteria~10~MPN/100mL
+SC618136,MYRTLE BEACH CITY OF,WAC-016,WAC-016,HORRY,E22-1950,28-Nov-22,10:54:00 AM,EDT,Sample-Routine,Enterococcus,-,10,MPN/100mL,-,-,-,APHA,9230-B,"9230 B ~ Fecal Streptococcus and Enterococcus Groups, Multiple Tube Technique",Sample-Routine,Sample-Routine,Water Bottle,-,Water Quality Standard or Criteria~10~MPN/100mL
+SC618136,MYRTLE BEACH CITY OF,WAC-016A,WAC-016A,HORRY,E22-1949,28-Nov-22,10:43:00 AM,EDT,Sample-Routine,Enterococcus,-,31,MPN/100mL,-,-,-,APHA,9230-B,"9230 B ~ Fecal Streptococcus and Enterococcus Groups, Multiple Tube Technique",Sample-Routine,Sample-Routine,Water Bottle,-,Water Quality Standard or Criteria~10~MPN/100mL
+SC618136,MYRTLE BEACH CITY OF,WAC-017,WAC-017,HORRY,E22-1948,28-Nov-22,10:37:00 AM,EDT,Sample-Routine,Enterococcus,-,20,MPN/100mL,-,-,-,APHA,9230-B,"9230 B ~ Fecal Streptococcus and Enterococcus Groups, Multiple Tube Technique",Sample-Routine,Sample-Routine,Water Bottle,-,Water Quality Standard or Criteria~10~MPN/100mL
+SC618136,MYRTLE BEACH CITY OF,WAC-017A,WAC-017A,HORRY,E22-1947,28-Nov-22,10:31:00 AM,EDT,Sample-Routine,Enterococcus,-,84,MPN/100mL,-,-,-,APHA,9230-B,"9230 B ~ Fecal Streptococcus and Enterococcus Groups, Multiple Tube Technique",Sample-Routine,Sample-Routine,Water Bottle,-,Water Quality Standard or Criteria~10~MPN/100mL
+SC618136,MYRTLE BEACH CITY OF,WAC-018,WAC-018,HORRY,E22-1946,28-Nov-22,10:19:00 AM,EDT,Sample-Routine,Enterococcus,-,31,MPN/100mL,-,-,-,APHA,9230-B,"9230 B ~ Fecal Streptococcus and Enterococcus Groups, Multiple Tube Technique",Sample-Routine,Sample-Routine,Water Bottle,-,Water Quality Standard or Criteria~10~MPN/100mL
+SC618136,MYRTLE BEACH CITY OF,WAC-019,WAC-019,HORRY,E22-1945,28-Nov-22,10:09:00 AM,EDT,Sample-Routine,Enterococcus,-,119,MPN/100mL,-,-,-,APHA,9230-B,"9230 B ~ Fecal Streptococcus and Enterococcus Groups, Multiple Tube Technique",Sample-Routine,Sample-Routine,Water Bottle,-,Water Quality Standard or Criteria~10~MPN/100mL
+SC618136,MYRTLE BEACH CITY OF,WAC-020,WAC-020,HORRY,E22-1944,28-Nov-22,10:00:00 AM,EDT,Sample-Routine,Enterococcus,-,201,MPN/100mL,-,-,-,APHA,9230-B,"9230 B ~ Fecal Streptococcus and Enterococcus Groups, Multiple Tube Technique",Sample-Routine,Sample-Routine,Water Bottle,-,Water Quality Standard or Criteria~10~MPN/100mL
+SC618136,MYRTLE BEACH CITY OF,WAC-021,WAC-021,HORRY,E22-1943,28-Nov-22,9:38:00 AM,EDT,Sample-Routine,Enterococcus,-,496,MPN/100mL,-,-,-,APHA,9230-B,"9230 B ~ Fecal Streptococcus and Enterococcus Groups, Multiple Tube Technique",Sample-Routine,Sample-Routine,Water Bottle,-,Water Quality Standard or Criteria~10~MPN/100mL
+SC618136,MYRTLE BEACH CITY OF,WAC-022A,WAC-022A,HORRY,E22-1942,28-Nov-22,9:30:00 AM,EDT,Sample-Routine,Enterococcus,-,305,MPN/100mL,-,-,-,APHA,9230-B,"9230 B ~ Fecal Streptococcus and Enterococcus Groups, Multiple Tube Technique",Sample-Routine,Sample-Routine,Water Bottle,-,Water Quality Standard or Criteria~10~MPN/100mL
+SC618136,MYRTLE BEACH CITY OF,WAC-023,WAC-023,HORRY,E22-1941,28-Nov-22,9:20:00 AM,EDT,Sample-Routine,Enterococcus,-,465,MPN/100mL,-,-,-,APHA,9230-B,"9230 B ~ Fecal Streptococcus and Enterococcus Groups, Multiple Tube Technique",Sample-Routine,Sample-Routine,Water Bottle,-,Water Quality Standard or Criteria~10~MPN/100mL

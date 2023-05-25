@@ -1,0 +1,108 @@
+"Beach ID
+(Def.)","Beach Name
+(Def.)","Station
+ID
+(Def.)","Station Name
+(Def.)","County
+Name
+(Def.)","Identifier
+(Def.)","Start
+Date
+(Def.)","Start
+Time
+(Def.)","Zone
+Code
+(Def.)","Activity
+Type
+Code
+(Def.)","Characteristic
+Name
+(Def.)","Result Value
+Text
+(Def.)","Result
+Value
+(Def.)","Result
+Measure
+Unit","Result Comment
+(Def.)","Activity
+Depth
+Value
+(Def.)","Activity
+Depth
+Unit
+Code
+(Def.)","Result
+Analytical
+Method
+Identifier
+Context
+(Def.)","Result
+Analytical
+Method
+Identifier
+(Def.)","Result
+Analytical
+Method
+Name
+(Def.)","Sample Collection
+Method Identifier
+(Def.)","Sample Collection
+Method Name
+(Def.)","Field Gear
+(Def.)","Analysis
+Date
+Time
+(Def.)","Detection
+Quantitation
+Limit
+(Def.)"
+NY555335,SOUTH BEACH,NY555335-03,SOUTH BEACH - RIGHT,RICHMOND,2022120778,06-Sep-22,-,-,Sample-Routine,Enterococcus,-,120,MPN,-,3,ft,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,routine,SEE NYS QAPP,Water Bottle,-,-
+NY555335,SOUTH BEACH,NY555335-02,SOUTH BEACH - LEFT,RICHMOND,2022120777,06-Sep-22,-,-,Sample-Routine,Enterococcus,-,41,MPN,-,3,ft,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,routine,SEE NYS QAPP,Water Bottle,-,-
+NY555335,SOUTH BEACH,NY555335-01,SOUTH BEACH,RICHMOND,2022120776,06-Sep-22,-,-,Sample-Routine,Enterococcus,-,41,MPN,-,3,ft,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,routine,SEE NYS QAPP,Water Bottle,-,-
+NY555335,SOUTH BEACH,NY555335-03,SOUTH BEACH - RIGHT,RICHMOND,2022120438,29-Aug-22,-,-,Sample-Routine,Enterococcus,-,53,MPN,-,3,ft,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,routine,SEE NYS QAPP,Water Bottle,-,-
+NY555335,SOUTH BEACH,NY555335-02,SOUTH BEACH - LEFT,RICHMOND,2022120437,29-Aug-22,-,-,Sample-Routine,Enterococcus,-,10,MPN,-,3,ft,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,routine,SEE NYS QAPP,Water Bottle,-,-
+NY555335,SOUTH BEACH,NY555335-01,SOUTH BEACH,RICHMOND,2022120436,29-Aug-22,-,-,Sample-Routine,Enterococcus,-,10,MPN,-,3,ft,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,routine,SEE NYS QAPP,Water Bottle,-,-
+NY555335,SOUTH BEACH,NY555335-03,SOUTH BEACH - RIGHT,RICHMOND,2022120159,22-Aug-22,-,-,Sample-Routine,Enterococcus,-,20,MPN,-,3,ft,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,routine,SEE NYS QAPP,Water Bottle,-,-
+NY555335,SOUTH BEACH,NY555335-02,SOUTH BEACH - LEFT,RICHMOND,2022120158,22-Aug-22,-,-,Sample-Routine,Enterococcus,-,10,MPN,-,3,ft,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,routine,SEE NYS QAPP,Water Bottle,-,-
+NY555335,SOUTH BEACH,NY555335-01,SOUTH BEACH,RICHMOND,2022120157,22-Aug-22,-,-,Sample-Routine,Enterococcus,-,10,MPN,-,3,ft,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,routine,SEE NYS QAPP,Water Bottle,-,-
+NY555335,SOUTH BEACH,NY555335-03,SOUTH BEACH - RIGHT,RICHMOND,2022119360,15-Aug-22,-,-,Sample-Routine,Enterococcus,-,20,MPN,-,3,ft,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,routine,SEE NYS QAPP,Water Bottle,-,-
+NY555335,SOUTH BEACH,NY555335-02,SOUTH BEACH - LEFT,RICHMOND,2022119359,15-Aug-22,-,-,Sample-Routine,Enterococcus,Present Below Quantification Limit,-,-,-,3,ft,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,routine,SEE NYS QAPP,Water Bottle,-,Lower Quantitation Limit~10.0~MPN
+NY555335,SOUTH BEACH,NY555335-01,SOUTH BEACH,RICHMOND,2022119358,15-Aug-22,-,-,Sample-Routine,Enterococcus,Present Below Quantification Limit,-,-,-,3,ft,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,routine,SEE NYS QAPP,Water Bottle,-,Lower Quantitation Limit~10.0~MPN
+NY555335,SOUTH BEACH,NY555335-03,SOUTH BEACH - RIGHT,RICHMOND,2022118902,08-Aug-22,-,-,Sample-Routine,Enterococcus,Present Below Quantification Limit,-,-,-,3,ft,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,routine,SEE NYS QAPP,Water Bottle,-,Lower Quantitation Limit~10.0~MPN
+NY555335,SOUTH BEACH,NY555335-02,SOUTH BEACH - LEFT,RICHMOND,2022118901,08-Aug-22,-,-,Sample-Routine,Enterococcus,Present Below Quantification Limit,-,-,-,3,ft,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,routine,SEE NYS QAPP,Water Bottle,-,Lower Quantitation Limit~10.0~MPN
+NY555335,SOUTH BEACH,NY555335-01,SOUTH BEACH,RICHMOND,2022118900,08-Aug-22,-,-,Sample-Routine,Enterococcus,Present Below Quantification Limit,-,-,-,3,ft,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,routine,SEE NYS QAPP,Water Bottle,-,Lower Quantitation Limit~10.0~MPN
+NY555335,SOUTH BEACH,NY555335-03,SOUTH BEACH - RIGHT,RICHMOND,2022118543,01-Aug-22,-,-,Sample-Routine,Enterococcus,-,52,MPN,-,3,ft,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,routine,SEE NYS QAPP,Water Bottle,-,-
+NY555335,SOUTH BEACH,NY555335-02,SOUTH BEACH - LEFT,RICHMOND,2022118542,01-Aug-22,-,-,Sample-Routine,Enterococcus,-,31,MPN,-,3,ft,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,routine,SEE NYS QAPP,Water Bottle,-,-
+NY555335,SOUTH BEACH,NY555335-01,SOUTH BEACH,RICHMOND,2022118541,01-Aug-22,-,-,Sample-Routine,Enterococcus,-,10,MPN,-,3,ft,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,routine,SEE NYS QAPP,Water Bottle,-,-
+NY555335,SOUTH BEACH,NY555335-03,SOUTH BEACH - RIGHT,RICHMOND,2022118054,25-Jul-22,-,-,Sample-Routine,Enterococcus,-,10,MPN,-,3,ft,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,routine,SEE NYS QAPP,Water Bottle,-,-
+NY555335,SOUTH BEACH,NY555335-02,SOUTH BEACH - LEFT,RICHMOND,2022118053,25-Jul-22,-,-,Sample-Routine,Enterococcus,-,10,MPN,-,3,ft,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,routine,SEE NYS QAPP,Water Bottle,-,-
+NY555335,SOUTH BEACH,NY555335-01,SOUTH BEACH,RICHMOND,2022118052,25-Jul-22,-,-,Sample-Routine,Enterococcus,-,31,MPN,-,3,ft,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,routine,SEE NYS QAPP,Water Bottle,-,-
+NY555335,SOUTH BEACH,NY555335-03,SOUTH BEACH - RIGHT,RICHMOND,2022117640,18-Jul-22,-,-,Sample-Routine,Enterococcus,-,10,MPN,-,3,ft,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,routine,SEE NYS QAPP,Water Bottle,-,-
+NY555335,SOUTH BEACH,NY555335-02,SOUTH BEACH - LEFT,RICHMOND,2022117639,18-Jul-22,-,-,Sample-Routine,Enterococcus,Present Below Quantification Limit,-,-,-,3,ft,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,routine,SEE NYS QAPP,Water Bottle,-,Lower Quantitation Limit~10.0~MPN
+NY555335,SOUTH BEACH,NY555335-01,SOUTH BEACH,RICHMOND,2022117638,18-Jul-22,-,-,Sample-Routine,Enterococcus,-,10,MPN,-,3,ft,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,routine,SEE NYS QAPP,Water Bottle,-,-
+NY555335,SOUTH BEACH,NY555335-03,SOUTH BEACH - RIGHT,RICHMOND,2022117096,11-Jul-22,-,-,Sample-Routine,Enterococcus,-,20,MPN,-,3,ft,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,routine,SEE NYS QAPP,Water Bottle,-,-
+NY555335,SOUTH BEACH,NY555335-02,SOUTH BEACH - LEFT,RICHMOND,2022117095,11-Jul-22,-,-,Sample-Routine,Enterococcus,Present Below Quantification Limit,-,-,-,3,ft,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,routine,SEE NYS QAPP,Water Bottle,-,Lower Quantitation Limit~10.0~MPN
+NY555335,SOUTH BEACH,NY555335-01,SOUTH BEACH,RICHMOND,2022117094,11-Jul-22,-,-,Sample-Routine,Enterococcus,-,10,MPN,-,3,ft,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,routine,SEE NYS QAPP,Water Bottle,-,-
+NY555335,SOUTH BEACH,NY555335-03,SOUTH BEACH - RIGHT,RICHMOND,2022116408,05-Jul-22,-,-,Sample-Routine,Enterococcus,Present Below Quantification Limit,-,-,-,3,ft,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,routine,SEE NYS QAPP,Water Bottle,-,Lower Quantitation Limit~10.0~MPN
+NY555335,SOUTH BEACH,NY555335-02,SOUTH BEACH - LEFT,RICHMOND,2022116407,05-Jul-22,-,-,Sample-Routine,Enterococcus,Present Below Quantification Limit,-,-,-,3,ft,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,routine,SEE NYS QAPP,Water Bottle,-,Lower Quantitation Limit~10.0~MPN
+NY555335,SOUTH BEACH,NY555335-01,SOUTH BEACH,RICHMOND,2022116406,05-Jul-22,-,-,Sample-Routine,Enterococcus,-,20,MPN,-,3,ft,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,routine,SEE NYS QAPP,Water Bottle,-,-
+NY555335,SOUTH BEACH,NY555335-03,SOUTH BEACH - RIGHT,RICHMOND,2022116075,27-Jun-22,-,-,Sample-Routine,Enterococcus,-,10,MPN,-,3,ft,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,routine,SEE NYS QAPP,Water Bottle,-,-
+NY555335,SOUTH BEACH,NY555335-02,SOUTH BEACH - LEFT,RICHMOND,2022116074,27-Jun-22,-,-,Sample-Routine,Enterococcus,Present Below Quantification Limit,-,-,-,3,ft,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,routine,SEE NYS QAPP,Water Bottle,-,Lower Quantitation Limit~10.0~MPN
+NY555335,SOUTH BEACH,NY555335-01,SOUTH BEACH,RICHMOND,2022116073,27-Jun-22,-,-,Sample-Routine,Enterococcus,-,41,MPN,-,3,ft,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,routine,SEE NYS QAPP,Water Bottle,-,-
+NY555335,SOUTH BEACH,NY555335-03,SOUTH BEACH - RIGHT,RICHMOND,2022115621,21-Jun-22,-,-,Sample-Routine,Enterococcus,Present Below Quantification Limit,-,-,-,3,ft,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,routine,SEE NYS QAPP,Water Bottle,-,Lower Quantitation Limit~10.0~MPN
+NY555335,SOUTH BEACH,NY555335-02,SOUTH BEACH - LEFT,RICHMOND,2022115620,21-Jun-22,-,-,Sample-Routine,Enterococcus,Present Below Quantification Limit,-,-,-,3,ft,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,routine,SEE NYS QAPP,Water Bottle,-,Lower Quantitation Limit~10.0~MPN
+NY555335,SOUTH BEACH,NY555335-01,SOUTH BEACH,RICHMOND,2022115619,21-Jun-22,-,-,Sample-Routine,Enterococcus,Present Below Quantification Limit,-,-,-,3,ft,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,routine,SEE NYS QAPP,Water Bottle,-,Lower Quantitation Limit~10.0~MPN
+NY555335,SOUTH BEACH,NY555335-03,SOUTH BEACH - RIGHT,RICHMOND,2022115126,13-Jun-22,-,-,Sample-Routine,Enterococcus,-,111,MPN,-,3,ft,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,routine,SEE NYS QAPP,Water Bottle,-,-
+NY555335,SOUTH BEACH,NY555335-02,SOUTH BEACH - LEFT,RICHMOND,2022115125,13-Jun-22,-,-,Sample-Routine,Enterococcus,-,124,MPN,-,3,ft,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,routine,SEE NYS QAPP,Water Bottle,-,-
+NY555335,SOUTH BEACH,NY555335-01,SOUTH BEACH,RICHMOND,2022115124,13-Jun-22,-,-,Sample-Routine,Enterococcus,-,75,MPN,-,3,ft,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,routine,SEE NYS QAPP,Water Bottle,-,-
+NY555335,SOUTH BEACH,NY555335-03,SOUTH BEACH - RIGHT,RICHMOND,2022114643,06-Jun-22,-,-,Sample-Routine,Enterococcus,-,20,MPN,-,3,ft,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,routine,SEE NYS QAPP,Water Bottle,-,-
+NY555335,SOUTH BEACH,NY555335-02,SOUTH BEACH - LEFT,RICHMOND,2022114642,06-Jun-22,-,-,Sample-Routine,Enterococcus,Present Below Quantification Limit,-,-,-,3,ft,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,routine,SEE NYS QAPP,Water Bottle,-,Lower Quantitation Limit~10.0~MPN
+NY555335,SOUTH BEACH,NY555335-01,SOUTH BEACH,RICHMOND,2022114641,06-Jun-22,-,-,Sample-Routine,Enterococcus,Present Below Quantification Limit,-,-,-,3,ft,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,routine,SEE NYS QAPP,Water Bottle,-,Lower Quantitation Limit~10.0~MPN
+NY555335,SOUTH BEACH,NY555335-03,SOUTH BEACH - RIGHT,RICHMOND,2022114413,31-May-22,-,-,Sample-Routine,Enterococcus,-,20,MPN,-,3,ft,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,routine,SEE NYS QAPP,Water Bottle,-,-
+NY555335,SOUTH BEACH,NY555335-02,SOUTH BEACH - LEFT,RICHMOND,2022114412,31-May-22,-,-,Sample-Routine,Enterococcus,Present Below Quantification Limit,-,-,-,3,ft,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,routine,SEE NYS QAPP,Water Bottle,-,Lower Quantitation Limit~10.0~MPN
+NY555335,SOUTH BEACH,NY555335-01,SOUTH BEACH,RICHMOND,2022114411,31-May-22,-,-,Sample-Routine,Enterococcus,Present Below Quantification Limit,-,-,-,3,ft,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,routine,SEE NYS QAPP,Water Bottle,-,Lower Quantitation Limit~10.0~MPN
+NY555335,SOUTH BEACH,NY555335-03,SOUTH BEACH - RIGHT,RICHMOND,2022114302,16-May-22,-,-,Sample-Routine,Enterococcus,-,10,MPN,-,3,ft,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,routine,SEE NYS QAPP,Water Bottle,-,-
+NY555335,SOUTH BEACH,NY555335-03,SOUTH BEACH - RIGHT,RICHMOND,2022114301,23-May-22,-,-,Sample-Routine,Enterococcus,Present Below Quantification Limit,-,-,-,3,ft,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,routine,SEE NYS QAPP,Water Bottle,-,Lower Quantitation Limit~10.0~MPN
+NY555335,SOUTH BEACH,NY555335-03,SOUTH BEACH - RIGHT,RICHMOND,2022114300,09-May-22,-,-,Sample-Routine,Enterococcus,-,42,MPN,-,3,ft,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,routine,SEE NYS QAPP,Water Bottle,-,-
+NY555335,SOUTH BEACH,NY555335-03,SOUTH BEACH - RIGHT,RICHMOND,2022114299,02-May-22,-,-,Sample-Routine,Enterococcus,-,10,MPN,-,3,ft,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,routine,SEE NYS QAPP,Water Bottle,-,-
+NY555335,SOUTH BEACH,NY555335-02,SOUTH BEACH - LEFT,RICHMOND,2022114298,02-May-22,-,-,Sample-Routine,Enterococcus,-,42,MPN,-,3,ft,IDEXX,ENTEROLERT,Enterolert Test Kit Procedure,routine,SEE NYS QAPP,Water Bottle,-,-
